@@ -1,1 +1,14 @@
+# Employee Data Cleaning Project
 
+This project demonstrates data cleaning techniques using Python and Pandas.\
+Cleaning Performed:
+- Removed duplicates
+- Handled missing values
+- Formatted salary and date columns
+- Standardized phone numbers
+- Split department and role columns
+
+Future Improvements:
+- Outlier detection
+- Text normalization
+- Cleaning summary report
