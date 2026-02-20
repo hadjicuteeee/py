@@ -1,0 +1,1021 @@
+Employee_ID,First_Name,Last_Name,Age,Department_Region,Status,Join_Date,Salary,Email,Performance_Score,Remote_Work,Phone_formatted,Salary_Formatted,Age_Formatted,Role,Department
+EMP1000,Bob,Davis,25,DevOps-California,Active,'2021-04-02',59767.65,bob.davis@gmail.com,Average,T,+1651623197,"USD 59,767.65",25,DevOps,California
+EMP1001,Bob,Brown,Missing,Finance-Texas,Active,'2020-07-10',65304.66,bob.brown@gmail.com,Excellent,T,+1898471390,"USD 65,304.66",30,Finance,Texas
+EMP1002,Alice,Jones,Missing,Admin-Nevada,Pending,'2023-12-07',88145.9,alice.jones@gmail.com,Good,T,+5596363211,"USD 88,145.90",30,Admin,Nevada
+EMP1003,Eva,Davis,25,Admin-Nevada,Inactive,'2021-11-27',69450.99,eva.davis@gmail.com,Good,T,+3476490784,"USD 69,450.99",25,Admin,Nevada
+EMP1004,Frank,Williams,25,Cloud Tech-Florida,Active,'2022-01-05',109324.61,frank.williams@gmail.com,Poor,F,+1586734256,"USD 109,324.61",25,Cloud Tech,Florida
+EMP1005,Alice,Garcia,40,Sales-Texas,Inactive,'2020-06-10',88642.84,alice.garcia@gmail.com,Good,F,+5409003485,"USD 88,642.84",40,Sales,Texas
+EMP1006,Frank,Jones,Missing,Admin-Nevada,Active,'2020-04-03',96288.43,frank.jones@gmail.com,Good,F,+4518376063,"USD 96,288.43",30,Admin,Nevada
+EMP1007,Bob,Jones,30,Cloud Tech-Florida,Inactive,'2022-07-17',94497.91,bob.jones@gmail.com,Average,T,+4134327559,"USD 94,497.91",30,Cloud Tech,Florida
+EMP1008,Frank,Davis,35,Admin-Nevada,Inactive,'2023-12-08',115565.82,frank.davis@gmail.com,Excellent,T,+4177656123,"USD 115,565.82",35,Admin,Nevada
+EMP1009,Charlie,Johnson,Missing,DevOps-New York,Active,'2022-08-04',76561.88,charlie.johnson@gmail.com,Excellent,T,+8156985699,"USD 76,561.88",30,DevOps,New York
+EMP1010,David,Williams,35,Cloud Tech-New York,Active,'2024-07-06',72081.71,david.williams@gmail.com,Average,F,+2720634590,"USD 72,081.71",35,Cloud Tech,New York
+EMP1011,David,Davis,Missing,DevOps-California,Active,'2023-09-04',84946.19,david.davis@gmail.com,Poor,T,+1238296576,"USD 84,946.19",30,DevOps,California
+EMP1012,Heidi,Williams,30,HR-New York,Active,'2024-03-05',89295.77,heidi.williams@gmail.com,Excellent,F,+2429543164,"USD 89,295.77",30,HR,New York
+EMP1013,Grace,Williams,Missing,Finance-California,Active,'2020-10-10',85666.84,grace.williams@gmail.com,Good,F,+2669300892,"USD 85,666.84",30,Finance,California
+EMP1014,Alice,Garcia,25,Admin-Nevada,Active,'2024-06-10',97633.68,alice.garcia@gmail.com,Excellent,T,+1734206968,"USD 97,633.68",25,Admin,Nevada
+EMP1015,Grace,Jones,40,Sales-Florida,Pending,'2021-05-29',117975.49,grace.jones@gmail.com,Good,T,+4215291085,"USD 117,975.49",40,Sales,Florida
+EMP1016,Alice,Brown,25,DevOps-Illinois,Inactive,'2024-04-23',94867.33,alice.brown@gmail.com,Poor,F,+7713334475,"USD 94,867.33",25,DevOps,Illinois
+EMP1017,Grace,Garcia,30,Finance-Texas,Pending,'2024-11-28',100377.65,grace.garcia@gmail.com,Average,T,+2639343625,"USD 100,377.65",30,Finance,Texas
+EMP1018,Charlie,Garcia,Missing,Cloud Tech-Nevada,Inactive,'2024-09-19',94726.46,charlie.garcia@gmail.com,Excellent,F,+2044397358,"USD 94,726.46",30,Cloud Tech,Nevada
+EMP1019,Charlie,Williams,35,Admin-Illinois,Pending,'2020-01-02',91926.12,charlie.williams@gmail.com,Average,T,+7107256365,"USD 91,926.12",35,Admin,Illinois
+EMP1020,Bob,Miller,35,HR-New York,Active,'2021-05-08',111460.67,bob.miller@gmail.com,Excellent,T,+9411800536,"USD 111,460.67",35,HR,New York
+EMP1021,Bob,Jones,40,Cloud Tech-Illinois,Active,'2020-09-19',96182.56,bob.jones@gmail.com,Good,F,+5990048963,"USD 96,182.56",40,Cloud Tech,Illinois
+EMP1022,Charlie,Johnson,35,Sales-Illinois,Inactive,'2021-03-09',115023.94,charlie.johnson@gmail.com,Average,T,+6528092427,"USD 115,023.94",35,Sales,Illinois
+EMP1023,David,Garcia,35,Finance-Nevada,Pending,'2022-02-03',80667.01,david.garcia@gmail.com,Excellent,F,+7572158623,"USD 80,667.01",35,Finance,Nevada
+EMP1024,Bob,Brown,30,Admin-Texas,Inactive,'2020-02-13',91181.61,bob.brown@gmail.com,Good,T,+1502745643,"USD 91,181.61",30,Admin,Texas
+EMP1025,David,Miller,25,Cloud Tech-Nevada,Pending,'2020-04-30',66025.92,david.miller@gmail.com,Average,F,+9485625727,"USD 66,025.92",25,Cloud Tech,Nevada
+EMP1026,Frank,Miller,25,Sales-New York,Inactive,'2023-10-02',83979.01,frank.miller@gmail.com,Average,F,+7032032073,"USD 83,979.01",25,Sales,New York
+EMP1027,Heidi,Johnson,30,Finance-Florida,Active,'2020-07-12',56785.16,heidi.johnson@gmail.com,Excellent,T,+2761707586,"USD 56,785.16",30,Finance,Florida
+EMP1028,Grace,Garcia,40,Finance-Nevada,Active,'2023-10-11',95741.88,grace.garcia@gmail.com,Excellent,F,+7712151341,"USD 95,741.88",40,Finance,Nevada
+EMP1029,Alice,Brown,40,DevOps-California,Active,'2021-05-24',63411.31,alice.brown@gmail.com,Excellent,T,+2849939088,"USD 63,411.31",40,DevOps,California
+EMP1030,Charlie,Jones,40,Admin-California,Inactive,'2021-05-26',111214.02,charlie.jones@gmail.com,Good,T,+2613715040,"USD 111,214.02",40,Admin,California
+EMP1031,Bob,Smith,25,DevOps-Illinois,Active,'2020-07-10',114845.69,bob.smith@gmail.com,Excellent,T,+6591520176,"USD 114,845.69",25,DevOps,Illinois
+EMP1032,Charlie,Brown,40,Finance-Florida,Active,'2024-11-05',78072.82,charlie.brown@gmail.com,Average,F,+7490509758,"USD 78,072.82",40,Finance,Florida
+EMP1033,Grace,Johnson,25,Finance-California,Inactive,'2021-08-07',79610.52,grace.johnson@gmail.com,Average,F,+2304501895,"USD 79,610.52",25,Finance,California
+EMP1034,Heidi,Miller,30,Admin-California,Active,'2020-04-29',90542.62,heidi.miller@gmail.com,Excellent,T,+1642361031,"USD 90,542.62",30,Admin,California
+EMP1035,Frank,Jones,25,Cloud Tech-Illinois,Inactive,'2022-10-26',114357.1,frank.jones@gmail.com,Excellent,T,+6642147648,"USD 114,357.10",25,Cloud Tech,Illinois
+EMP1036,Alice,Brown,Missing,Cloud Tech-New York,Active,'2023-05-03',54757.26,alice.brown@gmail.com,Poor,F,+2515837766,"USD 54,757.26",30,Cloud Tech,New York
+EMP1037,Grace,Smith,25,Sales-New York,Pending,'2023-05-02',52781.92,grace.smith@gmail.com,Average,T,+4996165925,"USD 52,781.92",25,Sales,New York
+EMP1038,Frank,Smith,35,Admin-Nevada,Pending,'2021-10-05',66708.02,frank.smith@gmail.com,Good,T,+6108573277,"USD 66,708.02",35,Admin,Nevada
+EMP1039,Eva,Williams,40,HR-Texas,Active,'2022-07-27',93481.15,eva.williams@gmail.com,Poor,F,+8147617421,"USD 93,481.15",40,HR,Texas
+EMP1040,Bob,Williams,25,Sales-New York,Pending,'2021-06-27',59271.96,bob.williams@gmail.com,Excellent,T,+4386490809,"USD 59,271.96",25,Sales,New York
+EMP1041,Bob,Davis,30,HR-California,Active,'2022-06-16',108362.15,bob.davis@gmail.com,Excellent,F,+8186617944,"USD 108,362.15",30,HR,California
+EMP1042,Alice,Johnson,Missing,HR-Nevada,Active,'2024-12-03',59400.38,alice.johnson@gmail.com,Average,T,+4918017225,"USD 59,400.38",30,HR,Nevada
+EMP1043,Bob,Garcia,Missing,Admin-California,Inactive,'2023-05-23',64744.08,bob.garcia@gmail.com,Excellent,F,+1164597793,"USD 64,744.08",30,Admin,California
+EMP1044,Eva,Brown,Missing,Finance-California,Active,'2020-07-08',94399.91,eva.brown@gmail.com,Good,T,+5232194167,"USD 94,399.91",30,Finance,California
+EMP1045,Alice,Brown,25,HR-New York,Pending,'2021-06-20',61310.74,alice.brown@gmail.com,Average,T,,"USD 61,310.74",25,HR,New York
+EMP1046,Grace,Garcia,Missing,Cloud Tech-Texas,Active,'2024-12-13',98371.37,grace.garcia@gmail.com,Excellent,F,+7499564121,"USD 98,371.37",30,Cloud Tech,Texas
+EMP1047,Alice,Davis,35,Sales-Illinois,Active,'2022-05-30',58921.19,alice.davis@gmail.com,Average,T,+1310303722,"USD 58,921.19",35,Sales,Illinois
+EMP1048,Alice,Miller,35,Admin-Nevada,Active,'2023-09-27',57195.55,alice.miller@gmail.com,Excellent,F,+6831472759,"USD 57,195.55",35,Admin,Nevada
+EMP1049,Grace,Miller,Missing,DevOps-New York,Active,'2024-11-05',61375.12,grace.miller@gmail.com,Excellent,T,+1227770792,"USD 61,375.12",30,DevOps,New York
+EMP1050,Charlie,Davis,40,Cloud Tech-New York,Pending,'2021-11-11',104767.05,charlie.davis@gmail.com,Excellent,F,+3496050165,"USD 104,767.05",40,Cloud Tech,New York
+EMP1051,David,Miller,35,Admin-Nevada,Active,'2022-02-22',111051.67,david.miller@gmail.com,Good,F,+7998407677,"USD 111,051.67",35,Admin,Nevada
+EMP1052,David,Williams,30,Finance-California,Inactive,'2024-08-07',105674.18,david.williams@gmail.com,Good,F,+9973080694,"USD 105,674.18",30,Finance,California
+EMP1053,Alice,Brown,30,Finance-California,Inactive,'2024-11-05',54859.45,alice.brown@gmail.com,Average,F,+8146717956,"USD 54,859.45",30,Finance,California
+EMP1054,Frank,Davis,Missing,Finance-Nevada,Pending,'2021-11-09',115746.6,frank.davis@gmail.com,Excellent,T,+6024375737,"USD 115,746.60",30,Finance,Nevada
+EMP1055,Eva,Brown,30,Sales-California,Active,'2020-08-10',91759.99,eva.brown@gmail.com,Excellent,T,+3959724664,"USD 91,759.99",30,Sales,California
+EMP1056,Frank,Garcia,40,Sales-Illinois,Active,'2022-02-27',112965.33,frank.garcia@gmail.com,Good,F,+7293417222,"USD 112,965.33",40,Sales,Illinois
+EMP1057,Alice,Smith,40,Cloud Tech-Illinois,Pending,'2023-11-07',100360.1,alice.smith@gmail.com,Excellent,F,+2971674337,"USD 100,360.10",40,Cloud Tech,Illinois
+EMP1058,David,Williams,35,Finance-Texas,Pending,'2021-11-07',93620.88,david.williams@gmail.com,Good,F,,"USD 93,620.88",35,Finance,Texas
+EMP1059,Bob,Jones,35,Sales-California,Pending,'2022-04-16',72832.8,bob.jones@gmail.com,Excellent,T,+5619318373,"USD 72,832.80",35,Sales,California
+EMP1060,Charlie,Williams,30,Finance-Nevada,Inactive,'2023-10-19',102369.42,charlie.williams@gmail.com,Average,T,+5508428909,"USD 102,369.42",30,Finance,Nevada
+EMP1061,Eva,Davis,40,Sales-Texas,Inactive,'2021-08-10',64712.79,eva.davis@gmail.com,Excellent,T,+7711991807,"USD 64,712.79",40,Sales,Texas
+EMP1062,Frank,Jones,40,Finance-Florida,Pending,'2021-03-13',85782.18,frank.jones@gmail.com,Excellent,T,+1213524786,"USD 85,782.18",40,Finance,Florida
+EMP1063,Charlie,Smith,25,HR-Illinois,Pending,'2023-07-20',93348.26,charlie.smith@gmail.com,Poor,F,+1255213759,"USD 93,348.26",25,HR,Illinois
+EMP1064,David,Davis,35,Admin-New York,Active,'2020-02-20',53234.96,david.davis@gmail.com,Good,F,+3754821455,"USD 53,234.96",35,Admin,New York
+EMP1065,Bob,Johnson,40,Finance-Nevada,Pending,'2021-02-02',100284.21,bob.johnson@gmail.com,Excellent,F,+5328632665,"USD 100,284.21",40,Finance,Nevada
+EMP1066,Grace,Brown,30,Admin-Nevada,Pending,'2020-01-12',112486.19,grace.brown@gmail.com,Excellent,T,+7850720810,"USD 112,486.19",30,Admin,Nevada
+EMP1067,Bob,Smith,40,Admin-New York,Pending,'2022-11-26',82518.49,bob.smith@gmail.com,Poor,T,+5562606028,"USD 82,518.49",40,Admin,New York
+EMP1068,Bob,Brown,40,Admin-Florida,Pending,'2022-12-23',119152.47,bob.brown@gmail.com,Poor,T,+1846684549,"USD 119,152.47",40,Admin,Florida
+EMP1069,Heidi,Miller,Missing,DevOps-Illinois,Inactive,'2024-08-28',113479.83,heidi.miller@gmail.com,Good,F,+4892673898,"USD 113,479.83",30,DevOps,Illinois
+EMP1070,Charlie,Johnson,40,Finance-California,Active,'2024-09-16',94636.3,charlie.johnson@gmail.com,Poor,F,+7563410855,"USD 94,636.30",40,Finance,California
+EMP1071,Heidi,Johnson,30,HR-Florida,Active,'2024-01-01',70000.97,heidi.johnson@gmail.com,Average,T,+2884318847,"USD 70,000.97",30,HR,Florida
+EMP1072,Frank,Smith,Missing,Cloud Tech-New York,Active,'2021-04-18',76812.47,frank.smith@gmail.com,Poor,F,+5200894345,"USD 76,812.47",30,Cloud Tech,New York
+EMP1073,David,Johnson,25,Finance-Florida,Inactive,'2023-01-16',82614.7,david.johnson@gmail.com,Average,T,+8105485100,"USD 82,614.70",25,Finance,Florida
+EMP1074,Grace,Jones,40,Sales-Nevada,Active,'2024-10-20',111645.97,grace.jones@gmail.com,Good,T,+7490753997,"USD 111,645.97",40,Sales,Nevada
+EMP1075,Heidi,Johnson,25,HR-California,Inactive,'2024-10-13',112414.91,heidi.johnson@gmail.com,Good,F,+9354492682,"USD 112,414.91",25,HR,California
+EMP1076,David,Brown,40,Admin-California,Inactive,'2022-09-21',52031.74,david.brown@gmail.com,Good,T,+1589357125,"USD 52,031.74",40,Admin,California
+EMP1077,Grace,Brown,30,Finance-New York,Pending,'2022-12-29',51887.65,grace.brown@gmail.com,Good,F,+6110627370,"USD 51,887.65",30,Finance,New York
+EMP1078,Alice,Davis,25,DevOps-Florida,Active,'2024-11-10',82318.89,alice.davis@gmail.com,Good,T,+5869886496,"USD 82,318.89",25,DevOps,Florida
+EMP1079,Grace,Brown,35,Admin-Florida,Inactive,'2021-11-22',103286.08,grace.brown@gmail.com,Average,F,+6776228276,"USD 103,286.08",35,Admin,Florida
+EMP1080,Grace,Davis,35,Cloud Tech-Florida,Active,'2024-03-14',87759.33,grace.davis@gmail.com,Average,F,+2881377027,"USD 87,759.33",35,Cloud Tech,Florida
+EMP1081,Frank,Brown,30,DevOps-Texas,Pending,'2020-03-23',102796.32,frank.brown@gmail.com,Good,F,+5196115939,"USD 102,796.32",30,DevOps,Texas
+EMP1082,David,Jones,25,Sales-New York,Active,'2020-09-15',83149.27,david.jones@gmail.com,Poor,T,+8215454469,"USD 83,149.27",25,Sales,New York
+EMP1083,David,Garcia,40,DevOps-California,Inactive,'2020-12-09',92412.49,david.garcia@gmail.com,Excellent,T,+2296044326,"USD 92,412.49",40,DevOps,California
+EMP1084,Bob,Davis,30,HR-Texas,Pending,'2020-02-22',115022.1,bob.davis@gmail.com,Good,F,+1185106793,"USD 115,022.10",30,HR,Texas
+EMP1085,Grace,Williams,40,DevOps-New York,Active,'2023-04-27',98343.01,grace.williams@gmail.com,Poor,F,+9756792286,"USD 98,343.01",40,DevOps,New York
+EMP1086,Bob,Miller,35,DevOps-Illinois,Active,'2024-06-18',118869.1,bob.miller@gmail.com,Excellent,T,+7725199662,"USD 118,869.10",35,DevOps,Illinois
+EMP1087,Frank,Smith,Missing,Finance-Nevada,Inactive,'2020-05-21',85417.26,frank.smith@gmail.com,Good,T,+6580741208,"USD 85,417.26",30,Finance,Nevada
+EMP1088,Grace,Brown,40,Cloud Tech-Florida,Inactive,'2023-07-25',112410.25,grace.brown@gmail.com,Good,T,+4818139889,"USD 112,410.25",40,Cloud Tech,Florida
+EMP1089,Charlie,Johnson,40,Admin-Nevada,Pending,'2023-08-25',68905.77,charlie.johnson@gmail.com,Average,F,+9837801819,"USD 68,905.77",40,Admin,Nevada
+EMP1090,Heidi,Garcia,40,Finance-Nevada,Pending,'2021-07-03',72561.32,heidi.garcia@gmail.com,Excellent,T,+4339718955,"USD 72,561.32",40,Finance,Nevada
+EMP1091,Bob,Brown,35,Finance-New York,Inactive,'2023-03-13',92723.22,bob.brown@gmail.com,Excellent,T,+9070562607,"USD 92,723.22",35,Finance,New York
+EMP1092,Alice,Johnson,40,HR-New York,Inactive,'2021-03-10',74837.75,alice.johnson@gmail.com,Poor,F,+5641118241,"USD 74,837.75",40,HR,New York
+EMP1093,Eva,Miller,Missing,DevOps-California,Pending,'2020-01-21',86163.91,eva.miller@gmail.com,Average,T,+2412462094,"USD 86,163.91",30,DevOps,California
+EMP1094,David,Miller,40,Finance-Illinois,Active,'2023-11-15',83326.52,david.miller@gmail.com,Average,T,+2004615264,"USD 83,326.52",40,Finance,Illinois
+EMP1095,Heidi,Miller,25,Cloud Tech-California,Active,'2022-04-08',98425.1,heidi.miller@gmail.com,Average,T,+4610339936,"USD 98,425.10",25,Cloud Tech,California
+EMP1096,Frank,Johnson,40,Sales-Illinois,Inactive,'2022-05-21',119764.2,frank.johnson@gmail.com,Average,F,+8861405785,"USD 119,764.20",40,Sales,Illinois
+EMP1097,Frank,Brown,40,HR-California,Inactive,'2021-04-17',58445.91,frank.brown@gmail.com,Excellent,F,+1706304890,"USD 58,445.91",40,HR,California
+EMP1098,Bob,Miller,Missing,DevOps-New York,Active,'2021-03-19',101702.33,bob.miller@gmail.com,Excellent,F,+3824967182,"USD 101,702.33",30,DevOps,New York
+EMP1099,Eva,Jones,25,Admin-California,Active,'2022-01-09',,eva.jones@gmail.com,Good,F,+2582386869,No Salary,25,Admin,California
+EMP1100,Charlie,Davis,35,Cloud Tech-Texas,Pending,'2021-08-21',98819.22,charlie.davis@gmail.com,Good,F,+1794200748,"USD 98,819.22",35,Cloud Tech,Texas
+EMP1101,Heidi,Johnson,25,Cloud Tech-Illinois,Inactive,'2022-08-19',83509.99,heidi.johnson@gmail.com,Average,F,+4653984027,"USD 83,509.99",25,Cloud Tech,Illinois
+EMP1102,Alice,Johnson,35,Finance-Texas,Active,'2022-03-31',84422.26,alice.johnson@gmail.com,Average,F,+9141612845,"USD 84,422.26",35,Finance,Texas
+EMP1103,Alice,Brown,30,Admin-Illinois,Inactive,'2020-06-23',119574.27,alice.brown@gmail.com,Average,T,+3985547434,"USD 119,574.27",30,Admin,Illinois
+EMP1104,Grace,Johnson,Missing,Sales-Illinois,Active,'2024-05-07',86580.08,grace.johnson@gmail.com,Good,T,+5379502096,"USD 86,580.08",30,Sales,Illinois
+EMP1105,Heidi,Johnson,35,Sales-Florida,Inactive,'2023-03-10',93471.91,heidi.johnson@gmail.com,Poor,F,,"USD 93,471.91",35,Sales,Florida
+EMP1106,Bob,Miller,30,DevOps-New York,Inactive,'2023-09-14',55683.12,bob.miller@gmail.com,Poor,T,+8071569561,"USD 55,683.12",30,DevOps,New York
+EMP1107,Bob,Brown,30,Cloud Tech-Florida,Inactive,'2023-11-12',91566.78,bob.brown@gmail.com,Good,T,+1175370303,"USD 91,566.78",30,Cloud Tech,Florida
+EMP1108,David,Miller,35,DevOps-California,Pending,'2024-10-26',81782.19,david.miller@gmail.com,Good,F,+5319433749,"USD 81,782.19",35,DevOps,California
+EMP1109,Eva,Davis,Missing,DevOps-New York,Inactive,'2020-08-23',88119.37,eva.davis@gmail.com,Good,T,+4793036148,"USD 88,119.37",30,DevOps,New York
+EMP1110,Eva,Garcia,30,Cloud Tech-Texas,Active,'2024-06-11',71532.83,eva.garcia@gmail.com,Good,T,+8728399920,"USD 71,532.83",30,Cloud Tech,Texas
+EMP1111,Eva,Davis,40,Cloud Tech-Florida,Pending,'2021-09-14',98981.36,eva.davis@gmail.com,Good,T,+9212493842,"USD 98,981.36",40,Cloud Tech,Florida
+EMP1112,Heidi,Garcia,40,Cloud Tech-Illinois,Active,'2024-12-26',80242.01,heidi.garcia@gmail.com,Good,T,+1894870604,"USD 80,242.01",40,Cloud Tech,Illinois
+EMP1113,Eva,Miller,25,Cloud Tech-New York,Pending,'2024-09-08',110236.18,eva.miller@gmail.com,Average,T,+6641877579,"USD 110,236.18",25,Cloud Tech,New York
+EMP1114,Alice,Davis,35,Sales-Texas,Active,'2022-08-21',86327.47,alice.davis@gmail.com,Average,F,+3046875062,"USD 86,327.47",35,Sales,Texas
+EMP1115,Eva,Brown,30,Sales-Florida,Pending,'2024-07-25',84420.81,eva.brown@gmail.com,Average,F,+5190361331,"USD 84,420.81",30,Sales,Florida
+EMP1116,Frank,Smith,40,HR-California,Pending,'2020-08-02',110041.32,frank.smith@gmail.com,Average,F,+5411076094,"USD 110,041.32",40,HR,California
+EMP1117,Heidi,Miller,35,DevOps-Florida,Pending,'2020-03-16',81837.81,heidi.miller@gmail.com,Good,T,+4317350582,"USD 81,837.81",35,DevOps,Florida
+EMP1118,Frank,Garcia,25,Finance-Illinois,Active,'2023-09-08',110855.72,frank.garcia@gmail.com,Poor,F,+1997179109,"USD 110,855.72",25,Finance,Illinois
+EMP1119,Alice,Jones,30,Sales-California,Pending,'2024-03-29',84894.52,alice.jones@gmail.com,Excellent,T,+1651207048,"USD 84,894.52",30,Sales,California
+EMP1120,Alice,Garcia,30,HR-Illinois,Active,'2021-08-12',80668.13,alice.garcia@gmail.com,Good,T,+6110804660,"USD 80,668.13",30,HR,Illinois
+EMP1121,Bob,Jones,25,DevOps-Illinois,Active,'2023-12-24',61086.47,bob.jones@gmail.com,Excellent,T,+9639907675,"USD 61,086.47",25,DevOps,Illinois
+EMP1122,Grace,Johnson,25,Admin-Texas,Inactive,'2020-08-28',95339.68,grace.johnson@gmail.com,Poor,T,+9915078592,"USD 95,339.68",25,Admin,Texas
+EMP1123,Eva,Davis,Missing,DevOps-California,Inactive,'2024-09-05',83774.97,eva.davis@gmail.com,Average,F,+1109193927,"USD 83,774.97",30,DevOps,California
+EMP1124,Heidi,Jones,Missing,Admin-Florida,Active,'2023-05-12',85576.86,heidi.jones@gmail.com,Poor,F,+4567972319,"USD 85,576.86",30,Admin,Florida
+EMP1125,Bob,Garcia,35,Finance-California,Pending,'2021-07-01',107438.46,bob.garcia@gmail.com,Good,T,+1249685497,"USD 107,438.46",35,Finance,California
+EMP1126,Eva,Johnson,Missing,Sales-Nevada,Inactive,'2024-11-07',60401.68,eva.johnson@gmail.com,Average,F,+2274954507,"USD 60,401.68",30,Sales,Nevada
+EMP1127,Frank,Smith,35,Sales-Illinois,Inactive,'2022-07-21',115299.66,frank.smith@gmail.com,Good,T,+9203880652,"USD 115,299.66",35,Sales,Illinois
+EMP1128,David,Brown,Missing,Finance-New York,Inactive,'2020-03-30',72272.34,david.brown@gmail.com,Average,F,+3315377958,"USD 72,272.34",30,Finance,New York
+EMP1129,Grace,Brown,40,DevOps-Nevada,Active,'2022-10-11',117537.71,grace.brown@gmail.com,Excellent,F,+9594652169,"USD 117,537.71",40,DevOps,Nevada
+EMP1130,Frank,Brown,25,Finance-Texas,Pending,'2022-07-24',51074.33,frank.brown@gmail.com,Excellent,T,+7303379336,"USD 51,074.33",25,Finance,Texas
+EMP1131,Charlie,Jones,25,Finance-California,Inactive,'2023-06-30',98489.32,charlie.jones@gmail.com,Excellent,F,+5636205014,"USD 98,489.32",25,Finance,California
+EMP1132,Frank,Smith,Missing,Finance-California,Pending,'2024-01-11',112120.71,frank.smith@gmail.com,Poor,T,+1812473949,"USD 112,120.71",30,Finance,California
+EMP1133,Alice,Jones,Missing,Cloud Tech-New York,Pending,'2023-11-02',114465.04,alice.jones@gmail.com,Good,F,+1334234257,"USD 114,465.04",30,Cloud Tech,New York
+EMP1134,Bob,Davis,40,Cloud Tech-Nevada,Pending,'2024-11-22',57035.51,bob.davis@gmail.com,Poor,T,+3230241025,"USD 57,035.51",40,Cloud Tech,Nevada
+EMP1135,Eva,Jones,25,Cloud Tech-California,Active,'2021-08-23',75092.43,eva.jones@gmail.com,Excellent,T,+1534735527,"USD 75,092.43",25,Cloud Tech,California
+EMP1136,David,Smith,Missing,Finance-Illinois,Pending,'2024-06-11',62603.98,david.smith@gmail.com,Good,F,+9611223385,"USD 62,603.98",30,Finance,Illinois
+EMP1137,Grace,Smith,Missing,DevOps-New York,Inactive,'2023-04-09',60018.24,grace.smith@gmail.com,Excellent,F,+5596309937,"USD 60,018.24",30,DevOps,New York
+EMP1138,Eva,Davis,40,HR-Nevada,Active,'2024-07-05',82567.73,eva.davis@gmail.com,Poor,T,+4253042896,"USD 82,567.73",40,HR,Nevada
+EMP1139,Charlie,Smith,25,Finance-California,Pending,'2021-09-04',94725.71,charlie.smith@gmail.com,Poor,F,+3179128684,"USD 94,725.71",25,Finance,California
+EMP1140,Eva,Garcia,40,HR-New York,Inactive,'2024-10-13',83824.56,eva.garcia@gmail.com,Poor,F,+7872558776,"USD 83,824.56",40,HR,New York
+EMP1141,Frank,Smith,Missing,HR-Nevada,Inactive,'2020-02-14',118456.11,frank.smith@gmail.com,Excellent,T,+4969033372,"USD 118,456.11",30,HR,Nevada
+EMP1142,Eva,Brown,25,Sales-Nevada,Pending,'2020-04-10',113743.19,eva.brown@gmail.com,Good,T,+6346692547,"USD 113,743.19",25,Sales,Nevada
+EMP1143,Eva,Garcia,30,Sales-California,Active,'2023-07-27',63309.24,eva.garcia@gmail.com,Good,F,+1214785389,"USD 63,309.24",30,Sales,California
+EMP1144,Charlie,Garcia,25,DevOps-Nevada,Active,'2021-09-24',105202.73,charlie.garcia@gmail.com,Excellent,T,+7895677664,"USD 105,202.73",25,DevOps,Nevada
+EMP1145,Frank,Davis,30,Cloud Tech-California,Inactive,'2024-03-10',79085.22,frank.davis@gmail.com,Good,T,+7546027340,"USD 79,085.22",30,Cloud Tech,California
+EMP1146,Frank,Williams,Missing,Sales-California,Active,'2021-06-10',113983.43,frank.williams@gmail.com,Excellent,T,+5148881430,"USD 113,983.43",30,Sales,California
+EMP1147,Eva,Williams,35,Cloud Tech-Florida,Active,'2020-10-15',102790.6,eva.williams@gmail.com,Good,F,+1150835353,"USD 102,790.60",35,Cloud Tech,Florida
+EMP1148,Grace,Smith,Missing,HR-Texas,Inactive,'2020-01-29',68512.1,grace.smith@gmail.com,Average,F,+4439284043,"USD 68,512.10",30,HR,Texas
+EMP1149,Frank,Garcia,35,Sales-Florida,Pending,'2022-01-30',57584.23,frank.garcia@gmail.com,Average,T,+5669078262,"USD 57,584.23",35,Sales,Florida
+EMP1150,Alice,Williams,Missing,Sales-California,Pending,'2021-03-29',95335.67,alice.williams@gmail.com,Poor,F,+3373898774,"USD 95,335.67",30,Sales,California
+EMP1151,Heidi,Williams,35,DevOps-Florida,Active,'2020-10-13',53174.28,heidi.williams@gmail.com,Average,T,+1536637779,"USD 53,174.28",35,DevOps,Florida
+EMP1152,Heidi,Smith,25,Cloud Tech-New York,Pending,'2020-10-04',77205.21,heidi.smith@gmail.com,Average,F,+5292407552,"USD 77,205.21",25,Cloud Tech,New York
+EMP1153,Grace,Williams,Missing,DevOps-Nevada,Active,'2024-12-18',79041.92,grace.williams@gmail.com,Average,T,+6668459089,"USD 79,041.92",30,DevOps,Nevada
+EMP1154,Heidi,Jones,Missing,Finance-California,Active,'2023-11-14',75937.1,heidi.jones@gmail.com,Excellent,T,+2259999662,"USD 75,937.10",30,Finance,California
+EMP1155,David,Johnson,35,Cloud Tech-Nevada,Inactive,'2023-01-20',113118.73,david.johnson@gmail.com,Average,F,+6186371596,"USD 113,118.73",35,Cloud Tech,Nevada
+EMP1156,Alice,Davis,40,HR-New York,Active,'2024-10-02',107693.38,alice.davis@gmail.com,Average,T,+4121820969,"USD 107,693.38",40,HR,New York
+EMP1157,David,Johnson,Missing,Cloud Tech-Texas,Inactive,'2021-05-13',119217.46,david.johnson@gmail.com,Poor,F,+2316433480,"USD 119,217.46",30,Cloud Tech,Texas
+EMP1158,David,Smith,25,Sales-New York,Pending,'2021-03-18',106913.71,david.smith@gmail.com,Average,F,+7058025661,"USD 106,913.71",25,Sales,New York
+EMP1159,Charlie,Brown,Missing,Cloud Tech-California,Active,'2020-09-23',87815.08,charlie.brown@gmail.com,Average,T,+1286716322,"USD 87,815.08",30,Cloud Tech,California
+EMP1160,Bob,Davis,25,Admin-Texas,Inactive,'2024-06-05',105190.21,bob.davis@gmail.com,Good,T,+4672994937,"USD 105,190.21",25,Admin,Texas
+EMP1161,Alice,Smith,30,HR-Texas,Active,'2024-02-28',79467.24,alice.smith@gmail.com,Poor,F,+7430271692,"USD 79,467.24",30,HR,Texas
+EMP1162,Bob,Garcia,40,Finance-California,Pending,'2023-04-30',57633.78,bob.garcia@gmail.com,Poor,T,+8597779013,"USD 57,633.78",40,Finance,California
+EMP1163,Alice,Brown,Missing,HR-Florida,Pending,'2020-03-04',54257.78,alice.brown@gmail.com,Poor,T,+7546926328,"USD 54,257.78",30,HR,Florida
+EMP1164,Grace,Johnson,40,DevOps-Texas,Inactive,'2023-12-29',113679.06,grace.johnson@gmail.com,Poor,T,+6762916031,"USD 113,679.06",40,DevOps,Texas
+EMP1165,Bob,Smith,35,Sales-New York,Active,'2020-09-15',69251.12,bob.smith@gmail.com,Poor,T,+4841376814,"USD 69,251.12",35,Sales,New York
+EMP1166,Frank,Garcia,40,Sales-Illinois,Inactive,'2022-07-18',85388.58,frank.garcia@gmail.com,Poor,T,+1185672437,"USD 85,388.58",40,Sales,Illinois
+EMP1167,Bob,Davis,Missing,DevOps-New York,Inactive,'2022-07-13',112166.37,bob.davis@gmail.com,Excellent,F,+1701765635,"USD 112,166.37",30,DevOps,New York
+EMP1168,Heidi,Davis,40,Finance-Nevada,Active,'2021-10-02',79873.48,heidi.davis@gmail.com,Average,F,,"USD 79,873.48",40,Finance,Nevada
+EMP1169,Frank,Miller,30,DevOps-Florida,Active,'2020-07-05',108224.03,frank.miller@gmail.com,Poor,T,+1837274219,"USD 108,224.03",30,DevOps,Florida
+EMP1170,Bob,Garcia,35,Admin-Illinois,Active,'2023-04-16',116963.72,bob.garcia@gmail.com,Average,T,+9124186209,"USD 116,963.72",35,Admin,Illinois
+EMP1171,Bob,Jones,40,HR-Nevada,Inactive,'2024-11-12',114109.06,bob.jones@gmail.com,Average,T,+4275230836,"USD 114,109.06",40,HR,Nevada
+EMP1172,Eva,Williams,Missing,HR-California,Active,'2023-03-29',85518.88,eva.williams@gmail.com,Excellent,F,+1816470899,"USD 85,518.88",30,HR,California
+EMP1173,Heidi,Brown,30,Cloud Tech-California,Pending,'2022-01-22',58041.97,heidi.brown@gmail.com,Poor,T,+6335331059,"USD 58,041.97",30,Cloud Tech,California
+EMP1174,David,Garcia,40,Sales-Illinois,Pending,'2023-10-14',94988.94,david.garcia@gmail.com,Good,F,+1531312205,"USD 94,988.94",40,Sales,Illinois
+EMP1175,Eva,Miller,25,Admin-California,Pending,'2024-04-10',71628.93,eva.miller@gmail.com,Excellent,F,+8155839385,"USD 71,628.93",25,Admin,California
+EMP1176,Alice,Williams,30,Admin-Illinois,Pending,'2022-03-31',54870.98,alice.williams@gmail.com,Good,F,+6133155205,"USD 54,870.98",30,Admin,Illinois
+EMP1177,Alice,Williams,25,DevOps-Illinois,Active,'2022-02-09',79388.27,alice.williams@gmail.com,Average,T,+5063731494,"USD 79,388.27",25,DevOps,Illinois
+EMP1178,Frank,Smith,35,DevOps-California,Pending,'2023-05-06',55946.99,frank.smith@gmail.com,Average,F,+1136497188,"USD 55,946.99",35,DevOps,California
+EMP1179,Charlie,Williams,Missing,Cloud Tech-Nevada,Active,'2021-07-11',81017.91,charlie.williams@gmail.com,Excellent,T,+2419562524,"USD 81,017.91",30,Cloud Tech,Nevada
+EMP1180,Heidi,Jones,40,HR-New York,Pending,'2020-08-21',74162.1,heidi.jones@gmail.com,Excellent,F,+7150997682,"USD 74,162.10",40,HR,New York
+EMP1181,Heidi,Davis,Missing,DevOps-California,Active,'2021-03-27',77668.44,heidi.davis@gmail.com,Good,T,+8903091435,"USD 77,668.44",30,DevOps,California
+EMP1182,Alice,Miller,30,HR-New York,Active,'2024-04-14',67886.37,alice.miller@gmail.com,Poor,F,+3910257431,"USD 67,886.37",30,HR,New York
+EMP1183,Alice,Williams,40,DevOps-Florida,Active,'2020-09-21',76614.52,alice.williams@gmail.com,Good,T,+6303975244,"USD 76,614.52",40,DevOps,Florida
+EMP1184,Frank,Smith,25,Finance-Nevada,Active,'2022-06-12',51311.91,frank.smith@gmail.com,Excellent,F,+1864035532,"USD 51,311.91",25,Finance,Nevada
+EMP1185,Frank,Jones,Missing,Finance-Illinois,Inactive,'2023-12-24',94809.92,frank.jones@gmail.com,Good,T,+8033968526,"USD 94,809.92",30,Finance,Illinois
+EMP1186,Grace,Johnson,25,HR-New York,Pending,'2022-07-31',108241.81,grace.johnson@gmail.com,Excellent,T,+1171302320,"USD 108,241.81",25,HR,New York
+EMP1187,Bob,Davis,40,Cloud Tech-New York,Inactive,'2023-04-21',78031.49,bob.davis@gmail.com,Good,T,+2983381673,"USD 78,031.49",40,Cloud Tech,New York
+EMP1188,Eva,Davis,35,Admin-California,Active,'2020-06-05',85733.83,eva.davis@gmail.com,Excellent,T,+2336293448,"USD 85,733.83",35,Admin,California
+EMP1189,David,Miller,35,HR-Nevada,Pending,'2024-07-27',60338.29,david.miller@gmail.com,Excellent,F,+7347156626,"USD 60,338.29",35,HR,Nevada
+EMP1190,Eva,Davis,30,Admin-Illinois,Active,'2024-04-05',103140.67,eva.davis@gmail.com,Excellent,F,+7689627065,"USD 103,140.67",30,Admin,Illinois
+EMP1191,Heidi,Williams,40,Sales-Illinois,Inactive,'2023-10-26',114690.8,heidi.williams@gmail.com,Poor,T,+1498282466,"USD 114,690.80",40,Sales,Illinois
+EMP1192,Frank,Smith,35,Admin-Florida,Active,'2022-08-18',80954.56,frank.smith@gmail.com,Good,F,+4746897151,"USD 80,954.56",35,Admin,Florida
+EMP1193,Eva,Davis,Missing,Cloud Tech-California,Pending,'2020-05-31',71728.55,eva.davis@gmail.com,Good,T,+7323008575,"USD 71,728.55",30,Cloud Tech,California
+EMP1194,Alice,Davis,35,HR-Texas,Pending,'2024-11-04',118415.8,alice.davis@gmail.com,Good,T,+6656749159,"USD 118,415.80",35,HR,Texas
+EMP1195,Grace,Johnson,40,Sales-Illinois,Pending,'2020-03-25',81481.36,grace.johnson@gmail.com,Excellent,F,+1692364586,"USD 81,481.36",40,Sales,Illinois
+EMP1196,David,Johnson,35,Sales-Florida,Pending,'2020-11-04',117040.57,david.johnson@gmail.com,Good,T,+5066337049,"USD 117,040.57",35,Sales,Florida
+EMP1197,Frank,Brown,25,Sales-Nevada,Active,'2020-03-21',67342.06,frank.brown@gmail.com,Good,T,+2497243991,"USD 67,342.06",25,Sales,Nevada
+EMP1198,Heidi,Jones,Missing,Sales-Illinois,Active,'2022-01-15',76099.64,heidi.jones@gmail.com,Excellent,F,+1116691835,"USD 76,099.64",30,Sales,Illinois
+EMP1199,Grace,Williams,35,DevOps-Illinois,Active,'2024-06-04',94162.06,grace.williams@gmail.com,Average,T,+2644886945,"USD 94,162.06",35,DevOps,Illinois
+EMP1200,Frank,Davis,25,Sales-Nevada,Inactive,'2021-08-04',67639.7,frank.davis@gmail.com,Excellent,T,+1195243639,"USD 67,639.70",25,Sales,Nevada
+EMP1201,Charlie,Garcia,35,Cloud Tech-Illinois,Pending,'2020-10-16',114172.25,charlie.garcia@gmail.com,Good,T,+2701168645,"USD 114,172.25",35,Cloud Tech,Illinois
+EMP1202,Grace,Davis,30,Sales-Nevada,Active,'2021-09-26',89124.54,grace.davis@gmail.com,Excellent,T,+2252237280,"USD 89,124.54",30,Sales,Nevada
+EMP1203,Frank,Smith,30,DevOps-Nevada,Pending,'2023-11-04',113871.36,frank.smith@gmail.com,Average,F,+7932302345,"USD 113,871.36",30,DevOps,Nevada
+EMP1204,Grace,Brown,Missing,HR-Texas,Inactive,'2021-09-24',62618.4,grace.brown@gmail.com,Excellent,F,+7912141613,"USD 62,618.40",30,HR,Texas
+EMP1205,Heidi,Jones,30,Admin-New York,Active,'2020-06-07',70705.45,heidi.jones@gmail.com,Good,F,+1509377099,"USD 70,705.45",30,Admin,New York
+EMP1206,Alice,Garcia,35,Sales-New York,Pending,'2022-02-10',60797.69,alice.garcia@gmail.com,Average,T,+4090138068,"USD 60,797.69",35,Sales,New York
+EMP1207,Charlie,Brown,40,Cloud Tech-Florida,Inactive,'2023-10-17',100371.0,charlie.brown@gmail.com,Poor,T,+8477596554,"USD 100,371.00",40,Cloud Tech,Florida
+EMP1208,Eva,Miller,40,Admin-Illinois,Active,'2021-09-25',117591.76,eva.miller@gmail.com,Good,F,+5356690550,"USD 117,591.76",40,Admin,Illinois
+EMP1209,David,Jones,35,DevOps-Illinois,Inactive,'2022-08-03',103860.7,david.jones@gmail.com,Average,T,+1762091842,"USD 103,860.70",35,DevOps,Illinois
+EMP1210,Grace,Davis,30,Admin-Illinois,Active,'2024-11-22',67500.22,grace.davis@gmail.com,Average,T,+5797863049,"USD 67,500.22",30,Admin,Illinois
+EMP1211,Frank,Davis,Missing,Cloud Tech-Nevada,Pending,'2024-10-09',58727.44,frank.davis@gmail.com,Poor,T,+5057397690,"USD 58,727.44",30,Cloud Tech,Nevada
+EMP1212,Charlie,Jones,35,Finance-Illinois,Active,'2024-08-28',80623.08,charlie.jones@gmail.com,Excellent,T,+5671649327,"USD 80,623.08",35,Finance,Illinois
+EMP1213,David,Davis,40,HR-Texas,Inactive,'2020-04-19',77751.78,david.davis@gmail.com,Excellent,F,+9802714871,"USD 77,751.78",40,HR,Texas
+EMP1214,Grace,Williams,25,HR-New York,Active,'2021-10-14',115157.81,grace.williams@gmail.com,Good,F,+7178333210,"USD 115,157.81",25,HR,New York
+EMP1215,Frank,Jones,30,Admin-Texas,Inactive,'2024-08-26',83071.85,frank.jones@gmail.com,Poor,F,+6025643470,"USD 83,071.85",30,Admin,Texas
+EMP1216,Heidi,Brown,40,Sales-Texas,Active,'2020-02-08',67914.67,heidi.brown@gmail.com,Excellent,T,+2871539914,"USD 67,914.67",40,Sales,Texas
+EMP1217,Grace,Jones,25,HR-New York,Inactive,'2020-09-06',53342.46,grace.jones@gmail.com,Poor,F,+6686334140,"USD 53,342.46",25,HR,New York
+EMP1218,Heidi,Garcia,25,Cloud Tech-Florida,Pending,'2023-01-02',51150.47,heidi.garcia@gmail.com,Excellent,F,+1159319524,"USD 51,150.47",25,Cloud Tech,Florida
+EMP1219,David,Davis,30,HR-Florida,Active,'2023-06-13',74697.12,david.davis@gmail.com,Average,T,+6904098365,"USD 74,697.12",30,HR,Florida
+EMP1220,Charlie,Williams,25,Sales-California,Active,'2022-12-13',88085.74,charlie.williams@gmail.com,Excellent,T,+5528993159,"USD 88,085.74",25,Sales,California
+EMP1221,Alice,Williams,40,Finance-Texas,Pending,'2022-03-03',118672.76,alice.williams@gmail.com,Poor,F,+8752437728,"USD 118,672.76",40,Finance,Texas
+EMP1222,Alice,Miller,35,Cloud Tech-California,Active,'2024-02-10',95997.31,alice.miller@gmail.com,Average,F,+4209548148,"USD 95,997.31",35,Cloud Tech,California
+EMP1223,Frank,Brown,30,Cloud Tech-California,Pending,'2021-11-24',106945.62,frank.brown@gmail.com,Average,F,+7374605232,"USD 106,945.62",30,Cloud Tech,California
+EMP1224,Heidi,Johnson,40,DevOps-New York,Active,'2020-05-09',100123.15,heidi.johnson@gmail.com,Average,F,+1276420864,"USD 100,123.15",40,DevOps,New York
+EMP1225,Alice,Johnson,35,Admin-Texas,Active,'2024-12-19',52933.42,alice.johnson@gmail.com,Poor,T,+6756618442,"USD 52,933.42",35,Admin,Texas
+EMP1226,Grace,Jones,Missing,Finance-California,Active,'2024-03-22',95283.03,grace.jones@gmail.com,Good,F,+8612590471,"USD 95,283.03",30,Finance,California
+EMP1227,Alice,Miller,35,HR-Texas,Inactive,'2022-06-13',112264.06,alice.miller@gmail.com,Good,F,+9277423329,"USD 112,264.06",35,HR,Texas
+EMP1228,Grace,Smith,35,Admin-Florida,Pending,'2022-10-15',75714.28,grace.smith@gmail.com,Good,T,+5912662014,"USD 75,714.28",35,Admin,Florida
+EMP1229,Eva,Jones,25,DevOps-Florida,Active,'2022-05-31',92171.73,eva.jones@gmail.com,Poor,F,+7201859625,"USD 92,171.73",25,DevOps,Florida
+EMP1230,Eva,Miller,35,Cloud Tech-Texas,Inactive,'2023-09-15',70694.8,eva.miller@gmail.com,Average,T,+3013674925,"USD 70,694.80",35,Cloud Tech,Texas
+EMP1231,Grace,Brown,30,DevOps-Florida,Inactive,'2022-07-04',52964.86,grace.brown@gmail.com,Good,T,+1764750110,"USD 52,964.86",30,DevOps,Florida
+EMP1232,Frank,Brown,Missing,Finance-California,Pending,'2024-06-08',116353.31,frank.brown@gmail.com,Poor,T,+1783099973,"USD 116,353.31",30,Finance,California
+EMP1233,Grace,Brown,35,Sales-Nevada,Pending,'2020-11-23',116695.26,grace.brown@gmail.com,Good,F,+1926764920,"USD 116,695.26",35,Sales,Nevada
+EMP1234,Heidi,Brown,25,Admin-Texas,Active,'2024-05-13',95161.4,heidi.brown@gmail.com,Excellent,F,+5182606887,"USD 95,161.40",25,Admin,Texas
+EMP1235,Alice,Brown,Missing,Admin-Nevada,Inactive,'2022-01-29',76040.94,alice.brown@gmail.com,Good,T,+7189813128,"USD 76,040.94",30,Admin,Nevada
+EMP1236,Charlie,Miller,Missing,HR-Florida,Inactive,'2023-08-23',69508.28,charlie.miller@gmail.com,Good,F,+2087510292,"USD 69,508.28",30,HR,Florida
+EMP1237,Alice,Miller,30,Finance-Illinois,Inactive,'2023-02-24',58243.27,alice.miller@gmail.com,Average,F,+2184011844,"USD 58,243.27",30,Finance,Illinois
+EMP1238,Heidi,Williams,30,Sales-California,Pending,'2022-10-02',64012.48,heidi.williams@gmail.com,Poor,T,+8260340847,"USD 64,012.48",30,Sales,California
+EMP1239,Bob,Garcia,40,Admin-Nevada,Inactive,'2020-06-28',106735.93,bob.garcia@gmail.com,Average,T,+7297585987,"USD 106,735.93",40,Admin,Nevada
+EMP1240,Frank,Johnson,35,DevOps-Texas,Pending,'2023-01-15',70325.36,frank.johnson@gmail.com,Average,F,+3103032431,"USD 70,325.36",35,DevOps,Texas
+EMP1241,Charlie,Davis,30,HR-Illinois,Active,'2020-09-05',118959.28,charlie.davis@gmail.com,Average,T,+9839542960,"USD 118,959.28",30,HR,Illinois
+EMP1242,David,Brown,40,Cloud Tech-California,Pending,'2023-03-18',75823.78,david.brown@gmail.com,Average,F,+8446267145,"USD 75,823.78",40,Cloud Tech,California
+EMP1243,Charlie,Smith,Missing,Cloud Tech-Texas,Inactive,'2022-03-26',119971.65,charlie.smith@gmail.com,Average,F,+2831435988,"USD 119,971.65",30,Cloud Tech,Texas
+EMP1244,Grace,Davis,40,Sales-Texas,Active,'2021-10-11',94963.7,grace.davis@gmail.com,Good,F,+2625660930,"USD 94,963.70",40,Sales,Texas
+EMP1245,Frank,Miller,30,Sales-Nevada,Pending,'2021-01-07',103744.71,frank.miller@gmail.com,Average,F,+4181861514,"USD 103,744.71",30,Sales,Nevada
+EMP1246,Alice,Smith,25,Sales-New York,Inactive,'2020-12-03',61337.69,alice.smith@gmail.com,Average,T,+5423401635,"USD 61,337.69",25,Sales,New York
+EMP1247,David,Smith,35,Sales-California,Active,'2021-05-28',63741.13,david.smith@gmail.com,Poor,T,+1128497184,"USD 63,741.13",35,Sales,California
+EMP1248,Eva,Smith,30,DevOps-California,Pending,'2022-12-28',56539.99,eva.smith@gmail.com,Excellent,T,+9484910255,"USD 56,539.99",30,DevOps,California
+EMP1249,Charlie,Williams,30,DevOps-Illinois,Pending,'2023-05-24',73633.37,charlie.williams@gmail.com,Good,T,+2588967923,"USD 73,633.37",30,DevOps,Illinois
+EMP1250,Alice,Miller,25,Cloud Tech-Texas,Pending,'2024-04-28',90373.99,alice.miller@gmail.com,Good,F,+1822269404,"USD 90,373.99",25,Cloud Tech,Texas
+EMP1251,Grace,Smith,Missing,DevOps-Texas,Inactive,'2024-12-25',93901.48,grace.smith@gmail.com,Good,F,+3967275783,"USD 93,901.48",30,DevOps,Texas
+EMP1252,Eva,Brown,40,Admin-Nevada,Inactive,'2021-09-01',81748.09,eva.brown@gmail.com,Average,T,+4683414650,"USD 81,748.09",40,Admin,Nevada
+EMP1253,Charlie,Jones,40,Finance-Florida,Inactive,'2021-02-21',73813.48,charlie.jones@gmail.com,Average,F,+1131290147,"USD 73,813.48",40,Finance,Florida
+EMP1254,Frank,Smith,35,Finance-New York,Inactive,'2022-11-20',89315.59,frank.smith@gmail.com,Average,F,+7068277880,"USD 89,315.59",35,Finance,New York
+EMP1255,Heidi,Williams,25,HR-Florida,Active,'2020-10-15',56776.82,heidi.williams@gmail.com,Poor,F,+6093068537,"USD 56,776.82",25,HR,Florida
+EMP1256,Grace,Davis,Missing,Finance-New York,Active,'2024-07-24',72920.51,grace.davis@gmail.com,Excellent,T,+9097283214,"USD 72,920.51",30,Finance,New York
+EMP1257,Frank,Miller,30,Admin-Florida,Pending,'2022-08-14',84913.18,frank.miller@gmail.com,Average,T,+2850676250,"USD 84,913.18",30,Admin,Florida
+EMP1258,Alice,Garcia,25,Finance-Illinois,Inactive,'2021-05-08',65060.11,alice.garcia@gmail.com,Excellent,T,+5381447442,"USD 65,060.11",25,Finance,Illinois
+EMP1259,Alice,Williams,35,Finance-Illinois,Pending,'2023-10-09',82941.08,alice.williams@gmail.com,Poor,F,+1963480796,"USD 82,941.08",35,Finance,Illinois
+EMP1260,Bob,Smith,40,Admin-California,Pending,'2022-01-19',103469.97,bob.smith@gmail.com,Good,T,+1509754509,"USD 103,469.97",40,Admin,California
+EMP1261,Grace,Miller,25,Sales-Illinois,Active,'2022-01-12',88725.6,grace.miller@gmail.com,Average,T,+5265016730,"USD 88,725.60",25,Sales,Illinois
+EMP1262,Heidi,Jones,Missing,HR-Illinois,Pending,'2023-06-05',58316.77,heidi.jones@gmail.com,Excellent,T,+8826170242,"USD 58,316.77",30,HR,Illinois
+EMP1263,Grace,Smith,35,HR-Illinois,Inactive,'2024-03-26',60098.72,grace.smith@gmail.com,Excellent,T,+7654562840,"USD 60,098.72",35,HR,Illinois
+EMP1264,Grace,Williams,Missing,Cloud Tech-Texas,Active,'2020-10-07',99951.43,grace.williams@gmail.com,Average,T,+7722560530,"USD 99,951.43",30,Cloud Tech,Texas
+EMP1265,Heidi,Johnson,30,Sales-Illinois,Active,'2021-11-02',115195.81,heidi.johnson@gmail.com,Good,T,+3402665022,"USD 115,195.81",30,Sales,Illinois
+EMP1266,Grace,Brown,Missing,DevOps-California,Pending,'2021-11-19',85512.05,grace.brown@gmail.com,Good,F,+7416787255,"USD 85,512.05",30,DevOps,California
+EMP1267,Heidi,Garcia,Missing,HR-Florida,Active,'2022-01-24',73186.77,heidi.garcia@gmail.com,Good,F,+8621102257,"USD 73,186.77",30,HR,Florida
+EMP1268,Grace,Davis,Missing,HR-Nevada,Pending,'2023-07-12',51865.3,grace.davis@gmail.com,Poor,T,+1305690673,"USD 51,865.30",30,HR,Nevada
+EMP1269,David,Williams,25,Sales-Florida,Active,'2022-12-09',94031.77,david.williams@gmail.com,Excellent,T,+4716392822,"USD 94,031.77",25,Sales,Florida
+EMP1270,Grace,Miller,30,DevOps-New York,Active,'2023-03-18',116374.36,grace.miller@gmail.com,Excellent,F,+4143637188,"USD 116,374.36",30,DevOps,New York
+EMP1271,Alice,Garcia,40,HR-Florida,Active,'2022-04-25',98335.02,alice.garcia@gmail.com,Excellent,F,+2392312603,"USD 98,335.02",40,HR,Florida
+EMP1272,Heidi,Garcia,25,DevOps-New York,Pending,'2021-02-28',89262.07,heidi.garcia@gmail.com,Poor,T,+3260931065,"USD 89,262.07",25,DevOps,New York
+EMP1273,Heidi,Garcia,Missing,Finance-California,Active,'2022-07-30',113848.69,heidi.garcia@gmail.com,Excellent,T,+8433567085,"USD 113,848.69",30,Finance,California
+EMP1274,Frank,Smith,35,Sales-Florida,Active,'2021-05-19',69530.45,frank.smith@gmail.com,Poor,T,+1414545634,"USD 69,530.45",35,Sales,Florida
+EMP1275,Eva,Brown,35,DevOps-New York,Pending,'2023-12-14',84230.22,eva.brown@gmail.com,Good,T,+1200053473,"USD 84,230.22",35,DevOps,New York
+EMP1276,Eva,Smith,35,Cloud Tech-Illinois,Pending,'2023-01-17',76578.59,eva.smith@gmail.com,Average,F,+9162475540,"USD 76,578.59",35,Cloud Tech,Illinois
+EMP1277,Frank,Miller,30,HR-Texas,Inactive,'2024-01-02',55532.06,frank.miller@gmail.com,Excellent,T,+1082555988,"USD 55,532.06",30,HR,Texas
+EMP1278,Eva,Smith,40,Admin-New York,Pending,'2021-07-09',115311.68,eva.smith@gmail.com,Excellent,T,+5343961128,"USD 115,311.68",40,Admin,New York
+EMP1279,Charlie,Johnson,25,Sales-Nevada,Pending,'2021-05-05',66972.06,charlie.johnson@gmail.com,Good,T,+1093371188,"USD 66,972.06",25,Sales,Nevada
+EMP1280,David,Brown,30,Cloud Tech-Texas,Inactive,'2021-11-07',100215.06,david.brown@gmail.com,Average,T,+5473820235,"USD 100,215.06",30,Cloud Tech,Texas
+EMP1281,Charlie,Brown,25,Sales-New York,Inactive,'2023-08-30',115452.25,charlie.brown@gmail.com,Poor,F,+8485571616,"USD 115,452.25",25,Sales,New York
+EMP1282,Heidi,Miller,30,HR-California,Inactive,'2023-08-15',54141.38,heidi.miller@gmail.com,Average,F,+6880294239,"USD 54,141.38",30,HR,California
+EMP1283,David,Davis,Missing,DevOps-Nevada,Active,'2020-12-24',79251.95,david.davis@gmail.com,Good,F,+9036788126,"USD 79,251.95",30,DevOps,Nevada
+EMP1284,Alice,Johnson,40,Finance-New York,Pending,'2024-11-21',114822.78,alice.johnson@gmail.com,Good,T,+8686694319,"USD 114,822.78",40,Finance,New York
+EMP1285,Alice,Williams,35,Sales-Illinois,Active,'2021-11-17',69919.32,alice.williams@gmail.com,Average,T,+2939087883,"USD 69,919.32",35,Sales,Illinois
+EMP1286,Heidi,Smith,30,Sales-Florida,Inactive,'2021-01-29',106616.97,heidi.smith@gmail.com,Poor,F,+4344812307,"USD 106,616.97",30,Sales,Florida
+EMP1287,Heidi,Jones,35,DevOps-New York,Active,'2024-02-17',73597.85,heidi.jones@gmail.com,Poor,T,+3402424032,"USD 73,597.85",35,DevOps,New York
+EMP1288,David,Smith,30,Sales-Nevada,Inactive,'2024-08-20',79939.23,david.smith@gmail.com,Excellent,T,+8105955183,"USD 79,939.23",30,Sales,Nevada
+EMP1289,Grace,Garcia,25,Admin-New York,Inactive,'2021-10-24',,grace.garcia@gmail.com,Poor,F,+2694500533,No Salary,25,Admin,New York
+EMP1290,Grace,Smith,30,Finance-California,Inactive,'2021-09-10',90772.25,grace.smith@gmail.com,Average,F,+2408916497,"USD 90,772.25",30,Finance,California
+EMP1291,Eva,Williams,35,DevOps-New York,Active,'2023-09-29',58275.74,eva.williams@gmail.com,Good,F,+3735439626,"USD 58,275.74",35,DevOps,New York
+EMP1292,Grace,Smith,Missing,DevOps-California,Pending,'2020-08-28',94709.79,grace.smith@gmail.com,Excellent,F,+3652717271,"USD 94,709.79",30,DevOps,California
+EMP1293,Frank,Johnson,Missing,Admin-New York,Active,'2022-09-06',60722.99,frank.johnson@gmail.com,Excellent,T,+2397240421,"USD 60,722.99",30,Admin,New York
+EMP1294,Frank,Johnson,40,DevOps-Illinois,Inactive,'2024-03-31',87626.24,frank.johnson@gmail.com,Good,T,+6931216375,"USD 87,626.24",40,DevOps,Illinois
+EMP1295,David,Brown,30,DevOps-Illinois,Active,'2022-12-12',81272.36,david.brown@gmail.com,Poor,F,+1820916600,"USD 81,272.36",30,DevOps,Illinois
+EMP1296,Bob,Miller,Missing,Cloud Tech-Texas,Pending,'2022-11-01',64150.97,bob.miller@gmail.com,Good,T,,"USD 64,150.97",30,Cloud Tech,Texas
+EMP1297,Charlie,Davis,35,Sales-Florida,Active,'2023-10-25',64378.1,charlie.davis@gmail.com,Poor,F,+1851327971,"USD 64,378.10",35,Sales,Florida
+EMP1298,Bob,Jones,Missing,Finance-Texas,Inactive,'2020-09-27',85927.35,bob.jones@gmail.com,Good,F,+4572308480,"USD 85,927.35",30,Finance,Texas
+EMP1299,Alice,Garcia,Missing,Finance-Nevada,Inactive,'2024-01-21',51523.93,alice.garcia@gmail.com,Average,T,,"USD 51,523.93",30,Finance,Nevada
+EMP1300,Alice,Smith,30,Sales-Texas,Active,'2022-05-17',74117.02,alice.smith@gmail.com,Poor,F,+3036625435,"USD 74,117.02",30,Sales,Texas
+EMP1301,Alice,Smith,25,Finance-Texas,Inactive,'2022-04-17',62598.69,alice.smith@gmail.com,Average,T,+1721314518,"USD 62,598.69",25,Finance,Texas
+EMP1302,Grace,Williams,35,Finance-Florida,Inactive,'2022-02-08',55617.5,grace.williams@gmail.com,Excellent,T,+5151092267,"USD 55,617.50",35,Finance,Florida
+EMP1303,Charlie,Miller,35,Cloud Tech-New York,Pending,'2022-03-15',87018.98,charlie.miller@gmail.com,Good,T,+5926249450,"USD 87,018.98",35,Cloud Tech,New York
+EMP1304,David,Johnson,25,Cloud Tech-California,Inactive,'2023-10-11',100336.58,david.johnson@gmail.com,Excellent,T,+4754102251,"USD 100,336.58",25,Cloud Tech,California
+EMP1305,Grace,Jones,30,Admin-Florida,Inactive,'2020-11-13',69295.48,grace.jones@gmail.com,Excellent,F,+6771196420,"USD 69,295.48",30,Admin,Florida
+EMP1306,Bob,Brown,25,DevOps-Florida,Pending,'2024-04-17',115536.66,bob.brown@gmail.com,Excellent,T,+5226557675,"USD 115,536.66",25,DevOps,Florida
+EMP1307,David,Johnson,30,Cloud Tech-Texas,Pending,'2020-03-09',81250.87,david.johnson@gmail.com,Excellent,F,+9523668787,"USD 81,250.87",30,Cloud Tech,Texas
+EMP1308,Alice,Garcia,30,DevOps-Texas,Inactive,'2022-06-17',66403.75,alice.garcia@gmail.com,Good,F,+7883619688,"USD 66,403.75",30,DevOps,Texas
+EMP1309,Alice,Miller,30,Sales-California,Active,'2024-07-28',114147.79,alice.miller@gmail.com,Excellent,F,+3135030586,"USD 114,147.79",30,Sales,California
+EMP1310,Frank,Garcia,30,HR-New York,Pending,'2022-12-03',65472.99,frank.garcia@gmail.com,Good,F,+2105524727,"USD 65,472.99",30,HR,New York
+EMP1311,Alice,Davis,Missing,Sales-Nevada,Active,'2023-07-06',97512.51,alice.davis@gmail.com,Good,T,+6333021259,"USD 97,512.51",30,Sales,Nevada
+EMP1312,Alice,Brown,35,DevOps-Nevada,Inactive,'2024-05-28',86712.41,alice.brown@gmail.com,Average,T,+6501917919,"USD 86,712.41",35,DevOps,Nevada
+EMP1313,Grace,Davis,30,HR-Florida,Active,'2024-03-25',87654.98,grace.davis@gmail.com,Poor,F,+2521310961,"USD 87,654.98",30,HR,Florida
+EMP1314,David,Williams,35,DevOps-New York,Inactive,'2020-04-28',89367.02,david.williams@gmail.com,Poor,F,+2728476569,"USD 89,367.02",35,DevOps,New York
+EMP1315,Charlie,Garcia,40,Admin-California,Active,'2021-11-07',95269.41,charlie.garcia@gmail.com,Good,T,+4120092819,"USD 95,269.41",40,Admin,California
+EMP1316,Frank,Williams,25,Sales-Nevada,Active,'2020-04-15',68792.31,frank.williams@gmail.com,Average,F,+6678498435,"USD 68,792.31",25,Sales,Nevada
+EMP1317,Alice,Smith,25,Admin-Illinois,Pending,'2023-10-07',89119.53,alice.smith@gmail.com,Good,T,+2418623689,"USD 89,119.53",25,Admin,Illinois
+EMP1318,Frank,Davis,35,Cloud Tech-New York,Active,'2024-02-27',58212.13,frank.davis@gmail.com,Good,F,+3628917755,"USD 58,212.13",35,Cloud Tech,New York
+EMP1319,Heidi,Miller,30,DevOps-Illinois,Pending,'2021-02-22',77764.24,heidi.miller@gmail.com,Good,T,+6205634110,"USD 77,764.24",30,DevOps,Illinois
+EMP1320,Frank,Garcia,35,Finance-Florida,Pending,'2023-08-21',75148.17,frank.garcia@gmail.com,Average,F,+5950342810,"USD 75,148.17",35,Finance,Florida
+EMP1321,Heidi,Jones,40,Cloud Tech-Nevada,Inactive,'2024-04-08',108781.18,heidi.jones@gmail.com,Poor,F,+3904383033,"USD 108,781.18",40,Cloud Tech,Nevada
+EMP1322,Frank,Brown,35,Finance-Texas,Pending,'2024-11-04',65489.19,frank.brown@gmail.com,Average,T,+1990970050,"USD 65,489.19",35,Finance,Texas
+EMP1323,Eva,Johnson,Missing,Sales-Illinois,Pending,'2022-05-05',70663.46,eva.johnson@gmail.com,Excellent,F,+4054683564,"USD 70,663.46",30,Sales,Illinois
+EMP1324,David,Miller,40,Sales-New York,Inactive,'2023-02-01',95822.56,david.miller@gmail.com,Average,F,+2156818208,"USD 95,822.56",40,Sales,New York
+EMP1325,Eva,Miller,40,DevOps-Nevada,Pending,'2022-10-01',82258.03,eva.miller@gmail.com,Average,T,+6790422710,"USD 82,258.03",40,DevOps,Nevada
+EMP1326,Frank,Williams,30,Admin-Nevada,Pending,'2022-09-27',62883.34,frank.williams@gmail.com,Average,F,+3322889856,"USD 62,883.34",30,Admin,Nevada
+EMP1327,Alice,Davis,Missing,Cloud Tech-Texas,Pending,'2020-04-09',103503.72,alice.davis@gmail.com,Average,T,+2545960632,"USD 103,503.72",30,Cloud Tech,Texas
+EMP1328,David,Garcia,25,DevOps-New York,Active,'2021-03-23',85401.3,david.garcia@gmail.com,Poor,T,+9912971023,"USD 85,401.30",25,DevOps,New York
+EMP1329,Heidi,Garcia,40,Cloud Tech-Texas,Pending,'2023-02-03',,heidi.garcia@gmail.com,Excellent,F,+8171752420,No Salary,40,Cloud Tech,Texas
+EMP1330,Eva,Smith,Missing,HR-Texas,Pending,'2024-07-23',98850.14,eva.smith@gmail.com,Poor,F,+4955112746,"USD 98,850.14",30,HR,Texas
+EMP1331,Charlie,Smith,25,Cloud Tech-Illinois,Active,'2021-05-08',63435.24,charlie.smith@gmail.com,Poor,F,+4721970545,"USD 63,435.24",25,Cloud Tech,Illinois
+EMP1332,Frank,Brown,35,Finance-Texas,Inactive,'2022-04-11',82129.84,frank.brown@gmail.com,Average,F,+6927589550,"USD 82,129.84",35,Finance,Texas
+EMP1333,David,Williams,35,DevOps-Texas,Pending,'2024-10-23',95492.61,david.williams@gmail.com,Good,F,+6874090379,"USD 95,492.61",35,DevOps,Texas
+EMP1334,Grace,Miller,40,Finance-Illinois,Inactive,'2020-04-24',94572.37,grace.miller@gmail.com,Good,F,+2146296135,"USD 94,572.37",40,Finance,Illinois
+EMP1335,Bob,Garcia,40,Finance-Nevada,Inactive,'2023-03-04',118413.05,bob.garcia@gmail.com,Poor,F,+7157787111,"USD 118,413.05",40,Finance,Nevada
+EMP1336,Alice,Jones,30,Admin-Nevada,Pending,'2022-08-31',68976.65,alice.jones@gmail.com,Poor,T,+1663651558,"USD 68,976.65",30,Admin,Nevada
+EMP1337,Eva,Williams,Missing,Sales-Nevada,Active,'2021-01-02',115013.65,eva.williams@gmail.com,Average,F,+7371470826,"USD 115,013.65",30,Sales,Nevada
+EMP1338,David,Brown,Missing,Admin-Nevada,Inactive,'2020-06-06',70949.38,david.brown@gmail.com,Poor,T,+2359096055,"USD 70,949.38",30,Admin,Nevada
+EMP1339,Grace,Brown,Missing,HR-Florida,Pending,'2020-10-13',105334.87,grace.brown@gmail.com,Average,F,+7303064420,"USD 105,334.87",30,HR,Florida
+EMP1340,Bob,Williams,Missing,DevOps-California,Active,'2020-07-19',80596.18,bob.williams@gmail.com,Good,F,+2146147682,"USD 80,596.18",30,DevOps,California
+EMP1341,Frank,Brown,Missing,Sales-Illinois,Inactive,'2024-05-03',72846.37,frank.brown@gmail.com,Good,T,+4201654234,"USD 72,846.37",30,Sales,Illinois
+EMP1342,Heidi,Williams,40,Admin-California,Pending,'2022-02-07',80229.36,heidi.williams@gmail.com,Excellent,F,+6778265959,"USD 80,229.36",40,Admin,California
+EMP1343,Grace,Johnson,25,Sales-California,Active,'2023-12-31',55145.47,grace.johnson@gmail.com,Good,F,+8931992549,"USD 55,145.47",25,Sales,California
+EMP1344,Grace,Williams,30,DevOps-Florida,Inactive,'2022-01-08',,grace.williams@gmail.com,Poor,T,+2727516479,No Salary,30,DevOps,Florida
+EMP1345,Eva,Davis,40,HR-California,Active,'2020-09-28',56110.81,eva.davis@gmail.com,Good,F,+7279103367,"USD 56,110.81",40,HR,California
+EMP1346,Grace,Williams,25,Cloud Tech-Texas,Inactive,'2023-02-09',56514.5,grace.williams@gmail.com,Average,F,+2963533904,"USD 56,514.50",25,Cloud Tech,Texas
+EMP1347,Frank,Brown,40,Cloud Tech-California,Inactive,'2022-03-05',104541.84,frank.brown@gmail.com,Good,F,+5044817765,"USD 104,541.84",40,Cloud Tech,California
+EMP1348,David,Garcia,Missing,Sales-New York,Pending,'2022-02-18',61865.12,david.garcia@gmail.com,Excellent,T,+5586851275,"USD 61,865.12",30,Sales,New York
+EMP1349,Eva,Davis,40,Admin-Texas,Active,'2022-06-09',69317.33,eva.davis@gmail.com,Good,F,+5289286645,"USD 69,317.33",40,Admin,Texas
+EMP1350,Bob,Brown,35,HR-New York,Pending,'2023-07-04',84706.17,bob.brown@gmail.com,Average,F,+4911110960,"USD 84,706.17",35,HR,New York
+EMP1351,Heidi,Smith,25,Admin-California,Active,'2022-03-21',73255.21,heidi.smith@gmail.com,Average,F,+7981789045,"USD 73,255.21",25,Admin,California
+EMP1352,Frank,Smith,40,HR-Florida,Pending,'2023-05-02',59528.71,frank.smith@gmail.com,Poor,F,+3378613714,"USD 59,528.71",40,HR,Florida
+EMP1353,David,Garcia,40,HR-New York,Inactive,'2021-10-15',70401.37,david.garcia@gmail.com,Good,T,+7660538443,"USD 70,401.37",40,HR,New York
+EMP1354,Heidi,Garcia,Missing,Admin-California,Inactive,'2021-07-28',107154.62,heidi.garcia@gmail.com,Average,T,+4630600024,"USD 107,154.62",30,Admin,California
+EMP1355,Bob,Davis,Missing,Admin-Illinois,Pending,'2021-01-03',97719.88,bob.davis@gmail.com,Excellent,F,+8955296385,"USD 97,719.88",30,Admin,Illinois
+EMP1356,Heidi,Johnson,30,Finance-California,Pending,'2020-05-21',107327.59,heidi.johnson@gmail.com,Poor,F,+3960962625,"USD 107,327.59",30,Finance,California
+EMP1357,Grace,Garcia,40,Admin-Nevada,Inactive,'2021-05-10',67687.72,grace.garcia@gmail.com,Excellent,T,+5826312818,"USD 67,687.72",40,Admin,Nevada
+EMP1358,Grace,Smith,40,Cloud Tech-Florida,Pending,'2022-09-08',90757.08,grace.smith@gmail.com,Good,T,+6482531105,"USD 90,757.08",40,Cloud Tech,Florida
+EMP1359,Grace,Williams,Missing,Cloud Tech-California,Pending,'2024-07-21',87583.42,grace.williams@gmail.com,Good,F,+1920981959,"USD 87,583.42",30,Cloud Tech,California
+EMP1360,Bob,Brown,25,Admin-Nevada,Pending,'2021-12-28',61643.69,bob.brown@gmail.com,Good,T,+2752334382,"USD 61,643.69",25,Admin,Nevada
+EMP1361,Grace,Smith,35,Finance-Texas,Active,'2020-07-20',68111.69,grace.smith@gmail.com,Poor,F,+6404120910,"USD 68,111.69",35,Finance,Texas
+EMP1362,David,Smith,40,HR-Florida,Inactive,'2024-04-30',97568.88,david.smith@gmail.com,Average,T,+7911244210,"USD 97,568.88",40,HR,Florida
+EMP1363,Charlie,Johnson,35,Cloud Tech-Florida,Active,'2021-08-28',79118.28,charlie.johnson@gmail.com,Poor,T,+7536170616,"USD 79,118.28",35,Cloud Tech,Florida
+EMP1364,Bob,Davis,30,HR-California,Inactive,'2022-07-21',104898.9,bob.davis@gmail.com,Excellent,T,+1366572239,"USD 104,898.90",30,HR,California
+EMP1365,Frank,Davis,40,Cloud Tech-Florida,Pending,'2023-11-27',81671.3,frank.davis@gmail.com,Poor,T,+2990155798,"USD 81,671.30",40,Cloud Tech,Florida
+EMP1366,Alice,Miller,25,Cloud Tech-California,Pending,'2020-08-11',97399.75,alice.miller@gmail.com,Excellent,F,+8028413907,"USD 97,399.75",25,Cloud Tech,California
+EMP1367,David,Johnson,Missing,Admin-Illinois,Active,'2021-11-08',89189.43,david.johnson@gmail.com,Poor,T,+1882351304,"USD 89,189.43",30,Admin,Illinois
+EMP1368,David,Williams,40,DevOps-New York,Active,'2023-08-04',96011.55,david.williams@gmail.com,Average,T,+2312447314,"USD 96,011.55",40,DevOps,New York
+EMP1369,David,Davis,40,Sales-Florida,Inactive,'2020-01-10',99331.49,david.davis@gmail.com,Excellent,F,+8477686341,"USD 99,331.49",40,Sales,Florida
+EMP1370,Bob,Brown,Missing,Cloud Tech-Illinois,Active,'2022-01-19',72818.94,bob.brown@gmail.com,Good,T,+3461994236,"USD 72,818.94",30,Cloud Tech,Illinois
+EMP1371,Eva,Garcia,40,Sales-Nevada,Inactive,'2023-05-07',77204.75,eva.garcia@gmail.com,Good,T,+6769459195,"USD 77,204.75",40,Sales,Nevada
+EMP1372,Bob,Johnson,35,HR-Florida,Pending,'2020-12-19',106961.68,bob.johnson@gmail.com,Poor,F,+6395517207,"USD 106,961.68",35,HR,Florida
+EMP1373,Eva,Garcia,Missing,Sales-Texas,Pending,'2020-10-01',71923.0,eva.garcia@gmail.com,Good,T,+4964985600,"USD 71,923.00",30,Sales,Texas
+EMP1374,Bob,Smith,30,HR-Nevada,Active,'2022-11-12',77192.43,bob.smith@gmail.com,Excellent,F,+2562531354,"USD 77,192.43",30,HR,Nevada
+EMP1375,Grace,Brown,40,Admin-Florida,Pending,'2023-01-05',98540.3,grace.brown@gmail.com,Good,F,+2510505378,"USD 98,540.30",40,Admin,Florida
+EMP1376,Charlie,Brown,Missing,Admin-Florida,Inactive,'2020-10-14',63096.9,charlie.brown@gmail.com,Average,F,+5381649382,"USD 63,096.90",30,Admin,Florida
+EMP1377,Alice,Smith,35,Cloud Tech-Florida,Active,'2021-02-03',107065.12,alice.smith@gmail.com,Average,F,+1849196654,"USD 107,065.12",35,Cloud Tech,Florida
+EMP1378,Heidi,Johnson,40,DevOps-Florida,Inactive,'2023-12-25',108792.43,heidi.johnson@gmail.com,Poor,T,+3307704610,"USD 108,792.43",40,DevOps,Florida
+EMP1379,Bob,Smith,Missing,Cloud Tech-New York,Inactive,'2020-03-07',69239.7,bob.smith@gmail.com,Excellent,F,+7295963903,"USD 69,239.70",30,Cloud Tech,New York
+EMP1380,Charlie,Garcia,40,Sales-Nevada,Inactive,'2023-01-30',85756.42,charlie.garcia@gmail.com,Average,T,+1907426087,"USD 85,756.42",40,Sales,Nevada
+EMP1381,Eva,Miller,Missing,HR-Illinois,Active,'2024-04-05',100328.62,eva.miller@gmail.com,Average,T,+1501716444,"USD 100,328.62",30,HR,Illinois
+EMP1382,Grace,Brown,25,DevOps-Nevada,Active,'2021-09-01',111236.69,grace.brown@gmail.com,Excellent,T,+5618579063,"USD 111,236.69",25,DevOps,Nevada
+EMP1383,Eva,Jones,35,Cloud Tech-Florida,Active,'2024-05-07',106832.22,eva.jones@gmail.com,Good,T,+7715910299,"USD 106,832.22",35,Cloud Tech,Florida
+EMP1384,Frank,Jones,Missing,DevOps-Florida,Active,'2023-06-15',59746.45,frank.jones@gmail.com,Good,T,+2156321357,"USD 59,746.45",30,DevOps,Florida
+EMP1385,David,Garcia,25,Sales-California,Pending,'2021-07-29',91780.04,david.garcia@gmail.com,Poor,T,,"USD 91,780.04",25,Sales,California
+EMP1386,Eva,Williams,35,Sales-California,Pending,'2023-10-23',107062.66,eva.williams@gmail.com,Good,T,+9642297124,"USD 107,062.66",35,Sales,California
+EMP1387,Grace,Davis,25,HR-Nevada,Active,'2023-12-07',110625.52,grace.davis@gmail.com,Excellent,T,+2967188396,"USD 110,625.52",25,HR,Nevada
+EMP1388,Frank,Smith,30,DevOps-Florida,Inactive,'2020-10-18',90419.79,frank.smith@gmail.com,Average,T,+7457314414,"USD 90,419.79",30,DevOps,Florida
+EMP1389,Grace,Smith,40,Finance-Texas,Pending,'2024-06-15',111608.76,grace.smith@gmail.com,Good,T,+8331170302,"USD 111,608.76",40,Finance,Texas
+EMP1390,Eva,Williams,35,Finance-Florida,Inactive,'2023-04-06',50173.12,eva.williams@gmail.com,Poor,F,+7637153987,"USD 50,173.12",35,Finance,Florida
+EMP1391,Bob,Williams,40,DevOps-Nevada,Pending,'2022-01-03',109507.44,bob.williams@gmail.com,Good,F,+5472812355,"USD 109,507.44",40,DevOps,Nevada
+EMP1392,Grace,Garcia,30,Finance-New York,Inactive,'2021-07-03',72600.56,grace.garcia@gmail.com,Excellent,F,+7983631461,"USD 72,600.56",30,Finance,New York
+EMP1393,Charlie,Garcia,Missing,Finance-California,Pending,'2024-04-10',53388.65,charlie.garcia@gmail.com,Poor,T,+4912711306,"USD 53,388.65",30,Finance,California
+EMP1394,Heidi,Williams,25,Cloud Tech-New York,Inactive,'2022-07-23',50047.32,heidi.williams@gmail.com,Good,F,+2407875417,"USD 50,047.32",25,Cloud Tech,New York
+EMP1395,David,Brown,30,DevOps-California,Active,'2024-11-25',115290.79,david.brown@gmail.com,Poor,F,+1563268684,"USD 115,290.79",30,DevOps,California
+EMP1396,Frank,Garcia,35,Cloud Tech-California,Pending,'2023-08-21',61586.76,frank.garcia@gmail.com,Excellent,F,+1745106633,"USD 61,586.76",35,Cloud Tech,California
+EMP1397,Eva,Miller,30,Finance-Nevada,Active,'2023-12-12',56662.86,eva.miller@gmail.com,Average,T,+3629489785,"USD 56,662.86",30,Finance,Nevada
+EMP1398,Bob,Garcia,30,Sales-New York,Pending,'2023-10-24',,bob.garcia@gmail.com,Excellent,T,+1031310093,No Salary,30,Sales,New York
+EMP1399,Frank,Smith,25,Finance-Nevada,Active,'2022-09-05',54957.98,frank.smith@gmail.com,Excellent,T,+3181439665,"USD 54,957.98",25,Finance,Nevada
+EMP1400,Bob,Garcia,25,HR-California,Inactive,'2020-10-07',76790.47,bob.garcia@gmail.com,Excellent,T,+1347323548,"USD 76,790.47",25,HR,California
+EMP1401,Charlie,Brown,30,Cloud Tech-Illinois,Pending,'2020-01-18',92722.35,charlie.brown@gmail.com,Excellent,F,+4012897431,"USD 92,722.35",30,Cloud Tech,Illinois
+EMP1402,Frank,Williams,30,DevOps-Nevada,Active,'2022-04-23',93125.32,frank.williams@gmail.com,Average,F,+5122572075,"USD 93,125.32",30,DevOps,Nevada
+EMP1403,David,Smith,25,Cloud Tech-New York,Active,'2023-04-22',101100.64,david.smith@gmail.com,Average,F,+5024120956,"USD 101,100.64",25,Cloud Tech,New York
+EMP1404,Grace,Garcia,35,Admin-New York,Inactive,'2023-08-13',55897.41,grace.garcia@gmail.com,Poor,F,+9073710093,"USD 55,897.41",35,Admin,New York
+EMP1405,Eva,Brown,25,DevOps-California,Active,'2022-11-26',92484.88,eva.brown@gmail.com,Good,T,+3882211456,"USD 92,484.88",25,DevOps,California
+EMP1406,Grace,Miller,35,DevOps-Texas,Active,'2022-10-10',77011.99,grace.miller@gmail.com,Average,T,+7584745704,"USD 77,011.99",35,DevOps,Texas
+EMP1407,Bob,Garcia,Missing,Cloud Tech-California,Inactive,'2020-09-27',77078.68,bob.garcia@gmail.com,Average,T,+4589714801,"USD 77,078.68",30,Cloud Tech,California
+EMP1408,Grace,Brown,35,Sales-Nevada,Active,'2024-04-11',82971.02,grace.brown@gmail.com,Good,F,+6325703964,"USD 82,971.02",35,Sales,Nevada
+EMP1409,Bob,Miller,25,Sales-Texas,Active,'2021-06-20',65102.01,bob.miller@gmail.com,Average,T,+3136148781,"USD 65,102.01",25,Sales,Texas
+EMP1410,Grace,Williams,Missing,HR-Nevada,Pending,'2022-10-23',103697.7,grace.williams@gmail.com,Excellent,T,+4556964429,"USD 103,697.70",30,HR,Nevada
+EMP1411,Grace,Garcia,25,DevOps-Illinois,Pending,'2023-06-15',60687.63,grace.garcia@gmail.com,Excellent,F,+9859167953,"USD 60,687.63",25,DevOps,Illinois
+EMP1412,Bob,Miller,Missing,Admin-New York,Pending,'2021-10-31',77351.21,bob.miller@gmail.com,Good,F,+1072728497,"USD 77,351.21",30,Admin,New York
+EMP1413,Bob,Smith,35,DevOps-Florida,Pending,'2024-09-29',66704.62,bob.smith@gmail.com,Poor,T,+2474140702,"USD 66,704.62",35,DevOps,Florida
+EMP1414,Grace,Williams,25,Finance-Illinois,Pending,'2020-04-22',71650.3,grace.williams@gmail.com,Poor,T,+4910740649,"USD 71,650.30",25,Finance,Illinois
+EMP1415,Charlie,Smith,25,Cloud Tech-Nevada,Active,'2023-12-07',50794.54,charlie.smith@gmail.com,Good,T,+1425488213,"USD 50,794.54",25,Cloud Tech,Nevada
+EMP1416,Frank,Jones,Missing,Sales-Nevada,Inactive,'2020-12-07',76030.86,frank.jones@gmail.com,Good,T,+2369143074,"USD 76,030.86",30,Sales,Nevada
+EMP1417,Eva,Johnson,25,Cloud Tech-California,Inactive,'2021-07-11',86669.79,eva.johnson@gmail.com,Excellent,T,+3666144941,"USD 86,669.79",25,Cloud Tech,California
+EMP1418,Bob,Garcia,40,Finance-Illinois,Inactive,'2020-04-23',84972.7,bob.garcia@gmail.com,Poor,T,+9659234267,"USD 84,972.70",40,Finance,Illinois
+EMP1419,Frank,Miller,30,HR-Texas,Pending,'2023-10-12',100594.49,frank.miller@gmail.com,Average,F,+3441497825,"USD 100,594.49",30,HR,Texas
+EMP1420,Alice,Johnson,25,Cloud Tech-New York,Active,'2022-08-24',75478.35,alice.johnson@gmail.com,Excellent,F,+6128758574,"USD 75,478.35",25,Cloud Tech,New York
+EMP1421,Charlie,Johnson,25,Sales-Nevada,Pending,'2023-09-04',79355.85,charlie.johnson@gmail.com,Good,F,+6766708060,"USD 79,355.85",25,Sales,Nevada
+EMP1422,Grace,Miller,35,HR-Texas,Pending,'2022-02-02',58358.07,grace.miller@gmail.com,Poor,T,+2943985297,"USD 58,358.07",35,HR,Texas
+EMP1423,Alice,Williams,30,Admin-Illinois,Active,'2022-04-01',54824.85,alice.williams@gmail.com,Average,F,+9406260786,"USD 54,824.85",30,Admin,Illinois
+EMP1424,Eva,Garcia,35,HR-Texas,Pending,'2022-07-24',50557.84,eva.garcia@gmail.com,Average,T,+1104159148,"USD 50,557.84",35,HR,Texas
+EMP1425,Eva,Jones,Missing,Admin-Florida,Inactive,'2023-04-26',118030.04,eva.jones@gmail.com,Excellent,T,+7501980381,"USD 118,030.04",30,Admin,Florida
+EMP1426,David,Smith,Missing,Admin-New York,Active,'2022-04-19',51673.72,david.smith@gmail.com,Poor,F,+8723244078,"USD 51,673.72",30,Admin,New York
+EMP1427,Alice,Brown,35,Cloud Tech-Nevada,Inactive,'2024-10-04',101665.79,alice.brown@gmail.com,Poor,T,+3110291812,"USD 101,665.79",35,Cloud Tech,Nevada
+EMP1428,David,Smith,Missing,Admin-Florida,Inactive,'2020-05-02',118079.15,david.smith@gmail.com,Good,T,+3170876013,"USD 118,079.15",30,Admin,Florida
+EMP1429,Eva,Brown,25,Cloud Tech-New York,Pending,'2022-04-25',99059.28,eva.brown@gmail.com,Poor,F,+6723849790,"USD 99,059.28",25,Cloud Tech,New York
+EMP1430,Bob,Smith,Missing,Cloud Tech-Illinois,Active,'2023-07-29',107397.4,bob.smith@gmail.com,Poor,F,+6202232882,"USD 107,397.40",30,Cloud Tech,Illinois
+EMP1431,Alice,Miller,40,DevOps-New York,Active,'2021-08-20',68269.37,alice.miller@gmail.com,Excellent,F,+7744197545,"USD 68,269.37",40,DevOps,New York
+EMP1432,Grace,Jones,35,HR-Florida,Inactive,'2021-04-23',55228.12,grace.jones@gmail.com,Poor,T,+6176620470,"USD 55,228.12",35,HR,Florida
+EMP1433,Bob,Garcia,30,Cloud Tech-New York,Inactive,'2022-08-12',71982.33,bob.garcia@gmail.com,Average,F,+9609409704,"USD 71,982.33",30,Cloud Tech,New York
+EMP1434,Frank,Brown,30,Finance-California,Inactive,'2021-06-26',109673.75,frank.brown@gmail.com,Excellent,F,+2774025882,"USD 109,673.75",30,Finance,California
+EMP1435,Eva,Garcia,Missing,Cloud Tech-New York,Inactive,'2020-10-30',56384.9,eva.garcia@gmail.com,Excellent,T,+5868122594,"USD 56,384.90",30,Cloud Tech,New York
+EMP1436,Frank,Garcia,40,Sales-Texas,Pending,'2021-09-04',68211.68,frank.garcia@gmail.com,Good,F,+7244617678,"USD 68,211.68",40,Sales,Texas
+EMP1437,Alice,Garcia,40,Finance-Illinois,Pending,'2023-01-31',67489.68,alice.garcia@gmail.com,Poor,F,+2988425994,"USD 67,489.68",40,Finance,Illinois
+EMP1438,Charlie,Davis,25,Cloud Tech-Texas,Active,'2020-09-24',63869.31,charlie.davis@gmail.com,Good,F,+9961002310,"USD 63,869.31",25,Cloud Tech,Texas
+EMP1439,Bob,Williams,Missing,Sales-California,Active,'2020-02-14',119801.3,bob.williams@gmail.com,Average,T,+7753312660,"USD 119,801.30",30,Sales,California
+EMP1440,Heidi,Smith,30,Cloud Tech-California,Active,'2020-03-28',115959.65,heidi.smith@gmail.com,Excellent,T,+1941017589,"USD 115,959.65",30,Cloud Tech,California
+EMP1441,Grace,Garcia,40,Finance-Texas,Inactive,'2023-10-31',79866.48,grace.garcia@gmail.com,Excellent,T,+2517629832,"USD 79,866.48",40,Finance,Texas
+EMP1442,Charlie,Smith,35,HR-Florida,Active,'2020-03-11',92987.46,charlie.smith@gmail.com,Excellent,T,+4774332682,"USD 92,987.46",35,HR,Florida
+EMP1443,Eva,Garcia,40,Finance-Illinois,Inactive,'2020-05-04',56140.51,eva.garcia@gmail.com,Average,F,+1901302055,"USD 56,140.51",40,Finance,Illinois
+EMP1444,Grace,Brown,30,DevOps-Illinois,Active,'2023-07-15',119586.11,grace.brown@gmail.com,Average,T,+9815287338,"USD 119,586.11",30,DevOps,Illinois
+EMP1445,Alice,Williams,40,DevOps-California,Inactive,'2023-01-20',104700.46,alice.williams@gmail.com,Good,T,+7855982175,"USD 104,700.46",40,DevOps,California
+EMP1446,Frank,Williams,40,HR-New York,Active,'2021-10-15',91798.14,frank.williams@gmail.com,Good,F,+6191284116,"USD 91,798.14",40,HR,New York
+EMP1447,Eva,Miller,25,Finance-Illinois,Inactive,'2024-04-19',90879.22,eva.miller@gmail.com,Good,F,+3098503445,"USD 90,879.22",25,Finance,Illinois
+EMP1448,Charlie,Davis,25,Admin-Nevada,Active,'2021-06-29',87358.27,charlie.davis@gmail.com,Poor,F,+5124189388,"USD 87,358.27",25,Admin,Nevada
+EMP1449,Alice,Miller,30,Sales-Florida,Inactive,'2024-09-14',119407.93,alice.miller@gmail.com,Excellent,T,+8469081973,"USD 119,407.93",30,Sales,Florida
+EMP1450,David,Miller,Missing,HR-Nevada,Pending,'2022-01-04',113978.6,david.miller@gmail.com,Excellent,T,,"USD 113,978.60",30,HR,Nevada
+EMP1451,Frank,Miller,Missing,Sales-New York,Pending,'2021-01-20',108568.78,frank.miller@gmail.com,Good,T,+8503719904,"USD 108,568.78",30,Sales,New York
+EMP1452,Heidi,Miller,Missing,HR-New York,Inactive,'2020-03-18',56318.02,heidi.miller@gmail.com,Excellent,F,+1699187239,"USD 56,318.02",30,HR,New York
+EMP1453,David,Miller,25,Sales-Florida,Active,'2021-11-10',114252.73,david.miller@gmail.com,Good,F,+1078356742,"USD 114,252.73",25,Sales,Florida
+EMP1454,Charlie,Jones,35,DevOps-New York,Inactive,'2020-05-01',51533.9,charlie.jones@gmail.com,Poor,T,,"USD 51,533.90",35,DevOps,New York
+EMP1455,Charlie,Williams,25,Sales-California,Active,'2022-02-04',99317.66,charlie.williams@gmail.com,Poor,F,+1662668216,"USD 99,317.66",25,Sales,California
+EMP1456,Bob,Miller,35,HR-California,Active,'2020-11-18',101264.64,bob.miller@gmail.com,Average,F,+1955356032,"USD 101,264.64",35,HR,California
+EMP1457,Heidi,Garcia,35,Admin-Nevada,Pending,'2023-11-21',112272.02,heidi.garcia@gmail.com,Poor,F,+1903689002,"USD 112,272.02",35,Admin,Nevada
+EMP1458,Frank,Williams,30,DevOps-Illinois,Active,'2022-02-13',71477.63,frank.williams@gmail.com,Good,T,+1102724054,"USD 71,477.63",30,DevOps,Illinois
+EMP1459,Charlie,Williams,30,DevOps-Texas,Pending,'2023-03-19',77412.1,charlie.williams@gmail.com,Poor,F,+9342967110,"USD 77,412.10",30,DevOps,Texas
+EMP1460,Alice,Johnson,30,Sales-California,Pending,'2021-03-28',94775.27,alice.johnson@gmail.com,Average,F,+4837537457,"USD 94,775.27",30,Sales,California
+EMP1461,Heidi,Jones,30,HR-Nevada,Active,'2021-05-02',74276.71,heidi.jones@gmail.com,Excellent,T,+4384588104,"USD 74,276.71",30,HR,Nevada
+EMP1462,Bob,Miller,35,Finance-Texas,Inactive,'2021-03-05',67467.86,bob.miller@gmail.com,Good,T,+6974132833,"USD 67,467.86",35,Finance,Texas
+EMP1463,Eva,Smith,25,DevOps-Texas,Active,'2022-03-01',80675.41,eva.smith@gmail.com,Excellent,F,+8315203770,"USD 80,675.41",25,DevOps,Texas
+EMP1464,Charlie,Brown,40,Finance-Florida,Inactive,'2023-01-23',76274.33,charlie.brown@gmail.com,Average,F,+1704496409,"USD 76,274.33",40,Finance,Florida
+EMP1465,David,Davis,30,Finance-Texas,Active,'2021-08-26',51405.46,david.davis@gmail.com,Average,T,+4967066702,"USD 51,405.46",30,Finance,Texas
+EMP1466,Bob,Garcia,25,HR-New York,Inactive,'2020-11-25',101238.96,bob.garcia@gmail.com,Average,T,+3626804084,"USD 101,238.96",25,HR,New York
+EMP1467,Bob,Smith,35,Sales-Illinois,Inactive,'2023-12-13',52169.52,bob.smith@gmail.com,Excellent,F,+1954930595,"USD 52,169.52",35,Sales,Illinois
+EMP1468,Charlie,Jones,Missing,Finance-New York,Active,'2020-07-26',73176.62,charlie.jones@gmail.com,Excellent,F,+6018648768,"USD 73,176.62",30,Finance,New York
+EMP1469,Grace,Brown,Missing,DevOps-Nevada,Pending,'2021-06-27',96241.85,grace.brown@gmail.com,Excellent,F,+9842673203,"USD 96,241.85",30,DevOps,Nevada
+EMP1470,Bob,Jones,25,Finance-Illinois,Pending,'2024-09-16',84366.38,bob.jones@gmail.com,Excellent,F,+4138459608,"USD 84,366.38",25,Finance,Illinois
+EMP1471,Alice,Garcia,40,Cloud Tech-California,Pending,'2023-07-04',92015.09,alice.garcia@gmail.com,Average,T,+4544901494,"USD 92,015.09",40,Cloud Tech,California
+EMP1472,Alice,Williams,30,Admin-Nevada,Inactive,'2020-06-16',83149.95,alice.williams@gmail.com,Average,F,+4277070704,"USD 83,149.95",30,Admin,Nevada
+EMP1473,Grace,Brown,40,Finance-Nevada,Inactive,'2020-07-05',94930.65,grace.brown@gmail.com,Good,F,+7836091497,"USD 94,930.65",40,Finance,Nevada
+EMP1474,Frank,Williams,40,HR-New York,Inactive,'2020-04-01',68430.72,frank.williams@gmail.com,Good,T,+5172444722,"USD 68,430.72",40,HR,New York
+EMP1475,David,Garcia,35,Sales-Texas,Active,'2024-03-20',98752.97,david.garcia@gmail.com,Excellent,F,+2290310286,"USD 98,752.97",35,Sales,Texas
+EMP1476,Frank,Smith,Missing,Finance-Illinois,Active,'2023-02-07',54268.86,frank.smith@gmail.com,Poor,T,+9508304404,"USD 54,268.86",30,Finance,Illinois
+EMP1477,Grace,Garcia,Missing,DevOps-Florida,Pending,'2024-12-10',66494.94,grace.garcia@gmail.com,Poor,F,+8093511870,"USD 66,494.94",30,DevOps,Florida
+EMP1478,Grace,Smith,25,Sales-Illinois,Pending,'2024-06-27',90003.98,grace.smith@gmail.com,Average,F,+8133595615,"USD 90,003.98",25,Sales,Illinois
+EMP1479,Charlie,Brown,25,Finance-New York,Active,'2021-03-09',106592.25,charlie.brown@gmail.com,Average,T,+4205955656,"USD 106,592.25",25,Finance,New York
+EMP1480,Grace,Brown,25,DevOps-Florida,Active,'2024-08-11',93905.83,grace.brown@gmail.com,Average,T,+4902504289,"USD 93,905.83",25,DevOps,Florida
+EMP1481,Eva,Miller,35,DevOps-Texas,Active,'2022-03-05',88945.49,eva.miller@gmail.com,Good,F,+1935889535,"USD 88,945.49",35,DevOps,Texas
+EMP1482,Eva,Jones,Missing,Finance-Texas,Pending,'2023-06-30',91130.33,eva.jones@gmail.com,Good,F,+9026113988,"USD 91,130.33",30,Finance,Texas
+EMP1483,Bob,Miller,40,Admin-New York,Pending,'2023-04-19',90787.4,bob.miller@gmail.com,Average,F,+8681809787,"USD 90,787.40",40,Admin,New York
+EMP1484,Bob,Jones,25,Sales-Texas,Inactive,'2024-11-11',87494.34,bob.jones@gmail.com,Average,T,+7543943534,"USD 87,494.34",25,Sales,Texas
+EMP1485,Grace,Miller,35,Finance-Nevada,Inactive,'2023-03-17',92627.35,grace.miller@gmail.com,Average,F,+3751376514,"USD 92,627.35",35,Finance,Nevada
+EMP1486,Eva,Williams,40,Admin-Illinois,Pending,'2023-10-26',98556.29,eva.williams@gmail.com,Poor,T,+8815793762,"USD 98,556.29",40,Admin,Illinois
+EMP1487,Frank,Brown,30,Cloud Tech-Nevada,Inactive,'2021-07-04',112792.2,frank.brown@gmail.com,Good,T,+9283692943,"USD 112,792.20",30,Cloud Tech,Nevada
+EMP1488,Eva,Smith,35,HR-Florida,Pending,'2023-11-03',56875.22,eva.smith@gmail.com,Poor,F,+5511668296,"USD 56,875.22",35,HR,Florida
+EMP1489,Charlie,Jones,35,DevOps-Florida,Inactive,'2021-07-05',101015.96,charlie.jones@gmail.com,Poor,T,+3270216486,"USD 101,015.96",35,DevOps,Florida
+EMP1490,Bob,Garcia,30,Finance-New York,Inactive,'2024-02-26',83912.22,bob.garcia@gmail.com,Average,F,+1206021287,"USD 83,912.22",30,Finance,New York
+EMP1491,Frank,Jones,25,Sales-New York,Active,'2021-09-29',99669.86,frank.jones@gmail.com,Average,F,+6652683414,"USD 99,669.86",25,Sales,New York
+EMP1492,Alice,Smith,30,Admin-New York,Active,'2021-05-25',52314.97,alice.smith@gmail.com,Excellent,F,+5999101575,"USD 52,314.97",30,Admin,New York
+EMP1493,Frank,Miller,30,HR-California,Inactive,'2022-10-31',77785.96,frank.miller@gmail.com,Excellent,F,+7647229811,"USD 77,785.96",30,HR,California
+EMP1494,Alice,Jones,30,HR-Florida,Pending,'2022-07-02',62430.86,alice.jones@gmail.com,Poor,F,+1995765727,"USD 62,430.86",30,HR,Florida
+EMP1495,Frank,Davis,35,Admin-California,Pending,'2024-08-28',98219.54,frank.davis@gmail.com,Good,T,+9413475097,"USD 98,219.54",35,Admin,California
+EMP1496,Grace,Williams,25,Admin-Illinois,Active,'2024-10-21',65494.58,grace.williams@gmail.com,Average,T,+8986456521,"USD 65,494.58",25,Admin,Illinois
+EMP1497,David,Brown,35,DevOps-Florida,Pending,'2020-02-11',110524.1,david.brown@gmail.com,Average,F,+1368499514,"USD 110,524.10",35,DevOps,Florida
+EMP1498,Alice,Smith,40,Admin-Nevada,Active,'2023-05-16',106060.54,alice.smith@gmail.com,Poor,F,+4214477323,"USD 106,060.54",40,Admin,Nevada
+EMP1499,Eva,Brown,35,Finance-Florida,Inactive,'2022-07-29',67639.91,eva.brown@gmail.com,Excellent,T,+4913421387,"USD 67,639.91",35,Finance,Florida
+EMP1500,Grace,Davis,Missing,Cloud Tech-Texas,Pending,'2023-09-18',117653.98,grace.davis@gmail.com,Good,T,+2090883069,"USD 117,653.98",30,Cloud Tech,Texas
+EMP1501,Eva,Jones,35,DevOps-Texas,Inactive,'2020-05-10',73539.86,eva.jones@gmail.com,Excellent,T,+5349678273,"USD 73,539.86",35,DevOps,Texas
+EMP1502,Frank,Jones,35,HR-Nevada,Pending,'2023-08-27',70915.38,frank.jones@gmail.com,Excellent,T,+1176741240,"USD 70,915.38",35,HR,Nevada
+EMP1503,David,Garcia,25,Sales-Florida,Pending,'2021-10-16',97652.9,david.garcia@gmail.com,Excellent,F,+5131528546,"USD 97,652.90",25,Sales,Florida
+EMP1504,Heidi,Davis,35,HR-Florida,Inactive,'2022-03-06',101571.25,heidi.davis@gmail.com,Excellent,F,+8150618537,"USD 101,571.25",35,HR,Florida
+EMP1505,David,Smith,35,DevOps-Nevada,Active,'2023-11-06',87424.46,david.smith@gmail.com,Average,T,,"USD 87,424.46",35,DevOps,Nevada
+EMP1506,Frank,Garcia,Missing,HR-New York,Pending,'2024-11-30',89077.36,frank.garcia@gmail.com,Average,F,+2727423182,"USD 89,077.36",30,HR,New York
+EMP1507,Heidi,Williams,30,DevOps-California,Pending,'2024-07-13',89132.22,heidi.williams@gmail.com,Excellent,T,+1617893205,"USD 89,132.22",30,DevOps,California
+EMP1508,Frank,Garcia,25,Admin-California,Active,'2024-03-04',111000.26,frank.garcia@gmail.com,Good,F,+4969357823,"USD 111,000.26",25,Admin,California
+EMP1509,Frank,Johnson,35,HR-Illinois,Inactive,'2022-08-07',109584.97,frank.johnson@gmail.com,Poor,T,+3477695873,"USD 109,584.97",35,HR,Illinois
+EMP1510,Bob,Smith,40,Admin-Illinois,Active,'2024-11-11',97648.84,bob.smith@gmail.com,Good,F,+1314675360,"USD 97,648.84",40,Admin,Illinois
+EMP1511,Grace,Johnson,25,Admin-New York,Active,'2021-12-02',78643.43,grace.johnson@gmail.com,Good,T,+2751562778,"USD 78,643.43",25,Admin,New York
+EMP1512,Heidi,Davis,30,HR-Nevada,Active,'2024-05-14',55656.8,heidi.davis@gmail.com,Good,T,+6304483607,"USD 55,656.80",30,HR,Nevada
+EMP1513,Charlie,Miller,35,DevOps-Texas,Active,'2022-07-14',69146.95,charlie.miller@gmail.com,Excellent,F,+5456676639,"USD 69,146.95",35,DevOps,Texas
+EMP1514,Charlie,Johnson,Missing,Admin-Florida,Active,'2020-09-22',93013.58,charlie.johnson@gmail.com,Average,T,+4735047638,"USD 93,013.58",30,Admin,Florida
+EMP1515,Grace,Williams,40,Finance-Florida,Active,'2020-03-18',87364.78,grace.williams@gmail.com,Good,F,+2831995297,"USD 87,364.78",40,Finance,Florida
+EMP1516,Alice,Garcia,35,Sales-New York,Active,'2023-10-17',50288.67,alice.garcia@gmail.com,Excellent,F,,"USD 50,288.67",35,Sales,New York
+EMP1517,David,Miller,35,HR-New York,Active,'2022-02-24',85233.55,david.miller@gmail.com,Good,T,+3583286341,"USD 85,233.55",35,HR,New York
+EMP1518,Bob,Garcia,25,HR-California,Inactive,'2024-01-30',86420.19,bob.garcia@gmail.com,Good,F,+5563830007,"USD 86,420.19",25,HR,California
+EMP1519,Grace,Johnson,30,HR-Florida,Inactive,'2024-03-16',63189.82,grace.johnson@gmail.com,Excellent,F,+1867024402,"USD 63,189.82",30,HR,Florida
+EMP1520,Grace,Garcia,25,Admin-New York,Pending,'2020-09-25',64783.32,grace.garcia@gmail.com,Average,F,+3041662410,"USD 64,783.32",25,Admin,New York
+EMP1521,Charlie,Davis,25,HR-Nevada,Pending,'2024-06-10',52615.44,charlie.davis@gmail.com,Average,F,+1860089218,"USD 52,615.44",25,HR,Nevada
+EMP1522,Eva,Miller,Missing,Sales-Texas,Pending,'2020-04-08',96337.89,eva.miller@gmail.com,Poor,F,+6394568043,"USD 96,337.89",30,Sales,Texas
+EMP1523,Alice,Davis,25,DevOps-Texas,Inactive,'2022-06-28',76617.76,alice.davis@gmail.com,Excellent,T,+7314976460,"USD 76,617.76",25,DevOps,Texas
+EMP1524,Heidi,Johnson,30,Admin-Nevada,Pending,'2023-07-14',50651.32,heidi.johnson@gmail.com,Poor,F,+3684748835,"USD 50,651.32",30,Admin,Nevada
+EMP1525,Bob,Davis,Missing,HR-Illinois,Pending,'2023-12-06',59601.45,bob.davis@gmail.com,Poor,F,+1765817389,"USD 59,601.45",30,HR,Illinois
+EMP1526,Bob,Williams,Missing,DevOps-Illinois,Active,'2021-08-01',57980.88,bob.williams@gmail.com,Poor,F,+6375791451,"USD 57,980.88",30,DevOps,Illinois
+EMP1527,David,Johnson,Missing,Admin-California,Pending,'2021-02-17',75054.53,david.johnson@gmail.com,Average,F,+1182379311,"USD 75,054.53",30,Admin,California
+EMP1528,Charlie,Johnson,25,Sales-Florida,Active,'2023-11-10',115318.7,charlie.johnson@gmail.com,Excellent,F,+6978930745,"USD 115,318.70",25,Sales,Florida
+EMP1529,Alice,Johnson,25,DevOps-Texas,Active,'2024-09-06',90190.69,alice.johnson@gmail.com,Poor,T,+4520599603,"USD 90,190.69",25,DevOps,Texas
+EMP1530,Bob,Smith,Missing,Cloud Tech-Nevada,Pending,'2020-07-26',113334.56,bob.smith@gmail.com,Excellent,F,+3878753576,"USD 113,334.56",30,Cloud Tech,Nevada
+EMP1531,Heidi,Garcia,35,HR-Florida,Active,'2020-07-23',106922.49,heidi.garcia@gmail.com,Excellent,T,+8811616201,"USD 106,922.49",35,HR,Florida
+EMP1532,Eva,Smith,35,DevOps-California,Inactive,'2024-02-21',58113.07,eva.smith@gmail.com,Average,T,+8123710671,"USD 58,113.07",35,DevOps,California
+EMP1533,Alice,Smith,25,Admin-Nevada,Pending,'2020-12-15',73006.26,alice.smith@gmail.com,Poor,T,+8728660415,"USD 73,006.26",25,Admin,Nevada
+EMP1534,Eva,Williams,25,HR-California,Active,'2020-08-21',78054.43,eva.williams@gmail.com,Poor,T,+4485959223,"USD 78,054.43",25,HR,California
+EMP1535,Eva,Miller,40,DevOps-Florida,Inactive,'2023-08-21',112028.67,eva.miller@gmail.com,Excellent,F,+8395894772,"USD 112,028.67",40,DevOps,Florida
+EMP1536,Charlie,Garcia,25,Admin-Texas,Inactive,'2023-04-24',83787.24,charlie.garcia@gmail.com,Good,T,+5228705621,"USD 83,787.24",25,Admin,Texas
+EMP1537,Heidi,Davis,30,Sales-Florida,Inactive,'2023-06-06',52017.14,heidi.davis@gmail.com,Average,T,+7104331874,"USD 52,017.14",30,Sales,Florida
+EMP1538,Charlie,Jones,40,Finance-Texas,Inactive,'2022-06-21',53218.06,charlie.jones@gmail.com,Average,F,+1097921582,"USD 53,218.06",40,Finance,Texas
+EMP1539,Frank,Johnson,25,DevOps-Nevada,Pending,'2024-04-20',102053.67,frank.johnson@gmail.com,Average,F,+5034469458,"USD 102,053.67",25,DevOps,Nevada
+EMP1540,David,Davis,35,Sales-Illinois,Pending,'2023-12-05',93276.73,david.davis@gmail.com,Average,F,+6488319212,"USD 93,276.73",35,Sales,Illinois
+EMP1541,David,Johnson,40,HR-Nevada,Pending,'2023-08-06',76941.36,david.johnson@gmail.com,Poor,T,+4249128964,"USD 76,941.36",40,HR,Nevada
+EMP1542,Alice,Williams,25,DevOps-New York,Pending,'2024-10-04',82850.23,alice.williams@gmail.com,Poor,F,+9994973202,"USD 82,850.23",25,DevOps,New York
+EMP1543,Charlie,Johnson,25,Finance-California,Active,'2021-11-08',117910.15,charlie.johnson@gmail.com,Good,F,+3192227050,"USD 117,910.15",25,Finance,California
+EMP1544,David,Smith,Missing,DevOps-Florida,Inactive,'2024-07-31',66450.0,david.smith@gmail.com,Average,T,+1287675480,"USD 66,450.00",30,DevOps,Florida
+EMP1545,Heidi,Garcia,25,Finance-Florida,Inactive,'2020-08-31',118646.95,heidi.garcia@gmail.com,Average,F,+3866675484,"USD 118,646.95",25,Finance,Florida
+EMP1546,Alice,Jones,25,Finance-Florida,Active,'2023-02-15',88436.92,alice.jones@gmail.com,Excellent,F,+8193242686,"USD 88,436.92",25,Finance,Florida
+EMP1547,Eva,Brown,Missing,Sales-New York,Pending,'2023-10-07',81934.55,eva.brown@gmail.com,Poor,F,+7418652056,"USD 81,934.55",30,Sales,New York
+EMP1548,Alice,Johnson,30,Finance-California,Pending,'2024-04-20',93383.06,alice.johnson@gmail.com,Average,F,+5639836519,"USD 93,383.06",30,Finance,California
+EMP1549,Frank,Davis,40,Cloud Tech-Texas,Pending,'2021-03-30',50153.79,frank.davis@gmail.com,Good,T,+3758309450,"USD 50,153.79",40,Cloud Tech,Texas
+EMP1550,Eva,Smith,Missing,Sales-California,Pending,'2020-08-05',53204.47,eva.smith@gmail.com,Good,F,+5480940475,"USD 53,204.47",30,Sales,California
+EMP1551,Charlie,Brown,40,Cloud Tech-California,Pending,'2021-02-05',63128.04,charlie.brown@gmail.com,Poor,F,+1440907976,"USD 63,128.04",40,Cloud Tech,California
+EMP1552,Grace,Jones,30,Finance-New York,Pending,'2021-11-23',57543.6,grace.jones@gmail.com,Good,T,+2781050921,"USD 57,543.60",30,Finance,New York
+EMP1553,Bob,Brown,40,Finance-Nevada,Pending,'2022-10-29',59424.52,bob.brown@gmail.com,Good,F,+2161070517,"USD 59,424.52",40,Finance,Nevada
+EMP1554,Alice,Smith,Missing,Finance-Illinois,Inactive,'2022-11-07',104675.7,alice.smith@gmail.com,Poor,T,+4390552957,"USD 104,675.70",30,Finance,Illinois
+EMP1555,Charlie,Garcia,30,Cloud Tech-Florida,Pending,'2023-05-14',92431.25,charlie.garcia@gmail.com,Average,F,+1660138240,"USD 92,431.25",30,Cloud Tech,Florida
+EMP1556,Grace,Garcia,40,Sales-Nevada,Active,'2021-07-14',77850.9,grace.garcia@gmail.com,Average,T,+2704938619,"USD 77,850.90",40,Sales,Nevada
+EMP1557,Eva,Miller,40,Admin-New York,Inactive,'2023-05-18',99001.0,eva.miller@gmail.com,Good,T,+4485157918,"USD 99,001.00",40,Admin,New York
+EMP1558,Eva,Garcia,Missing,HR-Nevada,Pending,'2023-02-07',94280.83,eva.garcia@gmail.com,Good,T,+7111212589,"USD 94,280.83",30,HR,Nevada
+EMP1559,Eva,Miller,35,DevOps-New York,Pending,'2023-08-24',118262.56,eva.miller@gmail.com,Average,T,+2035713431,"USD 118,262.56",35,DevOps,New York
+EMP1560,Frank,Brown,25,HR-Illinois,Inactive,'2023-04-08',89944.67,frank.brown@gmail.com,Poor,F,+4064242955,"USD 89,944.67",25,HR,Illinois
+EMP1561,Grace,Williams,Missing,HR-Florida,Active,'2022-12-06',57452.93,grace.williams@gmail.com,Good,T,+3343244740,"USD 57,452.93",30,HR,Florida
+EMP1562,Alice,Davis,25,Admin-California,Active,'2021-08-09',97837.32,alice.davis@gmail.com,Excellent,F,+7595587208,"USD 97,837.32",25,Admin,California
+EMP1563,Alice,Davis,35,Admin-Illinois,Active,'2022-01-04',106981.84,alice.davis@gmail.com,Poor,T,+6289365434,"USD 106,981.84",35,Admin,Illinois
+EMP1564,David,Brown,Missing,Finance-New York,Pending,'2024-05-25',105778.36,david.brown@gmail.com,Good,T,+8841834373,"USD 105,778.36",30,Finance,New York
+EMP1565,Alice,Johnson,40,Finance-Florida,Pending,'2021-10-02',117608.32,alice.johnson@gmail.com,Good,T,+1182727954,"USD 117,608.32",40,Finance,Florida
+EMP1566,Eva,Johnson,30,Sales-Florida,Active,'2023-07-21',99324.03,eva.johnson@gmail.com,Excellent,F,+9690515025,"USD 99,324.03",30,Sales,Florida
+EMP1567,David,Garcia,30,HR-Florida,Active,'2023-10-30',55212.83,david.garcia@gmail.com,Excellent,T,+7551254277,"USD 55,212.83",30,HR,Florida
+EMP1568,Bob,Davis,40,Cloud Tech-Florida,Inactive,'2023-02-13',68496.77,bob.davis@gmail.com,Average,F,+2079799666,"USD 68,496.77",40,Cloud Tech,Florida
+EMP1569,Eva,Davis,25,HR-Florida,Pending,'2020-11-13',52795.84,eva.davis@gmail.com,Poor,F,+3459576402,"USD 52,795.84",25,HR,Florida
+EMP1570,Alice,Miller,Missing,DevOps-California,Inactive,'2024-06-05',90087.39,alice.miller@gmail.com,Poor,F,+8166496901,"USD 90,087.39",30,DevOps,California
+EMP1571,Frank,Williams,Missing,Admin-New York,Pending,'2020-05-19',105038.08,frank.williams@gmail.com,Average,F,+8249839224,"USD 105,038.08",30,Admin,New York
+EMP1572,Grace,Smith,25,HR-New York,Active,'2023-09-20',73231.85,grace.smith@gmail.com,Poor,F,+1142576269,"USD 73,231.85",25,HR,New York
+EMP1573,David,Johnson,Missing,Sales-Florida,Pending,'2024-08-13',102649.36,david.johnson@gmail.com,Poor,F,+2324412335,"USD 102,649.36",30,Sales,Florida
+EMP1574,Bob,Davis,35,Finance-New York,Pending,'2023-06-10',114302.51,bob.davis@gmail.com,Poor,F,+1328507250,"USD 114,302.51",35,Finance,New York
+EMP1575,Alice,Miller,35,Finance-Texas,Inactive,'2021-06-09',87816.61,alice.miller@gmail.com,Poor,F,+7863767315,"USD 87,816.61",35,Finance,Texas
+EMP1576,Frank,Jones,Missing,Sales-Florida,Inactive,'2020-03-30',70750.38,frank.jones@gmail.com,Poor,F,+2526546967,"USD 70,750.38",30,Sales,Florida
+EMP1577,Frank,Miller,Missing,Cloud Tech-Texas,Active,'2024-05-02',,frank.miller@gmail.com,Excellent,T,+1579039234,No Salary,30,Cloud Tech,Texas
+EMP1578,Bob,Johnson,30,DevOps-Nevada,Active,'2024-11-06',97978.36,bob.johnson@gmail.com,Poor,T,+5580996131,"USD 97,978.36",30,DevOps,Nevada
+EMP1579,David,Johnson,Missing,DevOps-Nevada,Inactive,'2023-08-17',107172.8,david.johnson@gmail.com,Excellent,T,+7303461561,"USD 107,172.80",30,DevOps,Nevada
+EMP1580,Charlie,Miller,25,Finance-Nevada,Inactive,'2020-03-18',56126.46,charlie.miller@gmail.com,Poor,T,+6244670461,"USD 56,126.46",25,Finance,Nevada
+EMP1581,Eva,Smith,Missing,Cloud Tech-Illinois,Active,'2021-06-13',78534.29,eva.smith@gmail.com,Average,T,+2681715159,"USD 78,534.29",30,Cloud Tech,Illinois
+EMP1582,Grace,Brown,40,HR-Texas,Inactive,'2023-10-10',,grace.brown@gmail.com,Good,F,+2529867075,No Salary,40,HR,Texas
+EMP1583,Bob,Johnson,Missing,Cloud Tech-Nevada,Active,'2022-01-02',114963.34,bob.johnson@gmail.com,Excellent,F,+6046419784,"USD 114,963.34",30,Cloud Tech,Nevada
+EMP1584,Eva,Miller,Missing,Cloud Tech-California,Inactive,'2022-02-20',77657.93,eva.miller@gmail.com,Poor,F,+7585126860,"USD 77,657.93",30,Cloud Tech,California
+EMP1585,Heidi,Davis,30,Sales-New York,Active,'2024-03-09',77369.48,heidi.davis@gmail.com,Average,F,+2059438975,"USD 77,369.48",30,Sales,New York
+EMP1586,Eva,Miller,30,HR-Nevada,Pending,'2023-08-19',76119.14,eva.miller@gmail.com,Good,F,+1740177508,"USD 76,119.14",30,HR,Nevada
+EMP1587,Charlie,Williams,25,Cloud Tech-Texas,Pending,'2023-05-06',77585.72,charlie.williams@gmail.com,Excellent,F,+5465408423,"USD 77,585.72",25,Cloud Tech,Texas
+EMP1588,Bob,Brown,35,Admin-Nevada,Pending,'2024-01-26',74069.62,bob.brown@gmail.com,Good,F,+5607540914,"USD 74,069.62",35,Admin,Nevada
+EMP1589,Charlie,Jones,30,Admin-New York,Pending,'2024-09-05',67691.92,charlie.jones@gmail.com,Average,T,+1863218121,"USD 67,691.92",30,Admin,New York
+EMP1590,Alice,Smith,Missing,Finance-Nevada,Pending,'2020-05-29',70345.69,alice.smith@gmail.com,Excellent,T,+7645793896,"USD 70,345.69",30,Finance,Nevada
+EMP1591,Bob,Garcia,30,DevOps-Illinois,Inactive,'2021-11-08',74999.69,bob.garcia@gmail.com,Good,T,+1155029167,"USD 74,999.69",30,DevOps,Illinois
+EMP1592,David,Jones,25,HR-Illinois,Active,'2021-01-31',72245.02,david.jones@gmail.com,Poor,T,+1546602415,"USD 72,245.02",25,HR,Illinois
+EMP1593,Eva,Brown,Missing,Admin-Illinois,Pending,'2022-01-16',106538.98,eva.brown@gmail.com,Excellent,F,+1394498829,"USD 106,538.98",30,Admin,Illinois
+EMP1594,Charlie,Brown,25,HR-New York,Active,'2023-12-29',101787.14,charlie.brown@gmail.com,Good,F,+5973642479,"USD 101,787.14",25,HR,New York
+EMP1595,Frank,Brown,30,DevOps-Nevada,Inactive,'2024-12-02',83596.78,frank.brown@gmail.com,Average,F,+9624406305,"USD 83,596.78",30,DevOps,Nevada
+EMP1596,Eva,Jones,40,Sales-Texas,Active,'2023-08-15',92463.94,eva.jones@gmail.com,Average,T,+2447951329,"USD 92,463.94",40,Sales,Texas
+EMP1597,Charlie,Davis,Missing,Admin-California,Pending,'2024-12-20',93863.32,charlie.davis@gmail.com,Excellent,F,+5319497968,"USD 93,863.32",30,Admin,California
+EMP1598,Alice,Brown,Missing,DevOps-Texas,Pending,'2023-03-31',78359.41,alice.brown@gmail.com,Good,F,+5867805554,"USD 78,359.41",30,DevOps,Texas
+EMP1599,Alice,Miller,Missing,HR-Illinois,Pending,'2022-08-24',95773.57,alice.miller@gmail.com,Excellent,F,+7277382645,"USD 95,773.57",30,HR,Illinois
+EMP1600,Grace,Jones,30,Sales-Nevada,Inactive,'2020-10-01',82529.08,grace.jones@gmail.com,Excellent,T,+1917851384,"USD 82,529.08",30,Sales,Nevada
+EMP1601,Grace,Garcia,35,Sales-Texas,Pending,'2021-05-04',109358.73,grace.garcia@gmail.com,Good,F,+4457702991,"USD 109,358.73",35,Sales,Texas
+EMP1602,Charlie,Brown,Missing,Admin-Florida,Active,'2021-01-01',89645.01,charlie.brown@gmail.com,Good,T,+9596604872,"USD 89,645.01",30,Admin,Florida
+EMP1603,Charlie,Miller,40,HR-Texas,Active,'2024-04-08',84134.95,charlie.miller@gmail.com,Poor,T,+6826911632,"USD 84,134.95",40,HR,Texas
+EMP1604,Frank,Davis,30,Cloud Tech-Nevada,Active,'2022-11-26',113540.83,frank.davis@gmail.com,Good,T,+1942268652,"USD 113,540.83",30,Cloud Tech,Nevada
+EMP1605,Heidi,Williams,40,Cloud Tech-Texas,Pending,'2021-10-25',57225.75,heidi.williams@gmail.com,Average,T,+6945515887,"USD 57,225.75",40,Cloud Tech,Texas
+EMP1606,Eva,Davis,35,Sales-Illinois,Pending,'2020-12-22',76366.17,eva.davis@gmail.com,Excellent,F,+6367747225,"USD 76,366.17",35,Sales,Illinois
+EMP1607,Bob,Garcia,Missing,HR-Florida,Active,'2022-11-23',78408.95,bob.garcia@gmail.com,Excellent,T,+4085721695,"USD 78,408.95",30,HR,Florida
+EMP1608,Frank,Brown,40,Finance-Illinois,Active,'2022-10-24',111742.4,frank.brown@gmail.com,Average,T,+6630932997,"USD 111,742.40",40,Finance,Illinois
+EMP1609,David,Garcia,25,Sales-Nevada,Inactive,'2021-03-09',60516.83,david.garcia@gmail.com,Good,F,+1996059328,"USD 60,516.83",25,Sales,Nevada
+EMP1610,Bob,Jones,30,Finance-California,Pending,'2020-08-20',83706.17,bob.jones@gmail.com,Average,F,+7150968831,"USD 83,706.17",30,Finance,California
+EMP1611,David,Johnson,Missing,Admin-Nevada,Inactive,'2020-02-15',67056.92,david.johnson@gmail.com,Average,T,+7532735240,"USD 67,056.92",30,Admin,Nevada
+EMP1612,Charlie,Brown,30,DevOps-Illinois,Active,'2024-12-29',90058.85,charlie.brown@gmail.com,Poor,F,+1397739731,"USD 90,058.85",30,DevOps,Illinois
+EMP1613,Eva,Johnson,30,Sales-Florida,Pending,'2023-02-28',94633.59,eva.johnson@gmail.com,Average,T,+7819523709,"USD 94,633.59",30,Sales,Florida
+EMP1614,Eva,Miller,25,Admin-Florida,Pending,'2022-08-23',110711.17,eva.miller@gmail.com,Excellent,T,+1687616480,"USD 110,711.17",25,Admin,Florida
+EMP1615,Grace,Williams,Missing,Admin-Illinois,Active,'2023-06-30',96175.41,grace.williams@gmail.com,Average,T,+9807704604,"USD 96,175.41",30,Admin,Illinois
+EMP1616,Frank,Smith,40,Sales-Illinois,Active,'2021-04-15',76474.79,frank.smith@gmail.com,Excellent,T,+6876112490,"USD 76,474.79",40,Sales,Illinois
+EMP1617,Alice,Garcia,30,Sales-Illinois,Pending,'2022-05-09',107855.99,alice.garcia@gmail.com,Excellent,F,+2565237340,"USD 107,855.99",30,Sales,Illinois
+EMP1618,Charlie,Davis,40,Sales-Illinois,Active,'2024-12-02',104870.78,charlie.davis@gmail.com,Excellent,T,+5177345474,"USD 104,870.78",40,Sales,Illinois
+EMP1619,Bob,Williams,25,Finance-Nevada,Active,'2023-05-20',,bob.williams@gmail.com,Good,F,+7494902283,No Salary,25,Finance,Nevada
+EMP1620,Grace,Brown,Missing,Finance-California,Active,'2023-11-29',87087.16,grace.brown@gmail.com,Poor,F,+1359544293,"USD 87,087.16",30,Finance,California
+EMP1621,Heidi,Johnson,40,HR-Illinois,Pending,'2024-04-08',108603.34,heidi.johnson@gmail.com,Excellent,F,+7742229463,"USD 108,603.34",40,HR,Illinois
+EMP1622,Grace,Davis,30,HR-Florida,Active,'2024-10-25',55867.23,grace.davis@gmail.com,Excellent,F,+3039429044,"USD 55,867.23",30,HR,Florida
+EMP1623,Grace,Johnson,35,Admin-Texas,Pending,'2024-03-02',105259.57,grace.johnson@gmail.com,Good,T,+8867925297,"USD 105,259.57",35,Admin,Texas
+EMP1624,Bob,Jones,Missing,Cloud Tech-Florida,Pending,'2021-02-24',98143.67,bob.jones@gmail.com,Excellent,F,+5856728726,"USD 98,143.67",30,Cloud Tech,Florida
+EMP1625,Frank,Johnson,25,Admin-Florida,Pending,'2023-04-13',67754.29,frank.johnson@gmail.com,Average,T,+6015343323,"USD 67,754.29",25,Admin,Florida
+EMP1626,Grace,Jones,Missing,HR-Illinois,Inactive,'2023-10-25',77821.79,grace.jones@gmail.com,Average,F,+9135779082,"USD 77,821.79",30,HR,Illinois
+EMP1627,Heidi,Miller,30,HR-Illinois,Pending,'2022-09-17',67764.44,heidi.miller@gmail.com,Poor,F,+3506158147,"USD 67,764.44",30,HR,Illinois
+EMP1628,Frank,Davis,40,DevOps-New York,Pending,'2020-08-31',102346.99,frank.davis@gmail.com,Excellent,T,+8810798333,"USD 102,346.99",40,DevOps,New York
+EMP1629,Charlie,Davis,25,Admin-Illinois,Inactive,'2024-05-28',73690.65,charlie.davis@gmail.com,Good,T,+2337209483,"USD 73,690.65",25,Admin,Illinois
+EMP1630,Alice,Smith,30,Finance-Nevada,Active,'2024-07-05',56376.2,alice.smith@gmail.com,Average,T,+1312840332,"USD 56,376.20",30,Finance,Nevada
+EMP1631,Grace,Brown,25,Cloud Tech-California,Active,'2022-01-29',55602.78,grace.brown@gmail.com,Good,F,+9977180512,"USD 55,602.78",25,Cloud Tech,California
+EMP1632,Grace,Jones,40,Sales-Nevada,Pending,'2021-08-09',99812.41,grace.jones@gmail.com,Good,F,+7171731892,"USD 99,812.41",40,Sales,Nevada
+EMP1633,Charlie,Smith,40,Finance-Texas,Active,'2024-10-07',95981.9,charlie.smith@gmail.com,Average,T,+9749096172,"USD 95,981.90",40,Finance,Texas
+EMP1634,Eva,Johnson,30,Cloud Tech-Illinois,Pending,'2022-11-22',98891.48,eva.johnson@gmail.com,Good,T,+9970469471,"USD 98,891.48",30,Cloud Tech,Illinois
+EMP1635,Alice,Johnson,35,Admin-Nevada,Active,'2020-11-18',56079.0,alice.johnson@gmail.com,Average,T,+5878444834,"USD 56,079.00",35,Admin,Nevada
+EMP1636,Grace,Smith,35,DevOps-Florida,Inactive,'2023-04-15',,grace.smith@gmail.com,Good,T,+4884712704,No Salary,35,DevOps,Florida
+EMP1637,Bob,Davis,25,Sales-California,Pending,'2024-08-26',89137.97,bob.davis@gmail.com,Average,F,+8772216416,"USD 89,137.97",25,Sales,California
+EMP1638,Frank,Johnson,35,Admin-Illinois,Active,'2022-07-20',115079.97,frank.johnson@gmail.com,Excellent,T,+5823133483,"USD 115,079.97",35,Admin,Illinois
+EMP1639,Eva,Garcia,30,Finance-Illinois,Active,'2023-02-18',55067.02,eva.garcia@gmail.com,Poor,T,+5871493924,"USD 55,067.02",30,Finance,Illinois
+EMP1640,Bob,Miller,Missing,HR-Illinois,Pending,'2021-05-27',98593.43,bob.miller@gmail.com,Average,T,+2362292586,"USD 98,593.43",30,HR,Illinois
+EMP1641,Heidi,Miller,30,HR-Florida,Pending,'2022-08-01',112756.67,heidi.miller@gmail.com,Average,T,+9643474523,"USD 112,756.67",30,HR,Florida
+EMP1642,Heidi,Garcia,25,HR-Texas,Inactive,'2023-07-21',105205.92,heidi.garcia@gmail.com,Poor,F,+5557469659,"USD 105,205.92",25,HR,Texas
+EMP1643,David,Smith,35,Finance-California,Pending,'2023-01-02',50680.62,david.smith@gmail.com,Average,T,+6065274032,"USD 50,680.62",35,Finance,California
+EMP1644,David,Garcia,35,Cloud Tech-Florida,Pending,'2024-03-13',107475.23,david.garcia@gmail.com,Average,F,+4450566587,"USD 107,475.23",35,Cloud Tech,Florida
+EMP1645,Charlie,Jones,40,HR-California,Active,'2023-03-20',68835.3,charlie.jones@gmail.com,Good,T,+3398741131,"USD 68,835.30",40,HR,California
+EMP1646,David,Jones,40,DevOps-New York,Active,'2024-02-15',66943.96,david.jones@gmail.com,Poor,T,+5797067348,"USD 66,943.96",40,DevOps,New York
+EMP1647,David,Smith,30,Admin-Illinois,Inactive,'2020-11-15',104525.69,david.smith@gmail.com,Excellent,F,+9601054856,"USD 104,525.69",30,Admin,Illinois
+EMP1648,Bob,Garcia,40,Sales-Texas,Pending,'2020-03-27',109360.74,bob.garcia@gmail.com,Average,T,+4172156228,"USD 109,360.74",40,Sales,Texas
+EMP1649,Frank,Jones,40,Sales-California,Inactive,'2021-01-09',118907.63,frank.jones@gmail.com,Poor,F,+4938173597,"USD 118,907.63",40,Sales,California
+EMP1650,Eva,Davis,40,Admin-Illinois,Active,'2020-04-20',86801.48,eva.davis@gmail.com,Good,F,+4884021556,"USD 86,801.48",40,Admin,Illinois
+EMP1651,Alice,Garcia,Missing,HR-Florida,Pending,'2024-05-08',62236.03,alice.garcia@gmail.com,Excellent,T,+3257375533,"USD 62,236.03",30,HR,Florida
+EMP1652,Heidi,Davis,35,DevOps-Texas,Active,'2023-10-12',64752.67,heidi.davis@gmail.com,Poor,F,+4902166669,"USD 64,752.67",35,DevOps,Texas
+EMP1653,Frank,Jones,35,Sales-California,Active,'2023-01-28',68399.43,frank.jones@gmail.com,Excellent,F,+8085096084,"USD 68,399.43",35,Sales,California
+EMP1654,Frank,Miller,35,Admin-Florida,Inactive,'2021-03-07',79336.51,frank.miller@gmail.com,Excellent,F,+8749511917,"USD 79,336.51",35,Admin,Florida
+EMP1655,Frank,Jones,40,HR-Florida,Active,'2023-03-16',59179.74,frank.jones@gmail.com,Excellent,F,+1828197930,"USD 59,179.74",40,HR,Florida
+EMP1656,David,Davis,25,DevOps-California,Active,'2023-02-11',80255.31,david.davis@gmail.com,Average,F,+6477251294,"USD 80,255.31",25,DevOps,California
+EMP1657,Charlie,Williams,30,Finance-Texas,Active,'2022-05-13',84971.85,charlie.williams@gmail.com,Average,F,+7860694095,"USD 84,971.85",30,Finance,Texas
+EMP1658,Frank,Brown,40,HR-California,Pending,'2024-10-24',89748.42,frank.brown@gmail.com,Good,F,,"USD 89,748.42",40,HR,California
+EMP1659,Charlie,Johnson,25,Admin-California,Inactive,'2024-09-14',94090.35,charlie.johnson@gmail.com,Good,F,+8739592322,"USD 94,090.35",25,Admin,California
+EMP1660,Frank,Garcia,35,HR-California,Pending,'2023-02-15',115229.12,frank.garcia@gmail.com,Poor,T,+4210890284,"USD 115,229.12",35,HR,California
+EMP1661,Alice,Williams,40,Cloud Tech-California,Pending,'2023-05-25',63927.07,alice.williams@gmail.com,Good,T,+1553334263,"USD 63,927.07",40,Cloud Tech,California
+EMP1662,Charlie,Jones,35,HR-California,Pending,'2022-11-11',84124.56,charlie.jones@gmail.com,Excellent,F,+3350271606,"USD 84,124.56",35,HR,California
+EMP1663,Bob,Miller,40,Sales-California,Inactive,'2023-07-17',116961.61,bob.miller@gmail.com,Excellent,T,+3607763368,"USD 116,961.61",40,Sales,California
+EMP1664,Frank,Smith,40,DevOps-Illinois,Pending,'2022-04-08',109423.05,frank.smith@gmail.com,Average,F,+1128981230,"USD 109,423.05",40,DevOps,Illinois
+EMP1665,Charlie,Jones,35,Admin-California,Inactive,'2023-08-30',70394.94,charlie.jones@gmail.com,Excellent,F,+7955633184,"USD 70,394.94",35,Admin,California
+EMP1666,Grace,Miller,35,Finance-California,Pending,'2023-04-17',86465.5,grace.miller@gmail.com,Poor,T,+7481700665,"USD 86,465.50",35,Finance,California
+EMP1667,Charlie,Brown,30,Cloud Tech-New York,Pending,'2021-04-25',96341.58,charlie.brown@gmail.com,Excellent,F,+1554164315,"USD 96,341.58",30,Cloud Tech,New York
+EMP1668,Bob,Jones,30,Admin-Florida,Active,'2020-07-14',54465.47,bob.jones@gmail.com,Excellent,F,+7045023289,"USD 54,465.47",30,Admin,Florida
+EMP1669,Alice,Davis,25,Finance-Illinois,Active,'2020-07-31',68371.66,alice.davis@gmail.com,Poor,F,+2822700933,"USD 68,371.66",25,Finance,Illinois
+EMP1670,Grace,Smith,35,Admin-New York,Pending,'2021-08-04',81021.23,grace.smith@gmail.com,Good,F,+5962622821,"USD 81,021.23",35,Admin,New York
+EMP1671,Charlie,Miller,25,Cloud Tech-Nevada,Inactive,'2024-10-28',114069.07,charlie.miller@gmail.com,Good,T,+5120734653,"USD 114,069.07",25,Cloud Tech,Nevada
+EMP1672,Heidi,Miller,Missing,HR-Illinois,Inactive,'2020-10-03',117867.96,heidi.miller@gmail.com,Poor,F,+9500507025,"USD 117,867.96",30,HR,Illinois
+EMP1673,Charlie,Miller,Missing,Sales-Florida,Pending,'2024-03-13',94509.58,charlie.miller@gmail.com,Average,F,+1869822104,"USD 94,509.58",30,Sales,Florida
+EMP1674,Eva,Brown,35,Finance-Illinois,Active,'2024-07-06',56268.78,eva.brown@gmail.com,Excellent,F,+3161177686,"USD 56,268.78",35,Finance,Illinois
+EMP1675,Grace,Jones,35,Admin-California,Active,'2020-01-01',86632.14,grace.jones@gmail.com,Poor,T,+2904774257,"USD 86,632.14",35,Admin,California
+EMP1676,Charlie,Brown,35,HR-Florida,Pending,'2020-01-18',98143.9,charlie.brown@gmail.com,Excellent,F,+5917793237,"USD 98,143.90",35,HR,Florida
+EMP1677,Heidi,Garcia,35,Cloud Tech-Florida,Inactive,'2023-05-07',,heidi.garcia@gmail.com,Average,T,+2231164912,No Salary,35,Cloud Tech,Florida
+EMP1678,Frank,Johnson,30,Finance-Illinois,Inactive,'2022-03-19',67492.73,frank.johnson@gmail.com,Excellent,T,+3424579888,"USD 67,492.73",30,Finance,Illinois
+EMP1679,Grace,Johnson,40,Admin-California,Active,'2022-05-14',93772.61,grace.johnson@gmail.com,Poor,F,+4256529059,"USD 93,772.61",40,Admin,California
+EMP1680,Eva,Garcia,35,DevOps-Nevada,Pending,'2024-07-14',68817.54,eva.garcia@gmail.com,Excellent,F,+3202032649,"USD 68,817.54",35,DevOps,Nevada
+EMP1681,Bob,Jones,30,Admin-California,Active,'2023-07-28',81874.01,bob.jones@gmail.com,Good,T,+9775396736,"USD 81,874.01",30,Admin,California
+EMP1682,Heidi,Davis,30,HR-Texas,Active,'2020-04-11',117880.14,heidi.davis@gmail.com,Average,F,+9487148551,"USD 117,880.14",30,HR,Texas
+EMP1683,Bob,Brown,35,HR-New York,Pending,'2022-06-16',100897.49,bob.brown@gmail.com,Average,T,+4578715840,"USD 100,897.49",35,HR,New York
+EMP1684,Charlie,Smith,25,Finance-New York,Inactive,'2022-05-10',71810.37,charlie.smith@gmail.com,Average,T,+5608213710,"USD 71,810.37",25,Finance,New York
+EMP1685,Frank,Miller,40,DevOps-Texas,Inactive,'2020-06-13',109048.24,frank.miller@gmail.com,Poor,F,+8425476817,"USD 109,048.24",40,DevOps,Texas
+EMP1686,Alice,Miller,35,Finance-Texas,Pending,'2022-08-20',62712.26,alice.miller@gmail.com,Average,F,+2683230357,"USD 62,712.26",35,Finance,Texas
+EMP1687,Eva,Jones,40,Cloud Tech-Texas,Pending,'2021-05-24',76935.85,eva.jones@gmail.com,Good,T,+9298808582,"USD 76,935.85",40,Cloud Tech,Texas
+EMP1688,David,Davis,25,Admin-Florida,Pending,'2024-04-27',56577.22,david.davis@gmail.com,Poor,T,+8252129327,"USD 56,577.22",25,Admin,Florida
+EMP1689,David,Johnson,40,Finance-Nevada,Inactive,'2021-10-23',61102.8,david.johnson@gmail.com,Good,T,+9634064685,"USD 61,102.80",40,Finance,Nevada
+EMP1690,Bob,Johnson,35,Finance-Nevada,Inactive,'2021-02-10',75229.87,bob.johnson@gmail.com,Excellent,T,+7752401483,"USD 75,229.87",35,Finance,Nevada
+EMP1691,David,Miller,25,Admin-Nevada,Inactive,'2021-10-26',51054.74,david.miller@gmail.com,Excellent,F,+3991062271,"USD 51,054.74",25,Admin,Nevada
+EMP1692,Bob,Jones,40,Admin-Texas,Active,'2023-04-05',104843.27,bob.jones@gmail.com,Excellent,F,+3626693350,"USD 104,843.27",40,Admin,Texas
+EMP1693,Charlie,Brown,35,Cloud Tech-New York,Active,'2022-10-20',56398.11,charlie.brown@gmail.com,Excellent,F,+3426192371,"USD 56,398.11",35,Cloud Tech,New York
+EMP1694,Alice,Johnson,25,HR-Nevada,Active,'2023-12-07',87544.73,alice.johnson@gmail.com,Good,F,+4501848196,"USD 87,544.73",25,HR,Nevada
+EMP1695,Heidi,Brown,30,HR-Illinois,Pending,'2024-03-29',74312.24,heidi.brown@gmail.com,Poor,F,+3741897214,"USD 74,312.24",30,HR,Illinois
+EMP1696,David,Davis,25,DevOps-Florida,Inactive,'2024-01-23',59431.25,david.davis@gmail.com,Poor,T,+4064176926,"USD 59,431.25",25,DevOps,Florida
+EMP1697,Heidi,Johnson,40,Sales-California,Pending,'2023-11-28',84306.44,heidi.johnson@gmail.com,Average,F,+4381199536,"USD 84,306.44",40,Sales,California
+EMP1698,Frank,Johnson,35,DevOps-Florida,Inactive,'2024-11-11',108194.47,frank.johnson@gmail.com,Good,F,+6601444855,"USD 108,194.47",35,DevOps,Florida
+EMP1699,Charlie,Williams,25,Sales-New York,Inactive,'2021-08-28',107359.3,charlie.williams@gmail.com,Excellent,F,+4510173972,"USD 107,359.30",25,Sales,New York
+EMP1700,Heidi,Johnson,25,DevOps-Illinois,Inactive,'2024-02-11',,heidi.johnson@gmail.com,Good,F,+9641789968,No Salary,25,DevOps,Illinois
+EMP1701,Frank,Garcia,Missing,Admin-California,Pending,'2020-05-09',96080.26,frank.garcia@gmail.com,Average,F,+8609191910,"USD 96,080.26",30,Admin,California
+EMP1702,Grace,Smith,30,Sales-Nevada,Inactive,'2024-04-17',88602.75,grace.smith@gmail.com,Average,T,+3599660576,"USD 88,602.75",30,Sales,Nevada
+EMP1703,Frank,Garcia,40,DevOps-California,Active,'2020-07-16',86624.04,frank.garcia@gmail.com,Good,T,+9806603919,"USD 86,624.04",40,DevOps,California
+EMP1704,Charlie,Jones,30,Cloud Tech-New York,Active,'2022-09-21',63413.16,charlie.jones@gmail.com,Good,T,+5146074554,"USD 63,413.16",30,Cloud Tech,New York
+EMP1705,Grace,Jones,40,Sales-Illinois,Pending,'2023-04-23',67915.7,grace.jones@gmail.com,Good,F,+3470574237,"USD 67,915.70",40,Sales,Illinois
+EMP1706,Bob,Brown,25,Admin-Nevada,Inactive,'2024-12-27',108245.44,bob.brown@gmail.com,Poor,T,+8565271558,"USD 108,245.44",25,Admin,Nevada
+EMP1707,Alice,Garcia,35,Sales-Nevada,Inactive,'2024-08-10',75834.81,alice.garcia@gmail.com,Excellent,T,+8354116596,"USD 75,834.81",35,Sales,Nevada
+EMP1708,Eva,Garcia,Missing,Cloud Tech-Nevada,Active,'2024-09-04',71273.32,eva.garcia@gmail.com,Good,F,+2634755751,"USD 71,273.32",30,Cloud Tech,Nevada
+EMP1709,Bob,Garcia,25,DevOps-New York,Pending,'2022-02-28',63262.23,bob.garcia@gmail.com,Good,F,+2501394883,"USD 63,262.23",25,DevOps,New York
+EMP1710,David,Davis,Missing,DevOps-New York,Pending,'2024-03-14',89069.91,david.davis@gmail.com,Good,F,+8826913118,"USD 89,069.91",30,DevOps,New York
+EMP1711,Frank,Johnson,40,DevOps-Nevada,Inactive,'2024-12-13',57287.17,frank.johnson@gmail.com,Average,T,+6425856260,"USD 57,287.17",40,DevOps,Nevada
+EMP1712,Grace,Smith,Missing,HR-Nevada,Active,'2022-12-29',119890.35,grace.smith@gmail.com,Average,T,+4991537037,"USD 119,890.35",30,HR,Nevada
+EMP1713,Frank,Brown,35,Sales-California,Inactive,'2022-04-24',103492.91,frank.brown@gmail.com,Poor,F,+2407333372,"USD 103,492.91",35,Sales,California
+EMP1714,Frank,Garcia,Missing,Admin-Illinois,Pending,'2021-03-14',76254.42,frank.garcia@gmail.com,Excellent,F,+2043097767,"USD 76,254.42",30,Admin,Illinois
+EMP1715,Eva,Garcia,35,Finance-Florida,Inactive,'2020-01-01',100841.93,eva.garcia@gmail.com,Poor,T,+8936289695,"USD 100,841.93",35,Finance,Florida
+EMP1716,Alice,Williams,Missing,Admin-California,Active,'2021-09-07',118907.61,alice.williams@gmail.com,Excellent,T,+4546553584,"USD 118,907.61",30,Admin,California
+EMP1717,Frank,Brown,25,DevOps-California,Pending,'2022-11-13',88942.62,frank.brown@gmail.com,Average,F,+1253892186,"USD 88,942.62",25,DevOps,California
+EMP1718,Charlie,Garcia,25,Cloud Tech-Florida,Inactive,'2020-11-15',59688.57,charlie.garcia@gmail.com,Average,F,+8519358373,"USD 59,688.57",25,Cloud Tech,Florida
+EMP1719,David,Brown,30,HR-California,Active,'2023-03-14',77985.88,david.brown@gmail.com,Average,T,+9079779611,"USD 77,985.88",30,HR,California
+EMP1720,Bob,Johnson,35,Finance-New York,Inactive,'2024-08-18',112931.69,bob.johnson@gmail.com,Poor,F,+1878057214,"USD 112,931.69",35,Finance,New York
+EMP1721,Bob,Williams,Missing,DevOps-California,Active,'2024-02-05',106583.88,bob.williams@gmail.com,Good,T,+1494097625,"USD 106,583.88",30,DevOps,California
+EMP1722,Alice,Brown,35,HR-Florida,Inactive,'2024-11-12',58437.84,alice.brown@gmail.com,Good,T,+3748453985,"USD 58,437.84",35,HR,Florida
+EMP1723,Alice,Smith,40,Cloud Tech-California,Pending,'2020-03-25',72352.16,alice.smith@gmail.com,Average,T,+2895090590,"USD 72,352.16",40,Cloud Tech,California
+EMP1724,Frank,Smith,Missing,DevOps-New York,Active,'2020-04-13',97154.47,frank.smith@gmail.com,Good,T,+1918623391,"USD 97,154.47",30,DevOps,New York
+EMP1725,Heidi,Jones,Missing,Sales-Illinois,Active,'2021-03-30',80235.5,heidi.jones@gmail.com,Good,F,+2071511695,"USD 80,235.50",30,Sales,Illinois
+EMP1726,Charlie,Williams,30,HR-Texas,Inactive,'2023-03-16',102172.05,charlie.williams@gmail.com,Poor,F,+6672521451,"USD 102,172.05",30,HR,Texas
+EMP1727,Eva,Williams,25,Finance-Illinois,Inactive,'2024-05-03',98850.94,eva.williams@gmail.com,Excellent,T,+6471246334,"USD 98,850.94",25,Finance,Illinois
+EMP1728,Heidi,Jones,Missing,Admin-Florida,Inactive,'2023-08-28',89993.15,heidi.jones@gmail.com,Average,T,+1571840907,"USD 89,993.15",30,Admin,Florida
+EMP1729,David,Brown,30,Cloud Tech-California,Inactive,'2021-10-24',97931.66,david.brown@gmail.com,Average,T,+1512080055,"USD 97,931.66",30,Cloud Tech,California
+EMP1730,Bob,Williams,40,Finance-California,Inactive,'2021-01-25',72451.69,bob.williams@gmail.com,Poor,T,+4099512396,"USD 72,451.69",40,Finance,California
+EMP1731,Alice,Smith,35,Admin-California,Pending,'2024-08-09',119311.14,alice.smith@gmail.com,Poor,T,+2835129591,"USD 119,311.14",35,Admin,California
+EMP1732,Charlie,Smith,40,Cloud Tech-New York,Active,'2023-11-04',76167.46,charlie.smith@gmail.com,Good,F,+7282709080,"USD 76,167.46",40,Cloud Tech,New York
+EMP1733,Bob,Garcia,25,DevOps-Texas,Active,'2023-06-25',114871.08,bob.garcia@gmail.com,Average,F,+4415298216,"USD 114,871.08",25,DevOps,Texas
+EMP1734,Eva,Johnson,25,HR-Nevada,Active,'2021-09-16',81504.31,eva.johnson@gmail.com,Excellent,F,+3929578670,"USD 81,504.31",25,HR,Nevada
+EMP1735,David,Williams,Missing,Admin-New York,Pending,'2022-12-07',102524.86,david.williams@gmail.com,Poor,F,+8153523735,"USD 102,524.86",30,Admin,New York
+EMP1736,Charlie,Brown,25,Finance-Illinois,Pending,'2022-12-14',53043.74,charlie.brown@gmail.com,Excellent,T,+1507918157,"USD 53,043.74",25,Finance,Illinois
+EMP1737,Eva,Jones,30,DevOps-Illinois,Inactive,'2020-04-18',82547.26,eva.jones@gmail.com,Excellent,T,+9988683451,"USD 82,547.26",30,DevOps,Illinois
+EMP1738,Bob,Jones,40,DevOps-California,Pending,'2024-10-11',113900.81,bob.jones@gmail.com,Average,T,+7346666169,"USD 113,900.81",40,DevOps,California
+EMP1739,Bob,Brown,25,HR-Nevada,Inactive,'2021-04-18',118585.5,bob.brown@gmail.com,Average,T,+7158796473,"USD 118,585.50",25,HR,Nevada
+EMP1740,Bob,Davis,35,Finance-Illinois,Pending,'2020-06-29',63049.22,bob.davis@gmail.com,Poor,T,+1803149981,"USD 63,049.22",35,Finance,Illinois
+EMP1741,Heidi,Miller,Missing,DevOps-Texas,Active,'2021-05-21',114558.91,heidi.miller@gmail.com,Average,F,+5080046357,"USD 114,558.91",30,DevOps,Texas
+EMP1742,Heidi,Johnson,40,DevOps-New York,Active,'2021-12-11',97901.79,heidi.johnson@gmail.com,Average,T,+1688285030,"USD 97,901.79",40,DevOps,New York
+EMP1743,Eva,Jones,30,Sales-California,Active,'2023-07-05',68037.56,eva.jones@gmail.com,Average,F,+7235137398,"USD 68,037.56",30,Sales,California
+EMP1744,Alice,Williams,Missing,HR-New York,Active,'2021-11-30',112802.27,alice.williams@gmail.com,Excellent,F,,"USD 112,802.27",30,HR,New York
+EMP1745,Bob,Johnson,40,Sales-Nevada,Pending,'2024-11-22',93786.72,bob.johnson@gmail.com,Poor,F,+6356022938,"USD 93,786.72",40,Sales,Nevada
+EMP1746,David,Williams,Missing,Admin-Florida,Inactive,'2023-05-24',73049.93,david.williams@gmail.com,Good,F,+4694346065,"USD 73,049.93",30,Admin,Florida
+EMP1747,David,Davis,30,Sales-Illinois,Pending,'2024-06-26',64161.72,david.davis@gmail.com,Excellent,T,+6437490606,"USD 64,161.72",30,Sales,Illinois
+EMP1748,Charlie,Smith,40,Admin-Nevada,Pending,'2020-11-19',72224.73,charlie.smith@gmail.com,Average,F,+2311127127,"USD 72,224.73",40,Admin,Nevada
+EMP1749,Bob,Johnson,30,HR-New York,Pending,'2020-03-01',103580.45,bob.johnson@gmail.com,Excellent,F,+5246484493,"USD 103,580.45",30,HR,New York
+EMP1750,Grace,Garcia,40,HR-Florida,Pending,'2024-08-09',112589.11,grace.garcia@gmail.com,Average,F,+1163187327,"USD 112,589.11",40,HR,Florida
+EMP1751,Eva,Jones,30,Admin-Texas,Active,'2021-01-13',51833.88,eva.jones@gmail.com,Average,T,+1771130620,"USD 51,833.88",30,Admin,Texas
+EMP1752,Eva,Johnson,Missing,Sales-Illinois,Active,'2023-05-06',66252.78,eva.johnson@gmail.com,Excellent,T,+1369572789,"USD 66,252.78",30,Sales,Illinois
+EMP1753,Frank,Johnson,25,DevOps-Florida,Active,'2022-10-25',109229.68,frank.johnson@gmail.com,Poor,T,+8335090253,"USD 109,229.68",25,DevOps,Florida
+EMP1754,Frank,Johnson,30,Finance-Florida,Inactive,'2020-10-08',61465.05,frank.johnson@gmail.com,Average,F,+2573066247,"USD 61,465.05",30,Finance,Florida
+EMP1755,Grace,Miller,25,HR-Florida,Active,'2024-02-29',96993.74,grace.miller@gmail.com,Poor,F,+1323570712,"USD 96,993.74",25,HR,Florida
+EMP1756,David,Johnson,25,Admin-Florida,Pending,'2022-09-30',98150.39,david.johnson@gmail.com,Good,T,+9848228500,"USD 98,150.39",25,Admin,Florida
+EMP1757,David,Williams,40,Finance-Texas,Pending,'2024-02-14',107703.0,david.williams@gmail.com,Average,F,+1688092549,"USD 107,703.00",40,Finance,Texas
+EMP1758,Grace,Smith,Missing,DevOps-Illinois,Pending,'2023-01-03',86766.14,grace.smith@gmail.com,Poor,T,+2130609068,"USD 86,766.14",30,DevOps,Illinois
+EMP1759,Alice,Davis,Missing,Cloud Tech-Florida,Inactive,'2024-08-20',111443.69,alice.davis@gmail.com,Poor,T,+1309810795,"USD 111,443.69",30,Cloud Tech,Florida
+EMP1760,David,Brown,Missing,Sales-Florida,Pending,'2020-03-21',89039.07,david.brown@gmail.com,Good,F,+4967379456,"USD 89,039.07",30,Sales,Florida
+EMP1761,Alice,Johnson,30,HR-Florida,Inactive,'2024-12-16',71318.79,alice.johnson@gmail.com,Poor,F,+7278532425,"USD 71,318.79",30,HR,Florida
+EMP1762,Heidi,Jones,30,Finance-California,Pending,'2020-04-21',98296.71,heidi.jones@gmail.com,Poor,F,+4250642075,"USD 98,296.71",30,Finance,California
+EMP1763,Heidi,Johnson,40,Cloud Tech-Nevada,Pending,'2020-08-19',62584.0,heidi.johnson@gmail.com,Good,F,+8362536666,"USD 62,584.00",40,Cloud Tech,Nevada
+EMP1764,Charlie,Jones,40,Finance-California,Inactive,'2020-02-21',62521.5,charlie.jones@gmail.com,Average,T,+7767555627,"USD 62,521.50",40,Finance,California
+EMP1765,David,Williams,40,Cloud Tech-California,Inactive,'2023-11-17',95400.35,david.williams@gmail.com,Poor,T,+3333939577,"USD 95,400.35",40,Cloud Tech,California
+EMP1766,Charlie,Jones,25,Cloud Tech-Texas,Pending,'2022-07-09',94385.07,charlie.jones@gmail.com,Poor,T,+6543627186,"USD 94,385.07",25,Cloud Tech,Texas
+EMP1767,Grace,Garcia,Missing,Sales-New York,Inactive,'2023-02-01',76642.49,grace.garcia@gmail.com,Poor,T,+4960335825,"USD 76,642.49",30,Sales,New York
+EMP1768,Frank,Brown,Missing,DevOps-New York,Active,'2024-11-14',60122.52,frank.brown@gmail.com,Excellent,T,+8627036923,"USD 60,122.52",30,DevOps,New York
+EMP1769,Alice,Smith,40,HR-California,Pending,'2024-04-23',117267.63,alice.smith@gmail.com,Good,F,+9269326572,"USD 117,267.63",40,HR,California
+EMP1770,Charlie,Jones,25,Admin-New York,Active,'2023-06-29',,charlie.jones@gmail.com,Excellent,T,+2759980110,No Salary,25,Admin,New York
+EMP1771,Heidi,Jones,40,Sales-Texas,Pending,'2024-12-12',84542.68,heidi.jones@gmail.com,Good,T,,"USD 84,542.68",40,Sales,Texas
+EMP1772,Heidi,Smith,40,Finance-Florida,Active,'2023-05-16',92007.15,heidi.smith@gmail.com,Average,T,+4159597751,"USD 92,007.15",40,Finance,Florida
+EMP1773,Eva,Brown,Missing,DevOps-Illinois,Active,'2020-04-10',62938.8,eva.brown@gmail.com,Average,F,+4418222617,"USD 62,938.80",30,DevOps,Illinois
+EMP1774,Frank,Johnson,25,Admin-Texas,Pending,'2023-03-29',108661.01,frank.johnson@gmail.com,Poor,F,+9628874311,"USD 108,661.01",25,Admin,Texas
+EMP1775,Bob,Jones,25,Cloud Tech-Florida,Active,'2020-11-26',97046.33,bob.jones@gmail.com,Good,F,+7102676719,"USD 97,046.33",25,Cloud Tech,Florida
+EMP1776,Charlie,Smith,40,DevOps-Illinois,Inactive,'2020-03-14',56518.84,charlie.smith@gmail.com,Average,F,+9579927078,"USD 56,518.84",40,DevOps,Illinois
+EMP1777,Frank,Garcia,40,Cloud Tech-Florida,Pending,'2020-05-12',70498.29,frank.garcia@gmail.com,Good,T,+5515122945,"USD 70,498.29",40,Cloud Tech,Florida
+EMP1778,Eva,Garcia,35,Sales-Florida,Pending,'2021-03-05',98708.06,eva.garcia@gmail.com,Average,T,+2135415969,"USD 98,708.06",35,Sales,Florida
+EMP1779,Bob,Williams,Missing,DevOps-Nevada,Pending,'2020-06-28',83856.41,bob.williams@gmail.com,Excellent,F,+9962543847,"USD 83,856.41",30,DevOps,Nevada
+EMP1780,Eva,Smith,40,Sales-California,Inactive,'2022-12-12',90259.99,eva.smith@gmail.com,Average,F,+1752034475,"USD 90,259.99",40,Sales,California
+EMP1781,Charlie,Williams,Missing,Sales-Florida,Pending,'2024-02-02',94230.03,charlie.williams@gmail.com,Excellent,T,+5047158028,"USD 94,230.03",30,Sales,Florida
+EMP1782,Charlie,Garcia,Missing,Admin-Nevada,Inactive,'2021-01-31',50110.66,charlie.garcia@gmail.com,Average,T,+1904637659,"USD 50,110.66",30,Admin,Nevada
+EMP1783,Bob,Brown,30,Sales-Florida,Inactive,'2020-04-03',73365.46,bob.brown@gmail.com,Poor,F,+4655866524,"USD 73,365.46",30,Sales,Florida
+EMP1784,David,Johnson,25,DevOps-New York,Pending,'2021-07-30',67809.23,david.johnson@gmail.com,Excellent,F,+4837441714,"USD 67,809.23",25,DevOps,New York
+EMP1785,Eva,Smith,Missing,Sales-California,Active,'2020-08-21',98008.51,eva.smith@gmail.com,Average,F,+8102131250,"USD 98,008.51",30,Sales,California
+EMP1786,Alice,Davis,30,Admin-California,Inactive,'2023-10-09',83537.58,alice.davis@gmail.com,Poor,F,+2931100590,"USD 83,537.58",30,Admin,California
+EMP1787,Alice,Garcia,30,Finance-New York,Pending,'2022-08-01',112444.08,alice.garcia@gmail.com,Excellent,T,+2975191022,"USD 112,444.08",30,Finance,New York
+EMP1788,Frank,Garcia,40,Finance-Nevada,Active,'2024-09-06',86475.13,frank.garcia@gmail.com,Poor,T,+1211063300,"USD 86,475.13",40,Finance,Nevada
+EMP1789,Frank,Davis,Missing,Sales-Texas,Active,'2023-03-28',97984.53,frank.davis@gmail.com,Good,T,+6583737926,"USD 97,984.53",30,Sales,Texas
+EMP1790,Frank,Miller,25,Admin-California,Active,'2021-11-25',118853.31,frank.miller@gmail.com,Good,F,+4907280122,"USD 118,853.31",25,Admin,California
+EMP1791,Charlie,Garcia,Missing,Sales-Florida,Active,'2023-05-03',58179.12,charlie.garcia@gmail.com,Excellent,F,+4289311324,"USD 58,179.12",30,Sales,Florida
+EMP1792,Eva,Jones,35,DevOps-Texas,Inactive,'2022-04-27',56075.84,eva.jones@gmail.com,Average,T,+3269496842,"USD 56,075.84",35,DevOps,Texas
+EMP1793,Frank,Brown,40,HR-New York,Pending,'2021-09-11',62250.89,frank.brown@gmail.com,Excellent,T,+6453804420,"USD 62,250.89",40,HR,New York
+EMP1794,Alice,Smith,30,Cloud Tech-Florida,Pending,'2020-02-21',105931.77,alice.smith@gmail.com,Poor,T,+1175096169,"USD 105,931.77",30,Cloud Tech,Florida
+EMP1795,Charlie,Davis,30,HR-Florida,Pending,'2024-11-24',86653.96,charlie.davis@gmail.com,Average,T,+1595919456,"USD 86,653.96",30,HR,Florida
+EMP1796,Charlie,Jones,25,Sales-Nevada,Active,'2021-02-24',100719.94,charlie.jones@gmail.com,Good,F,+5757475832,"USD 100,719.94",25,Sales,Nevada
+EMP1797,Bob,Davis,25,HR-Texas,Pending,'2024-10-02',91600.13,bob.davis@gmail.com,Average,T,+9205677566,"USD 91,600.13",25,HR,Texas
+EMP1798,Heidi,Smith,25,Cloud Tech-Illinois,Pending,'2024-03-06',71873.66,heidi.smith@gmail.com,Good,T,+7722660255,"USD 71,873.66",25,Cloud Tech,Illinois
+EMP1799,Eva,Williams,30,HR-New York,Active,'2021-08-09',69365.47,eva.williams@gmail.com,Average,T,+2650622922,"USD 69,365.47",30,HR,New York
+EMP1800,Heidi,Smith,25,HR-New York,Active,'2021-07-14',58012.23,heidi.smith@gmail.com,Average,T,+1067245306,"USD 58,012.23",25,HR,New York
+EMP1801,Bob,Miller,30,Sales-California,Pending,'2021-10-14',68973.65,bob.miller@gmail.com,Average,T,+6248433796,"USD 68,973.65",30,Sales,California
+EMP1802,Eva,Smith,Missing,Admin-New York,Active,'2021-09-29',92928.4,eva.smith@gmail.com,Poor,T,+6627051156,"USD 92,928.40",30,Admin,New York
+EMP1803,Heidi,Smith,25,Admin-Texas,Inactive,'2023-10-15',53531.92,heidi.smith@gmail.com,Poor,T,+9423873669,"USD 53,531.92",25,Admin,Texas
+EMP1804,Bob,Miller,40,Finance-New York,Pending,'2023-05-05',112389.31,bob.miller@gmail.com,Excellent,F,+4254969191,"USD 112,389.31",40,Finance,New York
+EMP1805,Heidi,Brown,Missing,HR-California,Inactive,'2024-08-01',63870.3,heidi.brown@gmail.com,Excellent,F,+8455259709,"USD 63,870.30",30,HR,California
+EMP1806,Bob,Garcia,40,Sales-New York,Active,'2024-07-22',106164.53,bob.garcia@gmail.com,Good,F,+7563353573,"USD 106,164.53",40,Sales,New York
+EMP1807,Bob,Smith,40,HR-Nevada,Pending,'2023-12-25',103654.54,bob.smith@gmail.com,Poor,F,+8595325938,"USD 103,654.54",40,HR,Nevada
+EMP1808,David,Miller,30,Sales-California,Inactive,'2022-03-13',62834.72,david.miller@gmail.com,Good,T,+9337970580,"USD 62,834.72",30,Sales,California
+EMP1809,Frank,Jones,35,Finance-Florida,Active,'2020-05-13',83273.41,frank.jones@gmail.com,Excellent,F,+6295187793,"USD 83,273.41",35,Finance,Florida
+EMP1810,Heidi,Williams,30,HR-California,Pending,'2023-03-22',58917.58,heidi.williams@gmail.com,Good,F,+1763425072,"USD 58,917.58",30,HR,California
+EMP1811,Bob,Williams,35,Sales-Nevada,Active,'2024-06-10',71148.27,bob.williams@gmail.com,Excellent,T,+3055978244,"USD 71,148.27",35,Sales,Nevada
+EMP1812,Grace,Smith,30,Sales-New York,Pending,'2020-11-21',118172.42,grace.smith@gmail.com,Poor,T,+7598339913,"USD 118,172.42",30,Sales,New York
+EMP1813,Frank,Brown,30,DevOps-Illinois,Inactive,'2024-05-25',118614.37,frank.brown@gmail.com,Average,F,+1388436603,"USD 118,614.37",30,DevOps,Illinois
+EMP1814,Frank,Brown,Missing,DevOps-New York,Active,'2023-09-19',96872.36,frank.brown@gmail.com,Poor,F,+4324006156,"USD 96,872.36",30,DevOps,New York
+EMP1815,Heidi,Jones,25,Sales-Illinois,Inactive,'2021-10-28',88856.14,heidi.jones@gmail.com,Good,T,+2768297513,"USD 88,856.14",25,Sales,Illinois
+EMP1816,Charlie,Smith,35,Finance-Texas,Pending,'2020-08-10',97985.61,charlie.smith@gmail.com,Good,F,+7439742924,"USD 97,985.61",35,Finance,Texas
+EMP1817,Grace,Williams,35,Finance-Nevada,Pending,'2020-05-05',56337.31,grace.williams@gmail.com,Poor,T,+1105875255,"USD 56,337.31",35,Finance,Nevada
+EMP1818,Alice,Brown,30,DevOps-New York,Inactive,'2022-12-24',70405.23,alice.brown@gmail.com,Poor,T,+8065625903,"USD 70,405.23",30,DevOps,New York
+EMP1819,Heidi,Smith,30,Admin-Nevada,Inactive,'2021-09-05',89919.35,heidi.smith@gmail.com,Excellent,T,+5990802710,"USD 89,919.35",30,Admin,Nevada
+EMP1820,Eva,Davis,40,DevOps-California,Active,'2023-04-08',50568.35,eva.davis@gmail.com,Good,T,+2218231554,"USD 50,568.35",40,DevOps,California
+EMP1821,Grace,Brown,30,HR-Texas,Inactive,'2023-01-29',,grace.brown@gmail.com,Good,F,+1651768085,No Salary,30,HR,Texas
+EMP1822,Frank,Miller,25,HR-Texas,Active,'2022-06-03',99155.53,frank.miller@gmail.com,Poor,T,+6281372142,"USD 99,155.53",25,HR,Texas
+EMP1823,Frank,Davis,40,Finance-Florida,Inactive,'2023-01-21',64785.13,frank.davis@gmail.com,Average,T,+3080037002,"USD 64,785.13",40,Finance,Florida
+EMP1824,Charlie,Garcia,30,Sales-Florida,Inactive,'2024-09-16',79206.48,charlie.garcia@gmail.com,Good,F,+3228556607,"USD 79,206.48",30,Sales,Florida
+EMP1825,Charlie,Brown,30,Cloud Tech-Texas,Pending,'2020-02-02',60079.71,charlie.brown@gmail.com,Average,T,+4706810389,"USD 60,079.71",30,Cloud Tech,Texas
+EMP1826,Grace,Williams,30,Cloud Tech-New York,Pending,'2024-07-08',79109.88,grace.williams@gmail.com,Poor,F,+3397051957,"USD 79,109.88",30,Cloud Tech,New York
+EMP1827,Grace,Johnson,Missing,Admin-Florida,Pending,'2022-05-18',88643.5,grace.johnson@gmail.com,Poor,F,+2632809447,"USD 88,643.50",30,Admin,Florida
+EMP1828,Frank,Davis,30,Admin-Florida,Pending,'2020-01-16',90455.7,frank.davis@gmail.com,Excellent,F,+5862394534,"USD 90,455.70",30,Admin,Florida
+EMP1829,David,Garcia,Missing,HR-Florida,Pending,'2023-03-26',75687.9,david.garcia@gmail.com,Good,T,+4614707985,"USD 75,687.90",30,HR,Florida
+EMP1830,Heidi,Jones,35,Cloud Tech-Illinois,Inactive,'2023-11-15',55604.42,heidi.jones@gmail.com,Average,F,+3210613393,"USD 55,604.42",35,Cloud Tech,Illinois
+EMP1831,Eva,Jones,40,Sales-Texas,Pending,'2024-12-27',92704.94,eva.jones@gmail.com,Excellent,F,+3945703942,"USD 92,704.94",40,Sales,Texas
+EMP1832,Bob,Williams,Missing,Sales-California,Pending,'2020-04-18',113250.97,bob.williams@gmail.com,Good,T,+8040325375,"USD 113,250.97",30,Sales,California
+EMP1833,Alice,Brown,40,Finance-Illinois,Inactive,'2023-03-21',101367.02,alice.brown@gmail.com,Excellent,F,+5769277893,"USD 101,367.02",40,Finance,Illinois
+EMP1834,Eva,Smith,35,Admin-Texas,Pending,'2023-05-08',102459.77,eva.smith@gmail.com,Poor,F,+3191009003,"USD 102,459.77",35,Admin,Texas
+EMP1835,Eva,Brown,25,DevOps-Florida,Pending,'2020-12-12',90100.2,eva.brown@gmail.com,Good,F,+1476921052,"USD 90,100.20",25,DevOps,Florida
+EMP1836,Eva,Williams,Missing,Cloud Tech-California,Inactive,'2020-06-17',58877.49,eva.williams@gmail.com,Excellent,F,+3651460400,"USD 58,877.49",30,Cloud Tech,California
+EMP1837,Eva,Jones,35,Admin-Illinois,Inactive,'2021-07-17',,eva.jones@gmail.com,Excellent,F,+4247310719,No Salary,35,Admin,Illinois
+EMP1838,Bob,Brown,Missing,Admin-Illinois,Pending,'2020-11-05',96140.89,bob.brown@gmail.com,Average,T,+1137984408,"USD 96,140.89",30,Admin,Illinois
+EMP1839,Charlie,Jones,35,DevOps-New York,Inactive,'2021-01-05',105956.04,charlie.jones@gmail.com,Excellent,F,+7123166006,"USD 105,956.04",35,DevOps,New York
+EMP1840,Frank,Davis,25,Admin-Illinois,Active,'2024-09-11',84716.38,frank.davis@gmail.com,Good,F,+6762090143,"USD 84,716.38",25,Admin,Illinois
+EMP1841,Grace,Garcia,30,DevOps-Florida,Pending,'2023-07-29',61709.83,grace.garcia@gmail.com,Good,T,+7340433699,"USD 61,709.83",30,DevOps,Florida
+EMP1842,Frank,Smith,25,DevOps-California,Active,'2020-04-17',61732.03,frank.smith@gmail.com,Average,T,+9687304518,"USD 61,732.03",25,DevOps,California
+EMP1843,Eva,Davis,40,DevOps-Illinois,Active,'2022-02-16',97845.7,eva.davis@gmail.com,Good,T,+5778255881,"USD 97,845.70",40,DevOps,Illinois
+EMP1844,Eva,Jones,30,Sales-Florida,Active,'2021-08-14',114905.58,eva.jones@gmail.com,Poor,F,+5562965753,"USD 114,905.58",30,Sales,Florida
+EMP1845,Frank,Jones,Missing,DevOps-Texas,Active,'2022-12-24',94619.69,frank.jones@gmail.com,Good,T,+2786561941,"USD 94,619.69",30,DevOps,Texas
+EMP1846,Grace,Johnson,Missing,DevOps-California,Inactive,'2021-07-07',68696.15,grace.johnson@gmail.com,Good,F,+5577820581,"USD 68,696.15",30,DevOps,California
+EMP1847,Grace,Johnson,40,DevOps-Nevada,Active,'2024-02-12',97032.29,grace.johnson@gmail.com,Excellent,F,+9582923615,"USD 97,032.29",40,DevOps,Nevada
+EMP1848,Frank,Davis,30,HR-Illinois,Active,'2023-10-09',50593.33,frank.davis@gmail.com,Excellent,T,+1880819047,"USD 50,593.33",30,HR,Illinois
+EMP1849,Grace,Miller,25,Sales-Texas,Pending,'2022-07-02',74606.15,grace.miller@gmail.com,Good,T,+2357155867,"USD 74,606.15",25,Sales,Texas
+EMP1850,Eva,Davis,30,Cloud Tech-Texas,Pending,'2020-07-07',53981.73,eva.davis@gmail.com,Average,F,+6395613722,"USD 53,981.73",30,Cloud Tech,Texas
+EMP1851,David,Johnson,Missing,DevOps-Texas,Pending,'2020-09-02',56047.05,david.johnson@gmail.com,Excellent,T,+1817214363,"USD 56,047.05",30,DevOps,Texas
+EMP1852,Grace,Jones,Missing,Admin-Texas,Pending,'2021-01-12',67733.5,grace.jones@gmail.com,Average,F,+3813000412,"USD 67,733.50",30,Admin,Texas
+EMP1853,Bob,Williams,40,HR-Florida,Pending,'2023-09-29',103891.64,bob.williams@gmail.com,Good,T,+2114716559,"USD 103,891.64",40,HR,Florida
+EMP1854,Charlie,Davis,25,HR-Texas,Inactive,'2022-03-06',73285.83,charlie.davis@gmail.com,Good,T,+9456534698,"USD 73,285.83",25,HR,Texas
+EMP1855,Eva,Jones,30,Finance-Texas,Inactive,'2021-02-14',92721.13,eva.jones@gmail.com,Poor,T,+7990707549,"USD 92,721.13",30,Finance,Texas
+EMP1856,Heidi,Williams,25,Admin-Illinois,Inactive,'2021-03-23',92977.64,heidi.williams@gmail.com,Excellent,F,+4768169956,"USD 92,977.64",25,Admin,Illinois
+EMP1857,Heidi,Williams,35,Cloud Tech-Texas,Active,'2020-05-24',89994.12,heidi.williams@gmail.com,Good,T,+1607174810,"USD 89,994.12",35,Cloud Tech,Texas
+EMP1858,Heidi,Johnson,25,Finance-New York,Pending,'2023-08-04',50060.73,heidi.johnson@gmail.com,Poor,F,+3176539704,"USD 50,060.73",25,Finance,New York
+EMP1859,Grace,Davis,35,Admin-Nevada,Inactive,'2022-03-12',90224.82,grace.davis@gmail.com,Excellent,F,+4873961028,"USD 90,224.82",35,Admin,Nevada
+EMP1860,Heidi,Brown,40,Finance-Florida,Pending,'2024-05-18',106859.3,heidi.brown@gmail.com,Good,F,+1871827495,"USD 106,859.30",40,Finance,Florida
+EMP1861,David,Smith,25,Finance-Nevada,Inactive,'2020-09-05',89707.07,david.smith@gmail.com,Good,F,+8049187273,"USD 89,707.07",25,Finance,Nevada
+EMP1862,Frank,Johnson,35,DevOps-California,Inactive,'2020-04-23',94259.08,frank.johnson@gmail.com,Excellent,T,+2049561212,"USD 94,259.08",35,DevOps,California
+EMP1863,Bob,Johnson,35,Sales-California,Active,'2024-09-18',82174.75,bob.johnson@gmail.com,Excellent,F,+7730626041,"USD 82,174.75",35,Sales,California
+EMP1864,David,Brown,30,Sales-Texas,Inactive,'2023-09-15',63370.22,david.brown@gmail.com,Excellent,F,+3597371121,"USD 63,370.22",30,Sales,Texas
+EMP1865,Bob,Smith,35,Finance-Texas,Pending,'2022-06-15',101472.69,bob.smith@gmail.com,Good,T,+2990775607,"USD 101,472.69",35,Finance,Texas
+EMP1866,David,Jones,25,DevOps-Illinois,Active,'2022-09-28',77213.73,david.jones@gmail.com,Good,F,+5816704685,"USD 77,213.73",25,DevOps,Illinois
+EMP1867,Eva,Miller,40,Sales-Florida,Active,'2020-03-16',73749.96,eva.miller@gmail.com,Poor,T,+1114576831,"USD 73,749.96",40,Sales,Florida
+EMP1868,Alice,Davis,40,Cloud Tech-New York,Pending,'2023-09-28',86618.37,alice.davis@gmail.com,Average,F,+1021923784,"USD 86,618.37",40,Cloud Tech,New York
+EMP1869,Charlie,Miller,Missing,Admin-Texas,Active,'2024-02-15',59911.33,charlie.miller@gmail.com,Excellent,T,+8471296179,"USD 59,911.33",30,Admin,Texas
+EMP1870,Heidi,Jones,Missing,Cloud Tech-New York,Pending,'2023-08-21',59137.64,heidi.jones@gmail.com,Good,F,+3324260507,"USD 59,137.64",30,Cloud Tech,New York
+EMP1871,Alice,Garcia,35,Cloud Tech-Florida,Pending,'2020-12-15',108474.65,alice.garcia@gmail.com,Good,T,+1184980424,"USD 108,474.65",35,Cloud Tech,Florida
+EMP1872,Bob,Johnson,25,Finance-Illinois,Pending,'2021-03-27',54417.71,bob.johnson@gmail.com,Excellent,F,+3733777311,"USD 54,417.71",25,Finance,Illinois
+EMP1873,Frank,Smith,40,HR-Texas,Pending,'2023-03-25',88211.94,frank.smith@gmail.com,Average,F,+6881228216,"USD 88,211.94",40,HR,Texas
+EMP1874,David,Johnson,25,Sales-New York,Inactive,'2020-05-09',58452.18,david.johnson@gmail.com,Excellent,T,+8192365345,"USD 58,452.18",25,Sales,New York
+EMP1875,Grace,Williams,30,DevOps-California,Pending,'2020-12-03',80706.28,grace.williams@gmail.com,Average,T,+1605603566,"USD 80,706.28",30,DevOps,California
+EMP1876,Alice,Johnson,30,Cloud Tech-Nevada,Pending,'2022-02-09',,alice.johnson@gmail.com,Good,T,+9327986238,No Salary,30,Cloud Tech,Nevada
+EMP1877,Heidi,Johnson,25,Cloud Tech-Texas,Active,'2020-07-01',99471.89,heidi.johnson@gmail.com,Average,T,+8471690617,"USD 99,471.89",25,Cloud Tech,Texas
+EMP1878,Eva,Jones,40,DevOps-Florida,Pending,'2020-09-16',64431.22,eva.jones@gmail.com,Poor,F,+1205464753,"USD 64,431.22",40,DevOps,Florida
+EMP1879,Heidi,Jones,40,Admin-New York,Pending,'2023-11-17',52633.48,heidi.jones@gmail.com,Good,F,+8954787697,"USD 52,633.48",40,Admin,New York
+EMP1880,Heidi,Jones,Missing,Cloud Tech-Nevada,Inactive,'2021-12-13',79315.01,heidi.jones@gmail.com,Poor,T,+9992751757,"USD 79,315.01",30,Cloud Tech,Nevada
+EMP1881,David,Miller,25,Sales-Texas,Pending,'2022-01-11',110391.17,david.miller@gmail.com,Excellent,F,+8914444982,"USD 110,391.17",25,Sales,Texas
+EMP1882,David,Williams,40,DevOps-Nevada,Active,'2021-07-20',53714.83,david.williams@gmail.com,Excellent,T,+5539354357,"USD 53,714.83",40,DevOps,Nevada
+EMP1883,Charlie,Garcia,40,Finance-New York,Active,'2023-10-04',114587.11,charlie.garcia@gmail.com,Excellent,T,+6449639242,"USD 114,587.11",40,Finance,New York
+EMP1884,Frank,Garcia,35,Admin-Florida,Inactive,'2021-11-15',93177.35,frank.garcia@gmail.com,Average,F,+5885379820,"USD 93,177.35",35,Admin,Florida
+EMP1885,Heidi,Jones,25,Cloud Tech-Nevada,Active,'2023-01-05',62312.13,heidi.jones@gmail.com,Good,F,+4339527535,"USD 62,312.13",25,Cloud Tech,Nevada
+EMP1886,Heidi,Smith,Missing,Cloud Tech-Texas,Active,'2024-01-17',81137.46,heidi.smith@gmail.com,Excellent,F,+7497852490,"USD 81,137.46",30,Cloud Tech,Texas
+EMP1887,Grace,Miller,30,DevOps-Nevada,Inactive,'2021-04-16',104528.27,grace.miller@gmail.com,Excellent,F,+4168601346,"USD 104,528.27",30,DevOps,Nevada
+EMP1888,Bob,Brown,30,DevOps-Florida,Active,'2022-02-08',112395.56,bob.brown@gmail.com,Good,F,+7894896339,"USD 112,395.56",30,DevOps,Florida
+EMP1889,Heidi,Smith,25,Finance-New York,Active,'2023-06-02',81849.36,heidi.smith@gmail.com,Excellent,F,+6791766511,"USD 81,849.36",25,Finance,New York
+EMP1890,Charlie,Davis,40,DevOps-New York,Pending,'2022-01-04',118288.91,charlie.davis@gmail.com,Poor,F,+2150014187,"USD 118,288.91",40,DevOps,New York
+EMP1891,Charlie,Davis,25,DevOps-Illinois,Active,'2021-07-28',59555.1,charlie.davis@gmail.com,Good,T,+4216309000,"USD 59,555.10",25,DevOps,Illinois
+EMP1892,Heidi,Smith,40,Admin-California,Active,'2024-12-20',70661.31,heidi.smith@gmail.com,Good,T,+5944633398,"USD 70,661.31",40,Admin,California
+EMP1893,Charlie,Jones,Missing,Sales-New York,Active,'2022-04-23',109988.16,charlie.jones@gmail.com,Good,T,+9485320894,"USD 109,988.16",30,Sales,New York
+EMP1894,David,Brown,Missing,Finance-Florida,Inactive,'2020-01-30',101101.24,david.brown@gmail.com,Poor,T,+3263890218,"USD 101,101.24",30,Finance,Florida
+EMP1895,David,Brown,30,HR-Florida,Pending,'2021-03-31',112427.58,david.brown@gmail.com,Good,T,+9471136336,"USD 112,427.58",30,HR,Florida
+EMP1896,Charlie,Miller,Missing,Cloud Tech-Florida,Active,'2020-03-23',119389.15,charlie.miller@gmail.com,Poor,F,+9223410345,"USD 119,389.15",30,Cloud Tech,Florida
+EMP1897,Alice,Brown,40,Sales-Florida,Inactive,'2024-07-16',105861.23,alice.brown@gmail.com,Good,T,+9967331166,"USD 105,861.23",40,Sales,Florida
+EMP1898,Heidi,Davis,40,Admin-Texas,Pending,'2024-03-22',50869.61,heidi.davis@gmail.com,Average,T,+7269608436,"USD 50,869.61",40,Admin,Texas
+EMP1899,David,Williams,30,HR-California,Active,'2023-08-19',,david.williams@gmail.com,Excellent,T,+6855078966,No Salary,30,HR,California
+EMP1900,Eva,Jones,30,DevOps-Florida,Pending,'2024-03-10',90856.21,eva.jones@gmail.com,Average,T,+9352196262,"USD 90,856.21",30,DevOps,Florida
+EMP1901,Heidi,Brown,30,DevOps-Florida,Active,'2024-06-05',111008.63,heidi.brown@gmail.com,Excellent,T,+3556434368,"USD 111,008.63",30,DevOps,Florida
+EMP1902,Alice,Miller,25,Finance-Nevada,Inactive,'2022-12-23',52289.99,alice.miller@gmail.com,Poor,T,+7093170694,"USD 52,289.99",25,Finance,Nevada
+EMP1903,Eva,Davis,Missing,Sales-Illinois,Active,'2024-06-01',97926.56,eva.davis@gmail.com,Average,T,+5607676163,"USD 97,926.56",30,Sales,Illinois
+EMP1904,Frank,Williams,25,Sales-Nevada,Inactive,'2024-12-23',53609.38,frank.williams@gmail.com,Good,F,+5345472238,"USD 53,609.38",25,Sales,Nevada
+EMP1905,Heidi,Johnson,Missing,Cloud Tech-California,Inactive,'2020-12-24',95372.09,heidi.johnson@gmail.com,Excellent,F,+8983065030,"USD 95,372.09",30,Cloud Tech,California
+EMP1906,David,Johnson,30,HR-New York,Pending,'2020-08-20',95432.69,david.johnson@gmail.com,Excellent,T,+2198041846,"USD 95,432.69",30,HR,New York
+EMP1907,David,Williams,30,HR-California,Inactive,'2022-10-28',97615.87,david.williams@gmail.com,Average,F,+2426423641,"USD 97,615.87",30,HR,California
+EMP1908,Bob,Davis,35,HR-Florida,Inactive,'2022-10-23',86867.78,bob.davis@gmail.com,Poor,F,+8131909247,"USD 86,867.78",35,HR,Florida
+EMP1909,Eva,Miller,40,Sales-California,Pending,'2023-11-20',106615.71,eva.miller@gmail.com,Average,F,+7623039110,"USD 106,615.71",40,Sales,California
+EMP1910,Bob,Williams,30,Finance-Texas,Active,'2022-03-11',112856.21,bob.williams@gmail.com,Poor,F,+4281785227,"USD 112,856.21",30,Finance,Texas
+EMP1911,Bob,Jones,25,Admin-California,Active,'2023-11-28',60356.78,bob.jones@gmail.com,Poor,T,+2305248087,"USD 60,356.78",25,Admin,California
+EMP1912,David,Jones,Missing,DevOps-Texas,Inactive,'2022-05-03',117870.22,david.jones@gmail.com,Excellent,F,+1622072238,"USD 117,870.22",30,DevOps,Texas
+EMP1913,Charlie,Johnson,40,HR-Florida,Inactive,'2024-02-19',95127.91,charlie.johnson@gmail.com,Average,F,+5947372131,"USD 95,127.91",40,HR,Florida
+EMP1914,Bob,Brown,25,Admin-Illinois,Pending,'2021-11-18',78818.42,bob.brown@gmail.com,Average,F,+9016204786,"USD 78,818.42",25,Admin,Illinois
+EMP1915,Frank,Miller,40,Sales-Nevada,Pending,'2022-12-21',108933.55,frank.miller@gmail.com,Poor,T,+6886878598,"USD 108,933.55",40,Sales,Nevada
+EMP1916,Eva,Johnson,Missing,Admin-California,Active,'2024-06-04',68200.52,eva.johnson@gmail.com,Average,T,+6486287202,"USD 68,200.52",30,Admin,California
+EMP1917,Eva,Brown,25,Admin-California,Inactive,'2022-07-22',116934.97,eva.brown@gmail.com,Good,T,+1954196663,"USD 116,934.97",25,Admin,California
+EMP1918,Charlie,Brown,Missing,HR-New York,Active,'2024-09-14',99567.78,charlie.brown@gmail.com,Good,T,+5057303626,"USD 99,567.78",30,HR,New York
+EMP1919,Charlie,Garcia,30,Admin-Texas,Active,'2021-10-10',90216.76,charlie.garcia@gmail.com,Average,T,+9246320373,"USD 90,216.76",30,Admin,Texas
+EMP1920,Frank,Jones,30,Admin-Illinois,Pending,'2020-03-12',96588.73,frank.jones@gmail.com,Average,T,+7677537259,"USD 96,588.73",30,Admin,Illinois
+EMP1921,Charlie,Davis,35,Finance-Illinois,Active,'2022-12-28',71109.18,charlie.davis@gmail.com,Poor,T,+3214505765,"USD 71,109.18",35,Finance,Illinois
+EMP1922,Grace,Smith,40,Admin-Florida,Inactive,'2020-11-15',50300.6,grace.smith@gmail.com,Good,F,+1945887070,"USD 50,300.60",40,Admin,Florida
+EMP1923,Frank,Davis,35,Finance-California,Pending,'2023-09-27',60295.84,frank.davis@gmail.com,Good,F,+5534820127,"USD 60,295.84",35,Finance,California
+EMP1924,Heidi,Smith,35,DevOps-Texas,Pending,'2022-09-07',113012.21,heidi.smith@gmail.com,Excellent,F,+4008385075,"USD 113,012.21",35,DevOps,Texas
+EMP1925,Bob,Williams,35,Cloud Tech-Florida,Pending,'2024-09-18',65425.54,bob.williams@gmail.com,Poor,T,+5975954507,"USD 65,425.54",35,Cloud Tech,Florida
+EMP1926,Frank,Jones,25,Sales-Nevada,Active,'2023-04-09',86850.37,frank.jones@gmail.com,Excellent,T,+9177680897,"USD 86,850.37",25,Sales,Nevada
+EMP1927,Eva,Brown,30,Cloud Tech-Texas,Pending,'2024-10-05',81182.07,eva.brown@gmail.com,Good,T,+1265742230,"USD 81,182.07",30,Cloud Tech,Texas
+EMP1928,Bob,Miller,Missing,Finance-New York,Inactive,'2021-10-12',92222.03,bob.miller@gmail.com,Poor,T,+9646300401,"USD 92,222.03",30,Finance,New York
+EMP1929,Alice,Smith,35,Finance-New York,Pending,'2024-10-14',79934.83,alice.smith@gmail.com,Average,T,+3693626893,"USD 79,934.83",35,Finance,New York
+EMP1930,Alice,Davis,35,HR-California,Inactive,'2022-07-01',111201.12,alice.davis@gmail.com,Poor,F,+3012047136,"USD 111,201.12",35,HR,California
+EMP1931,Heidi,Brown,40,Finance-California,Active,'2024-07-08',100960.05,heidi.brown@gmail.com,Average,F,+2711759573,"USD 100,960.05",40,Finance,California
+EMP1932,Grace,Smith,30,Sales-Illinois,Active,'2020-10-21',64544.87,grace.smith@gmail.com,Average,T,+9885582983,"USD 64,544.87",30,Sales,Illinois
+EMP1933,Frank,Smith,25,Sales-Florida,Active,'2020-01-14',78662.24,frank.smith@gmail.com,Poor,T,+9330674583,"USD 78,662.24",25,Sales,Florida
+EMP1934,Grace,Garcia,30,Sales-Florida,Pending,'2023-03-09',102867.06,grace.garcia@gmail.com,Average,T,+7609441282,"USD 102,867.06",30,Sales,Florida
+EMP1935,Charlie,Smith,40,HR-Illinois,Inactive,'2020-03-27',107595.95,charlie.smith@gmail.com,Excellent,T,+3372188565,"USD 107,595.95",40,HR,Illinois
+EMP1936,Eva,Miller,40,Sales-Nevada,Inactive,'2021-04-04',,eva.miller@gmail.com,Good,F,+6954132970,No Salary,40,Sales,Nevada
+EMP1937,Eva,Jones,35,DevOps-Nevada,Inactive,'2020-09-11',95766.91,eva.jones@gmail.com,Average,T,+5066626704,"USD 95,766.91",35,DevOps,Nevada
+EMP1938,Grace,Miller,30,Finance-Nevada,Pending,'2021-05-16',51990.98,grace.miller@gmail.com,Excellent,T,+5143776935,"USD 51,990.98",30,Finance,Nevada
+EMP1939,Heidi,Johnson,25,Sales-Nevada,Inactive,'2023-04-05',83634.01,heidi.johnson@gmail.com,Average,T,+6343925294,"USD 83,634.01",25,Sales,Nevada
+EMP1940,Eva,Brown,40,DevOps-Texas,Inactive,'2022-11-15',,eva.brown@gmail.com,Good,T,+9611110285,No Salary,40,DevOps,Texas
+EMP1941,Eva,Jones,30,Sales-Texas,Active,'2021-10-16',82273.08,eva.jones@gmail.com,Excellent,F,+7120072023,"USD 82,273.08",30,Sales,Texas
+EMP1942,Frank,Garcia,30,Cloud Tech-California,Inactive,'2022-05-09',94537.3,frank.garcia@gmail.com,Good,T,+5591024509,"USD 94,537.30",30,Cloud Tech,California
+EMP1943,Alice,Jones,35,HR-Illinois,Pending,'2020-06-06',85970.65,alice.jones@gmail.com,Good,T,+9109032670,"USD 85,970.65",35,HR,Illinois
+EMP1944,Charlie,Jones,25,Sales-New York,Pending,'2021-10-22',111071.02,charlie.jones@gmail.com,Excellent,F,+4949819420,"USD 111,071.02",25,Sales,New York
+EMP1945,Eva,Davis,35,DevOps-Nevada,Pending,'2022-01-12',56708.34,eva.davis@gmail.com,Excellent,F,+7942817933,"USD 56,708.34",35,DevOps,Nevada
+EMP1946,Charlie,Jones,25,Admin-Illinois,Inactive,'2022-02-02',104516.55,charlie.jones@gmail.com,Excellent,F,+1652775843,"USD 104,516.55",25,Admin,Illinois
+EMP1947,Charlie,Garcia,25,Admin-New York,Pending,'2021-03-28',108210.15,charlie.garcia@gmail.com,Poor,T,+6634533721,"USD 108,210.15",25,Admin,New York
+EMP1948,Bob,Miller,40,Finance-Texas,Active,'2024-08-03',,bob.miller@gmail.com,Excellent,T,+1109121721,No Salary,40,Finance,Texas
+EMP1949,Frank,Jones,35,DevOps-California,Active,'2024-07-31',80935.65,frank.jones@gmail.com,Excellent,F,+1455937660,"USD 80,935.65",35,DevOps,California
+EMP1950,Frank,Williams,30,DevOps-California,Active,'2024-03-04',107020.19,frank.williams@gmail.com,Excellent,F,+8943705262,"USD 107,020.19",30,DevOps,California
+EMP1951,Charlie,Brown,30,HR-New York,Active,'2020-09-23',118677.67,charlie.brown@gmail.com,Excellent,F,+5100462775,"USD 118,677.67",30,HR,New York
+EMP1952,Bob,Jones,25,Cloud Tech-Florida,Inactive,'2020-03-28',63744.57,bob.jones@gmail.com,Average,F,+5725659201,"USD 63,744.57",25,Cloud Tech,Florida
+EMP1953,Alice,Brown,40,Cloud Tech-California,Active,'2020-05-15',,alice.brown@gmail.com,Poor,F,+4617520237,No Salary,40,Cloud Tech,California
+EMP1954,Bob,Williams,25,Sales-New York,Pending,'2021-02-13',62934.73,bob.williams@gmail.com,Good,F,+9743260054,"USD 62,934.73",25,Sales,New York
+EMP1955,Bob,Williams,30,DevOps-California,Pending,'2021-12-13',74654.23,bob.williams@gmail.com,Excellent,T,+9550178331,"USD 74,654.23",30,DevOps,California
+EMP1956,David,Brown,Missing,Sales-Texas,Active,'2024-08-05',,david.brown@gmail.com,Average,T,+5848689992,No Salary,30,Sales,Texas
+EMP1957,David,Smith,30,HR-New York,Pending,'2020-01-09',118150.59,david.smith@gmail.com,Average,T,+6079848703,"USD 118,150.59",30,HR,New York
+EMP1958,David,Johnson,Missing,DevOps-Florida,Inactive,'2023-11-30',91256.64,david.johnson@gmail.com,Average,F,+5069176798,"USD 91,256.64",30,DevOps,Florida
+EMP1959,Bob,Davis,30,HR-Florida,Inactive,'2021-03-14',85997.57,bob.davis@gmail.com,Good,F,+3593744038,"USD 85,997.57",30,HR,Florida
+EMP1960,Frank,Smith,25,Finance-Texas,Pending,'2020-10-05',84707.12,frank.smith@gmail.com,Excellent,F,+4640830372,"USD 84,707.12",25,Finance,Texas
+EMP1961,Eva,Smith,Missing,DevOps-Texas,Active,'2021-11-02',84559.9,eva.smith@gmail.com,Poor,F,+6060148859,"USD 84,559.90",30,DevOps,Texas
+EMP1962,Heidi,Miller,Missing,DevOps-California,Pending,'2024-09-18',81076.91,heidi.miller@gmail.com,Poor,F,+8490793883,"USD 81,076.91",30,DevOps,California
+EMP1963,Eva,Davis,40,Admin-Texas,Inactive,'2023-10-22',,eva.davis@gmail.com,Average,F,+1368528305,No Salary,40,Admin,Texas
+EMP1964,Heidi,Davis,25,Finance-Florida,Pending,'2023-09-10',97356.31,heidi.davis@gmail.com,Good,T,+1537012423,"USD 97,356.31",25,Finance,Florida
+EMP1965,Grace,Smith,40,DevOps-Illinois,Active,'2024-02-27',114770.32,grace.smith@gmail.com,Good,T,+4626325143,"USD 114,770.32",40,DevOps,Illinois
+EMP1966,Bob,Jones,35,Admin-California,Active,'2023-05-03',109082.07,bob.jones@gmail.com,Good,F,+8811210313,"USD 109,082.07",35,Admin,California
+EMP1967,David,Miller,40,DevOps-Florida,Inactive,'2024-04-15',99944.57,david.miller@gmail.com,Poor,T,+2175188780,"USD 99,944.57",40,DevOps,Florida
+EMP1968,Eva,Miller,40,HR-Florida,Pending,'2023-05-20',116509.72,eva.miller@gmail.com,Average,F,+7941515262,"USD 116,509.72",40,HR,Florida
+EMP1969,Eva,Williams,30,Finance-Texas,Active,'2021-05-28',84253.9,eva.williams@gmail.com,Excellent,T,+8409112251,"USD 84,253.90",30,Finance,Texas
+EMP1970,Charlie,Garcia,25,Cloud Tech-Nevada,Active,'2024-08-27',54776.01,charlie.garcia@gmail.com,Poor,F,+8837505660,"USD 54,776.01",25,Cloud Tech,Nevada
+EMP1971,Charlie,Davis,40,Sales-Nevada,Inactive,'2020-11-08',71192.68,charlie.davis@gmail.com,Average,F,+8632397912,"USD 71,192.68",40,Sales,Nevada
+EMP1972,Bob,Smith,Missing,Finance-Florida,Active,'2021-08-24',96346.53,bob.smith@gmail.com,Average,T,+7876553006,"USD 96,346.53",30,Finance,Florida
+EMP1973,Eva,Williams,Missing,HR-Illinois,Pending,'2020-02-06',116680.63,eva.williams@gmail.com,Excellent,T,+3095055604,"USD 116,680.63",30,HR,Illinois
+EMP1974,Grace,Brown,25,Finance-Florida,Inactive,'2024-10-12',76343.56,grace.brown@gmail.com,Excellent,F,+7121988191,"USD 76,343.56",25,Finance,Florida
+EMP1975,Alice,Johnson,30,Sales-Nevada,Inactive,'2024-12-16',99424.14,alice.johnson@gmail.com,Excellent,F,+7788519052,"USD 99,424.14",30,Sales,Nevada
+EMP1976,Charlie,Garcia,35,DevOps-Florida,Inactive,'2024-04-13',57656.74,charlie.garcia@gmail.com,Good,T,+4864010423,"USD 57,656.74",35,DevOps,Florida
+EMP1977,Heidi,Garcia,40,Sales-New York,Pending,'2020-04-24',77396.94,heidi.garcia@gmail.com,Excellent,T,+6245618516,"USD 77,396.94",40,Sales,New York
+EMP1978,Grace,Garcia,Missing,DevOps-California,Inactive,'2021-10-18',54299.68,grace.garcia@gmail.com,Average,F,+4460045211,"USD 54,299.68",30,DevOps,California
+EMP1979,Charlie,Miller,35,HR-Nevada,Pending,'2020-02-25',103563.58,charlie.miller@gmail.com,Excellent,T,+8991511454,"USD 103,563.58",35,HR,Nevada
+EMP1980,Grace,Brown,25,Finance-California,Inactive,'2022-04-23',74588.85,grace.brown@gmail.com,Average,F,+1293913043,"USD 74,588.85",25,Finance,California
+EMP1981,David,Garcia,30,DevOps-California,Pending,'2020-06-22',113727.23,david.garcia@gmail.com,Poor,F,+8818984840,"USD 113,727.23",30,DevOps,California
+EMP1982,Eva,Brown,25,HR-New York,Active,'2023-01-07',72828.18,eva.brown@gmail.com,Good,F,+6046154020,"USD 72,828.18",25,HR,New York
+EMP1983,Grace,Jones,Missing,Sales-Florida,Inactive,'2020-02-11',98717.09,grace.jones@gmail.com,Poor,F,+1901707567,"USD 98,717.09",30,Sales,Florida
+EMP1984,Frank,Garcia,40,Sales-Florida,Inactive,'2023-03-18',56840.8,frank.garcia@gmail.com,Poor,T,+1429831521,"USD 56,840.80",40,Sales,Florida
+EMP1985,David,Johnson,35,Finance-Illinois,Pending,'2021-11-26',61663.91,david.johnson@gmail.com,Average,T,+9107322835,"USD 61,663.91",35,Finance,Illinois
+EMP1986,Grace,Brown,30,Finance-Nevada,Active,'2024-09-17',109523.4,grace.brown@gmail.com,Poor,T,+1849378305,"USD 109,523.40",30,Finance,Nevada
+EMP1987,Eva,Brown,25,HR-Illinois,Inactive,'2024-07-05',65812.02,eva.brown@gmail.com,Average,T,+3963845268,"USD 65,812.02",25,HR,Illinois
+EMP1988,Bob,Johnson,Missing,Cloud Tech-Illinois,Inactive,'2021-07-13',54708.88,bob.johnson@gmail.com,Excellent,T,+6944391648,"USD 54,708.88",30,Cloud Tech,Illinois
+EMP1989,Heidi,Garcia,40,Admin-California,Active,'2023-08-27',107661.73,heidi.garcia@gmail.com,Excellent,T,+7016934291,"USD 107,661.73",40,Admin,California
+EMP1990,Eva,Johnson,40,DevOps-Illinois,Inactive,'2021-02-13',79002.0,eva.johnson@gmail.com,Average,T,+9132033015,"USD 79,002.00",40,DevOps,Illinois
+EMP1991,Heidi,Brown,Missing,Admin-Texas,Pending,'2023-12-11',86135.69,heidi.brown@gmail.com,Excellent,F,+2341903105,"USD 86,135.69",30,Admin,Texas
+EMP1992,Heidi,Johnson,30,DevOps-Nevada,Inactive,'2021-07-02',115601.4,heidi.johnson@gmail.com,Good,T,+1537221555,"USD 115,601.40",30,DevOps,Nevada
+EMP1993,Grace,Brown,Missing,DevOps-Nevada,Active,'2022-12-05',64045.36,grace.brown@gmail.com,Poor,T,+6847323652,"USD 64,045.36",30,DevOps,Nevada
+EMP1994,David,Brown,30,DevOps-Nevada,Inactive,'2024-09-24',80477.21,david.brown@gmail.com,Good,F,+3774604066,"USD 80,477.21",30,DevOps,Nevada
+EMP1995,Bob,Jones,30,Finance-California,Inactive,'2023-08-16',61240.9,bob.jones@gmail.com,Poor,T,+2007843613,"USD 61,240.90",30,Finance,California
+EMP1996,David,Smith,40,Admin-Texas,Active,'2021-01-28',51939.29,david.smith@gmail.com,Excellent,T,+2442607818,"USD 51,939.29",40,Admin,Texas
+EMP1997,Eva,Brown,40,Finance-Illinois,Inactive,'2022-05-14',95284.54,eva.brown@gmail.com,Good,F,+7543734763,"USD 95,284.54",40,Finance,Illinois
+EMP1998,Charlie,Garcia,35,Admin-Texas,Inactive,'2024-06-05',106247.67,charlie.garcia@gmail.com,Excellent,T,+2737203762,"USD 106,247.67",35,Admin,Texas
+EMP1999,Charlie,Williams,25,DevOps-Florida,Active,'2020-04-23',110170.88,charlie.williams@gmail.com,Poor,T,+8821458413,"USD 110,170.88",25,DevOps,Florida
+EMP2000,Charlie,Miller,25,HR-Nevada,Pending,'2024-06-10',52615.44,charlie.miller@gmail.com,Average,T,+8460191343,"USD 52,615.44",25,HR,Nevada
+EMP2001,Eva,Davis,30,DevOps-Illinois,Inactive,'2020-04-18',82547.26,eva.davis@gmail.com,Average,F,+3899827801,"USD 82,547.26",30,DevOps,Illinois
+EMP2002,Bob,Smith,35,Finance-Illinois,Pending,'2020-06-29',63049.22,bob.smith@gmail.com,Good,T,+1586950731,"USD 63,049.22",35,Finance,Illinois
+EMP2003,Frank,Smith,35,HR-California,Pending,'2023-02-15',115229.12,frank.smith@gmail.com,Excellent,T,+1464493698,"USD 115,229.12",35,HR,California
+EMP2004,Grace,Smith,25,DevOps-Illinois,Pending,'2023-06-15',60687.63,grace.smith@gmail.com,Excellent,F,+9516793349,"USD 60,687.63",25,DevOps,Illinois
+EMP2005,Frank,Jones,30,Finance-Illinois,Inactive,'2022-03-19',67492.73,frank.jones@gmail.com,Good,T,+5573857367,"USD 67,492.73",30,Finance,Illinois
+EMP2006,Grace,Brown,Missing,HR-Illinois,Inactive,'2023-10-25',77821.79,grace.brown@gmail.com,Average,F,+1119236036,"USD 77,821.79",30,HR,Illinois
+EMP2007,Charlie,Jones,35,DevOps-Texas,Active,'2022-07-14',69146.95,charlie.jones@gmail.com,Poor,F,+6811872332,"USD 69,146.95",35,DevOps,Texas
+EMP2008,Grace,Brown,35,Admin-Nevada,Inactive,'2022-03-12',90224.82,grace.brown@gmail.com,Good,T,+5104096148,"USD 90,224.82",35,Admin,Nevada
+EMP2009,David,Garcia,Missing,Finance-Illinois,Pending,'2024-06-11',62603.98,david.garcia@gmail.com,Poor,F,+7315391148,"USD 62,603.98",30,Finance,Illinois
+EMP2010,Bob,Jones,35,Sales-Nevada,Active,'2024-06-10',71148.27,bob.jones@gmail.com,Average,F,+8307482072,"USD 71,148.27",35,Sales,Nevada
+EMP2011,David,Jones,40,Admin-California,Inactive,'2022-09-21',52031.74,david.jones@gmail.com,Excellent,T,+6511893939,"USD 52,031.74",40,Admin,California
+EMP2012,Grace,Miller,35,DevOps-Florida,Inactive,'2023-04-15',,grace.miller@gmail.com,Average,F,+6557820189,No Salary,35,DevOps,Florida
+EMP2013,Eva,Williams,Missing,HR-Illinois,Pending,'2020-02-06',116680.63,eva.williams@gmail.com,Good,F,+4322302332,"USD 116,680.63",30,HR,Illinois
+EMP2014,Grace,Jones,30,Finance-Nevada,Pending,'2021-05-16',51990.98,grace.jones@gmail.com,Excellent,T,+2470739200,"USD 51,990.98",30,Finance,Nevada
+EMP2015,David,Miller,30,HR-California,Active,'2023-08-19',,david.miller@gmail.com,Good,T,+3546212759,No Salary,30,HR,California
+EMP2016,David,Johnson,30,Cloud Tech-Texas,Inactive,'2021-11-07',100215.06,david.johnson@gmail.com,Good,T,+2508261122,"USD 100,215.06",30,Cloud Tech,Texas
+EMP2017,Charlie,Williams,40,Finance-New York,Active,'2023-10-04',114587.11,charlie.williams@gmail.com,Average,F,+1261632487,"USD 114,587.11",40,Finance,New York
+EMP2018,Alice,Garcia,30,HR-Florida,Inactive,'2024-12-16',71318.79,alice.garcia@gmail.com,Good,T,+8995729892,"USD 71,318.79",30,HR,Florida
+EMP2019,Heidi,Jones,30,DevOps-Illinois,Pending,'2021-02-22',77764.24,heidi.jones@gmail.com,Average,F,+7629745492,"USD 77,764.24",30,DevOps,Illinois
