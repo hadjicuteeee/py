@@ -1,1 +1,15 @@
-
+Customer Data Analysis Project
+Overview
+This project performs data cleaning, analysis, and visualization on a messy customer dataset.
+The goal is to extract meaningful insights such as:
+    -Top 5 countries by total salary
+    -Top 5 highest earners
+    -Marital status distribution
+    -ourse distribution
+    -Population per location
+    -Birthday distribution by month
+The project demonstrates practical use of Python, Pandas, and Matplotlib for exploratory data analysis (EDA).
+Technologies Used
+    -Python 3
+    -Pandas
+    -Matplotlib
