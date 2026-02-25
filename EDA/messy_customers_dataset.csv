@@ -1,0 +1,1051 @@
+﻿customer_id,name,birthday,location,status,course,salary
+CUST407,Carlos Ramos,2003-08-25,cagayan de oro,Single,,
+CUST771,ANGELA GONZALES,2001-04-30,Quezon City,single,Graduate,58985
+CUST380,Jose Rivera,1988-02-19,Quezon City,divorce,,
+CUST623,Miguel Dela Cruz,1974-09-20,Cebu,married,BSIT,
+CUST276,Jose Santos,1972-10-03,Cagayan de Oro,single,BSIT,
+CUST157,MARIA DELA CRUZ,2002-07-11,pasig,Divorce,BSED,
+CUST932,Miguel Santos,1984-10-04,Pasig,single,BSIT,
+CUST103,Carlos Dela Cruz,1999-07-12,Cebu,divorce,BSN,
+CUST162,Ana Mendoza,1982-03-27,Taguig,married,BSCS,
+CUST932,Maria Ramos,1998-02-07,Iloilo,single,Graduate,63618
+CUST71,Maria Torres,1995-05-11,,Single,AB Psych,53743
+CUST475,Maria Santos,1979-12-08,baguio,divorce,,
+CUST189,Mark Reyes,1971-08-14,cebu,married,AB Psych,
+CUST517,Mark Torres,2003-02-21,Baguio,married,Graduate,101242
+CUST309, Sofia Torres ,1994-12-14,iloilo,single,AB Psych,20410
+CUST263,Liza Reyes,1997-11-07,cebu,single,Graduate,92945
+CUST453, Sofia Garcia ,1988-06-16,Makati,single,,
+CUST31, Maria Ramos ,1994-04-04,Pasig,single,BSIT,22140
+CUST219,Jose Reyes,1997-04-26,Taguig,married,BSBA,15755
+CUST654,LIZA TORRES,1996-11-06,baguio,Divorce,BSBA,
+CUST851,Sofia Reyes,1982-08-07,Taguig,single,Graduate,117546
+CUST160,Juan Flores,1970-07-20,Makati,,BSED,
+CUST272,CARLOS TORRES,1998-03-04,Cagayan de Oro,Married,Graduate,92478
+CUST483,Mark Dela Cruz,1990-05-14,Pasig,married,,
+CUST75,Mark Reyes,1990-12-03,Iloilo,married,BSN,
+CUST947,LIZA FLORES,1986-02-17,Makati,single,BSN,
+CUST432,Ana Reyes,1974-11-03,Cagayan de Oro,married,BSBA,
+CUST286,Juan Santos,1974-10-09,pasig,divorce,BSIT,
+CUST854,Liza Flores,2005-12-20,Cagayan de Oro,married,,
+CUST867,SOFIA GARCIA,1981-08-28,quezon city,Divorce,BSN,
+CUST694, Liza Mendoza ,2002-04-06,quezon city,married,BSN,
+CUST744,Carlos Dela Cruz,1974-06-06,Iloilo,married,BSN,
+CUST611, Sofia Dela Cruz ,1985-11-18,Makati,married,BSIT,
+CUST738,SOFIA RAMOS,1980-02-06,Manila,divorce,AB Psych,53031
+CUST252,Ana Gonzales,1998-06-15,Makati,married,BSBA,49234
+CUST663, Maria Mendoza ,1982-07-08,Cebu,single,BSIT,
+CUST189, JOSE GARCIA ,1998-06-06,iloilo,Married,BSCS,
+CUST842,Ana Reyes,1994-11-03,cagayan de oro,married,AB Psych,46809
+CUST489,JOSE GONZALES,1985-10-24,Davao,Single,Graduate,100863
+CUST167,Sofia Gonzales,1980-04-06,Taguig,,BSED,
+CUST556,Maria Garcia,1996-01-27,Quezon City,single,Graduate,64839
+CUST587, Jose Santos ,1980-08-22,Iloilo,Divorce,,
+CUST708, MARK SANTOS ,1991-01-23,Taguig,married,BSIT,
+CUST711,Carlos Mendoza,1974-04-02,Baguio,single,BSN,42282
+CUST55,CARLOS GARCIA,1997-08-16,quezon city,married,Graduate,35023
+CUST479, Carlos Santos ,1978-06-29,Davao,divorce,BSCS,
+CUST105, Juan Torres ,1997-12-21,iloilo,Single,AB Psych,
+CUST142,Miguel Mendoza,1977-01-09,Cebu,single,BSCS,
+CUST648,Sofia Dela Cruz,1996-11-09,Davao,Single,BSED,
+CUST242,Miguel Ramos,1988-10-06,Manila,divorce,BSCS,
+CUST788, LIZA SANTOS ,1974-07-11,cagayan de oro,Divorce,BSN,
+CUST253,Jose Mendoza,1970-12-12,Cebu,Single,Graduate,30236
+CUST874, ANGELA GONZALES ,1985-04-18,Manila,single,BSN,
+CUST115,JOSE RAMOS,1982-05-03,Iloilo,divorce,BSIT,
+CUST482,Juan Garcia,1975-12-04,Iloilo,married,BSED,
+CUST168,Sofia Rivera,1983-02-21,Cagayan de Oro,divorce,AB Psych,
+CUST489,Sofia Santos,1994-05-02,Makati,divorce,BSED,
+CUST70,Carlos Santos,1981-06-03,Baguio,divorce,BSCS,23229
+CUST531,MARK TORRES,1998-04-13,iloilo,single,BSN,
+CUST32,Jose Santos,1977-08-24,Quezon City,Married,BSBA,
+CUST206,Liza Reyes,1977-01-23,Manila,married,Graduate,83534
+CUST122,Jose Flores,1977-05-28,Cebu,single,Graduate,44521
+CUST624,Mark Mendoza,1992-01-02,davao,Married,BSED,
+CUST271,CARLOS SANTOS,1971-11-02,Davao,married,AB Psych,
+CUST509, MARIA GARCIA ,1983-11-25,Davao,single,AB Psych,
+CUST714,Sofia Garcia,1977-01-22,Cagayan de Oro,divorce,AB Psych,49345
+CUST842,Mark Torres,1988-06-26,Quezon City,married,AB Psych,
+CUST382,Sofia Ramos,1986-12-12,Makati,Married,BSED,32413
+CUST492,Juan Ramos,2005-12-22,Taguig,married,Graduate,57337
+CUST922,Juan Rivera,2004-12-15,Cebu,married,Graduate,40401
+CUST831,Jose Rivera,2000-08-20,Manila,divorce,AB Psych,
+CUST512,Juan Mendoza,2003-04-26,Quezon City,single,,
+CUST231,Carlos Mendoza,2003-10-05,Davao,single,AB Psych,
+CUST504,Liza Ramos,1981-02-06,Quezon City,divorce,BSCS,
+CUST948,Liza Reyes,2001-10-05,Davao,divorce,BSIT,
+CUST83,Angela Gonzales,1988-03-29,Quezon City,single,Graduate,38664
+CUST282, Ana Gonzales ,1994-10-31,Baguio,married,BSIT,
+CUST391,Maria Ramos,1988-12-13,baguio,divorce,BSIT,
+CUST25,Angela Dela Cruz,2004-08-19,Pasig,Single,BSCS,
+CUST259,Sofia Torres,1983-02-05,Baguio,married,BSN,
+CUST582,Juan Torres,2001-06-04,Iloilo,single,,
+CUST61,Miguel Dela Cruz,1984-05-26,Cebu,Married,AB Psych,38804
+CUST432, ANGELA REYES ,1991-06-06,Pasig,married,,
+CUST290,Mark Flores,1987-12-14,Cebu,divorce,BSCS,
+CUST786,Maria Garcia,1980-01-12,Baguio,divorce,BSCS,
+CUST864, MIGUEL RIVERA ,2003-06-01,pasig,divorce,,
+CUST833,MIGUEL RAMOS,1970-02-23,,divorce,BSCS,34496
+CUST614, Ana Reyes ,1978-10-22,Cebu,married,,
+CUST206,Juan Santos,1993-01-22,Quezon City,married,Graduate,73785
+CUST395,Liza Rivera,1991-09-13,Quezon City,single,,
+CUST186,MARK RIVERA,1997-01-02,Quezon City,Married,BSCS,
+CUST707,Miguel Mendoza,1984-08-19,Cebu,,BSN,
+CUST575,JUAN FLORES,1976-12-01,Cebu,married,BSBA,28392
+CUST266,Carlos Santos,1981-06-25,Taguig,married,BSIT,
+CUST825,Sofia Reyes,1995-07-01,Davao,married,BSIT,
+CUST28, Liza Rivera ,1982-05-04,Pasig,single,AB Psych,
+CUST159, Miguel Dela Cruz ,2003-03-17,Davao,married,BSBA,30274
+CUST739,Sofia Rivera,1991-09-13,Manila,divorce,AB Psych,
+CUST222,Miguel Garcia,1979-06-01,Baguio,Divorce,BSIT,
+CUST648,Ana Flores,1999-06-14,Cagayan de Oro,divorce,Graduate,34598
+CUST803,Sofia Torres,1970-02-22,Davao,married,BSN,
+CUST139, Mark Garcia ,1971-08-28,Taguig,married,BSED,24950
+CUST316,Jose Santos,1988-08-22,pasig,single,BSIT,36126
+CUST687, Mark Ramos ,1992-01-10,Taguig,married,BSCS,24460
+CUST227, Mark Torres ,1994-06-30,makati,divorce,BSIT,22698
+CUST542,Jose Dela Cruz,1996-12-03,Pasig,single,Graduate,27182
+CUST769, Liza Reyes ,1985-02-05,Pasig,single,BSCS,44617
+CUST286,ANA SANTOS,1982-05-08,,divorce,BSCS,
+CUST59, Liza Santos ,1983-01-08,Taguig,single,BSBA,45765
+CUST29,Maria Torres,2004-07-14,Makati,single,Graduate,24959
+CUST838,Carlos Dela Cruz,1992-07-26,Taguig,divorce,BSIT,
+CUST467,ANGELA RAMOS,1988-04-08,Cebu,single,,
+CUST484,MIGUEL SANTOS,1990-06-21,Quezon City,single,Graduate,21168
+CUST420,Maria Gonzales,1988-02-03,Cagayan de Oro,divorce,BSCS,45882
+CUST386,ANA RIVERA,2002-09-07,Davao,single,BSED,
+CUST327,Sofia Torres,1992-11-05,Pasig,Divorce,BSCS,
+CUST102,Jose Flores,1972-03-17,Iloilo,divorce,AB Psych,31302
+CUST273,Maria Ramos,1970-10-29,pasig,married,BSCS,
+CUST925,MARK SANTOS,1993-04-20,Cebu,single,AB Psych,32452
+CUST194,Angela Dela Cruz,1978-09-04,Taguig,,BSIT,
+CUST609,Angela Rivera,1982-02-17,,Married,BSCS,
+CUST314,JOSE GONZALES,1971-01-15,baguio,divorce,BSCS,
+CUST525,Jose Garcia,1971-08-30,davao,married,BSN,
+CUST382,Carlos Torres,2001-09-19,Manila,Divorce,BSIT,45024
+CUST173, Liza Reyes ,1980-09-12,Davao,Single,BSCS,
+CUST238, Sofia Garcia ,1971-07-22,Quezon City,Divorce,BSED,40214
+CUST242,Carlos Reyes,1973-02-25,taguig,divorce,AB Psych,
+CUST520,CARLOS FLORES,1997-12-13,Quezon City,,BSED,48296
+CUST139,MARK RAMOS,1996-09-02,Cebu,divorce,Graduate,35140
+CUST123,Angela Rivera,1990-09-12,Manila,divorce,AB Psych,
+CUST137,JOSE FLORES,2004-02-01,Pasig,married,Graduate,76878
+CUST12,CARLOS FLORES,2005-12-23,,single,BSBA,40441
+CUST376,Miguel Torres,1970-09-15,Cagayan de Oro,divorce,BSCS,30202
+CUST416,Miguel Reyes,1990-07-26,Manila,divorce,,
+CUST199,Sofia Flores,1983-02-27,Iloilo,single,BSN,54129
+CUST449,Carlos Dela Cruz,1999-02-14,Makati,Married,BSED,
+CUST47,Liza Flores,1980-04-09,Makati,Married,Graduate,78420
+CUST774,Jose Dela Cruz,1992-01-12,,divorce,BSIT,
+CUST944,Mark Gonzales,1996-09-02,Baguio,single,BSIT,
+CUST891,Maria Rivera,1980-08-12,Makati,Married,Graduate,98715
+CUST731, JOSE RIVERA ,1979-06-05,Makati,Married,BSCS,
+CUST381,Juan Santos,1993-01-12,,married,BSCS,31504
+CUST102,Liza Garcia,1990-01-27,Makati,single,BSCS,
+CUST363,Angela Mendoza,2000-03-11,Quezon City,single,BSED,
+CUST797,Ana Reyes,1996-08-13,Cebu,single,BSCS,
+CUST56,Sofia Rivera,1979-01-22,Makati,single,BSED,
+CUST793,Juan Dela Cruz,1973-08-02,taguig,single,BSED,
+CUST668, Carlos Ramos ,2004-05-12,iloilo,married,AB Psych,46356
+CUST6,SOFIA TORRES,1987-10-16,Cagayan de Oro,Divorce,BSBA,16136
+CUST73,Liza Mendoza,1981-11-01,Pasig,single,,
+CUST323,Maria Garcia,2005-12-24,Quezon City,married,BSBA,31378
+CUST916,Juan Ramos,1973-04-09,manila,Divorce,BSED,
+CUST261,Jose Torres,1988-11-29,Quezon City,married,BSIT,
+CUST894,Angela Mendoza,2002-02-02,pasig,married,BSIT,29400
+CUST613,LIZA SANTOS,1986-01-26,Pasig,,BSCS,
+CUST680, CARLOS GARCIA ,2001-10-01,Cebu,divorce,Graduate,38097
+CUST377,Angela Ramos,1985-10-27,Baguio,divorce,BSED,
+CUST639,SOFIA GARCIA,1979-09-14,Manila,Married,AB Psych,
+CUST603,Liza Rivera,1978-10-03,Cebu,single,BSBA,
+CUST819,Miguel Gonzales,1986-09-04,Cebu,single,BSBA,
+CUST498,Jose Reyes,1982-09-29,Iloilo,divorce,AB Psych,
+CUST521,Juan Torres,2003-06-10,,single,Graduate,109572
+CUST216,Sofia Mendoza,1978-11-30,Cagayan de Oro,,,
+CUST793,MARIA MENDOZA,1994-12-19,,Divorce,BSIT,
+CUST695,MARK DELA CRUZ,2001-11-24,Cebu,divorce,AB Psych,
+CUST70,Ana Reyes,1983-11-07,cebu,divorce,BSN,40063
+CUST467, Miguel Torres ,1977-12-08,Pasig,Divorce,BSIT,
+CUST538,Mark Ramos,1988-08-24,,Single,BSIT,
+CUST615,Mark Dela Cruz,1994-08-27,Pasig,married,AB Psych,58503
+CUST104, Carlos Santos ,1992-05-29,Cagayan de Oro,,AB Psych,
+CUST37,Maria Reyes,1983-01-23,Baguio,married,BSIT,
+CUST193,Jose Rivera,1989-09-19,Cagayan de Oro,married,,
+CUST261,Carlos Garcia,1974-12-27,iloilo,single,BSN,
+CUST18,Juan Torres,1995-04-26,Cebu,divorce,BSN,
+CUST112,Maria Mendoza,1974-02-06,Iloilo,married,AB Psych,
+CUST896,Liza Garcia,2003-02-17,Manila,married,AB Psych,
+CUST923,Mark Reyes,1995-01-29,quezon city,divorce,BSN,20325
+CUST917,Liza Torres,1976-09-14,pasig,single,BSED,
+CUST376,Jose Dela Cruz,1993-03-02,,divorce,,
+CUST712,SOFIA GONZALES,1993-11-17,Quezon City,single,BSED,
+CUST517,Mark Torres,2003-02-21,Baguio,married,Graduate,101242
+CUST351,Jose Reyes,1985-11-24,Manila,married,BSCS,
+CUST339,Mark Torres,2004-03-14,cebu,single,Graduate,56251
+CUST53,JUAN REYES,2000-08-18,Cagayan de Oro,married,,
+CUST96,Ana Dela Cruz,1975-06-14,Taguig,single,AB Psych,
+CUST537,Mark Gonzales,1997-04-09,Taguig,divorce,,
+CUST44, Mark Ramos ,1993-01-29,iloilo,divorce,BSED,
+CUST169,Maria Gonzales,1974-10-24,Manila,Married,BSIT,
+CUST294, JOSE FLORES ,1984-01-26,Quezon City,married,BSBA,
+CUST616, MIGUEL RIVERA ,1992-05-27,Cagayan de Oro,single,BSBA,
+CUST254, Ana Ramos ,1992-07-21,Iloilo,single,BSIT,
+CUST301,ANA MENDOZA,2004-10-09,Manila,married,AB Psych,17710
+CUST638,Maria Garcia,1996-08-02,quezon city,divorce,BSIT,45546
+CUST426, Angela Flores ,2001-10-11,quezon city,divorce,Graduate,72159
+CUST136,Ana Gonzales,1975-02-10,Cebu,single,BSN,
+CUST804,Ana Santos,1989-10-13,Iloilo,married,,
+CUST277,Jose Mendoza,1993-09-02,baguio,single,BSBA,38331
+CUST600,Jose Garcia,1999-04-06,Taguig,Married,BSED,20781
+CUST627, Angela Mendoza ,1974-03-13,,married,BSIT,
+CUST586,Maria Reyes,2000-05-21,Pasig,married,,
+CUST271,Maria Garcia,1990-08-30,,divorce,AB Psych,33118
+CUST695,Miguel Garcia,1999-08-31,cagayan de oro,divorce,BSCS,37882
+CUST521,Juan Garcia,2003-03-04,Pasig,single,BSCS,
+CUST906,Liza Garcia,2004-05-17,Davao,single,BSCS,
+CUST276,Sofia Torres,1988-10-15,Makati,single,BSCS,
+CUST58,Jose Torres,1990-11-30,Cebu,Married,AB Psych,
+CUST770,Jose Rivera,1979-02-21,Baguio,Divorce,,
+CUST544,Maria Torres,2004-04-08,Iloilo,single,BSIT,
+CUST918, Liza Mendoza ,1975-09-07,Taguig,divorce,BSED,
+CUST47, SOFIA RAMOS ,2004-06-02,Quezon City,married,BSCS,46831
+CUST690,JUAN RAMOS,1971-08-02,Davao,divorce,BSCS,22375
+CUST65,JOSE REYES,2000-11-12,davao,divorce,,
+CUST203,Maria Torres,1981-09-01,Taguig,divorce,BSCS,
+CUST83, Maria Torres ,1971-10-18,Cagayan de Oro,single,BSN,55483
+CUST842, Jose Ramos ,1979-04-30,Manila,,AB Psych,45840
+CUST390,ANA MENDOZA,2001-01-18,Baguio,Married,AB Psych,33642
+CUST565,Ana Rivera,1973-09-13,Taguig,single,BSN,
+CUST226,Liza Ramos,1985-10-14,pasig,divorce,Graduate,74679
+CUST542,Sofia Ramos,1982-03-01,Baguio,Married,,
+CUST509,Ana Ramos,1985-01-25,cagayan de oro,married,BSN,
+CUST311,Juan Garcia,1990-01-14,Manila,single,BSN,38710
+CUST649,Sofia Santos,1996-02-20,cagayan de oro,Married,BSCS,53901
+CUST491,Liza Reyes,1979-11-25,Cagayan de Oro,divorce,BSN,
+CUST725,Carlos Garcia,1995-03-12,Cagayan de Oro,divorce,BSN,36302
+CUST944,Mark Gonzales,1996-09-02,Baguio,single,BSIT,
+CUST440,Miguel Dela Cruz,1977-12-19,quezon city,married,BSIT,
+CUST185,Miguel Garcia,1994-12-02,cagayan de oro,Divorce,BSN,
+CUST860,Miguel Mendoza,1974-04-16,Manila,married,BSED,
+CUST104,Angela Dela Cruz,1970-01-30,Cebu,married,BSED,
+CUST754,Carlos Rivera,1988-11-03,,divorce,,
+CUST907,Liza Dela Cruz,1979-04-20,Cagayan de Oro,divorce,Graduate,110601
+CUST716, Juan Ramos ,1985-09-24,,Married,AB Psych,
+CUST178,ANGELA GARCIA,1986-04-19,Manila,Divorce,AB Psych,
+CUST3,MIGUEL DELA CRUZ,1972-03-21,cagayan de oro,Divorce,AB Psych,58827
+CUST838,Carlos Dela Cruz,1992-07-26,Taguig,divorce,BSIT,
+CUST348,Ana Torres,1984-12-17,Quezon City,Divorce,BSED,16671
+CUST29,Mark Reyes,1986-08-03,Pasig,single,AB Psych,
+CUST41,Liza Torres,1971-02-14,Pasig,married,BSIT,
+CUST861,Maria Santos,1995-10-15,pasig,divorce,Graduate,97830
+CUST434,Mark Mendoza,2004-03-10,Cebu,Divorce,,
+CUST134,Ana Torres,1995-08-22,baguio,Married,BSIT,40453
+CUST134, Carlos Ramos ,1988-03-28,Iloilo,Divorce,BSCS,
+CUST556,Liza Gonzales,1993-10-29,Iloilo,single,BSCS,
+CUST456,Miguel Mendoza,1973-06-17,Cagayan de Oro,single,,
+CUST53,Sofia Flores,2000-12-26,Makati,Married,BSCS,
+CUST367,Juan Santos,1970-07-12,quezon city,Divorce,BSIT,45051
+CUST260,Liza Garcia,1973-12-19,Iloilo,,Graduate,95269
+CUST76, Liza Santos ,1985-04-27,baguio,divorce,Graduate,68737
+CUST13,Juan Ramos,1995-01-30,Cagayan de Oro,divorce,BSIT,
+CUST918,Miguel Santos,1993-01-25,,Married,BSIT,
+CUST296,Ana Ramos,1978-10-09,Taguig,Divorce,BSIT,
+CUST177, Maria Santos ,1988-12-29,Iloilo,married,Graduate,42347
+CUST756,Mark Flores,2000-09-20,Taguig,divorce,,
+CUST580,Juan Dela Cruz,1992-03-29,Cebu,single,AB Psych,
+CUST913,JUAN REYES,1980-06-28,Cagayan de Oro,Married,BSCS,
+CUST811,LIZA REYES,1999-06-14,cebu,married,BSCS,
+CUST187,Juan Santos,1975-03-01,Davao,divorce,BSCS,
+CUST422,Carlos Santos,1979-11-28,baguio,married,Graduate,109245
+CUST260,Liza Garcia,1973-12-19,Iloilo,,Graduate,95269
+CUST592,Juan Gonzales,1989-02-24,Cebu,single,,
+CUST884,MIGUEL SANTOS,1972-12-23,,married,BSBA,58323
+CUST903,Angela Flores,1996-02-17,Pasig,divorce,BSIT,
+CUST463,Jose Gonzales,1986-11-18,Taguig,married,Graduate,84556
+CUST801,Miguel Dela Cruz,1973-07-02,Taguig,married,BSIT,
+CUST102,Carlos Dela Cruz,1989-03-20,Pasig,divorce,AB Psych,15300
+CUST890, Liza Flores ,1987-08-18,Iloilo,Married,BSN,
+CUST145,Miguel Dela Cruz,1989-02-07,Cebu,divorce,BSN,52033
+CUST942, Carlos Dela Cruz ,1983-12-26,Taguig,single,BSIT,
+CUST839,ANGELA FLORES,1983-07-25,Manila,married,Graduate,22518
+CUST297,SOFIA REYES,1986-09-14,Iloilo,single,,
+CUST404, Carlos Ramos ,2003-02-18,manila,Divorce,BSCS,19810
+CUST55, Mark Reyes ,1977-08-05,Iloilo,married,BSIT,
+CUST520,CARLOS FLORES,1997-12-13,Quezon City,,BSED,48296
+CUST949,Liza Santos,1992-12-18,Baguio,single,,
+CUST333,Jose Santos,1995-04-22,Manila,married,BSN,
+CUST446, Juan Gonzales ,1974-02-24,Quezon City,divorce,BSN,
+CUST123,Sofia Dela Cruz,1970-01-07,iloilo,single,BSIT,
+CUST437,JOSE DELA CRUZ,1995-01-30,Quezon City,married,BSN,32134
+CUST8,Maria Dela Cruz,1976-07-17,Davao,divorce,BSBA,
+CUST702,CARLOS RAMOS,1976-01-02,manila,Single,,
+CUST402, Ana Mendoza ,1977-04-06,Makati,divorce,,
+CUST472, Sofia Torres ,2002-10-19,Baguio,married,BSED,
+CUST677,Sofia Reyes,1973-08-16,Iloilo,divorce,BSIT,
+CUST70, LIZA REYES ,1972-08-30,Manila,divorce,BSN,45624
+CUST16,Angela Garcia,1997-12-06,Iloilo,single,BSBA,19320
+CUST804,Jose Gonzales,1986-10-05,Quezon City,Single,Graduate,103701
+CUST699,Angela Garcia,2004-06-02,Makati,Single,Graduate,62098
+CUST290,Sofia Garcia,1971-08-29,cagayan de oro,married,BSCS,
+CUST734,ANA GONZALES,1995-05-19,Davao,Single,BSBA,35343
+CUST285,LIZA RIVERA,1990-02-10,Iloilo,married,BSN,
+CUST450,LIZA REYES,1986-09-23,Manila,married,BSN,
+CUST244, Carlos Flores ,1999-06-09,Baguio,single,,
+CUST517,MARIA FLORES,1979-12-11,Baguio,single,BSBA,19204
+CUST895,Sofia Gonzales,1995-07-22,Makati,married,BSIT,
+CUST371,JUAN DELA CRUZ,1977-11-19,Cebu,divorce,BSCS,28118
+CUST165,Sofia Ramos,1979-05-29,Makati,married,BSN,33179
+CUST942, Jose Santos ,1984-05-23,cebu,married,AB Psych,
+CUST513,Miguel Garcia,1988-02-14,manila,,BSN,
+CUST376,Maria Santos,1970-11-11,quezon city,divorce,BSBA,31558
+CUST335, Juan Mendoza ,2003-02-14,Taguig,Married,BSN,27135
+CUST593,Mark Dela Cruz,1987-09-01,Davao,single,,
+CUST915,Ana Reyes,1982-01-04,Iloilo,married,Graduate,45824
+CUST500,SOFIA GARCIA,1985-10-23,Taguig,single,BSIT,
+CUST115,Miguel Ramos,1981-10-09,Davao,divorce,BSED,
+CUST249,Mark Gonzales,1997-09-25,Cebu,single,,
+CUST803, Ana Ramos ,1987-10-28,Manila,divorce,BSBA,
+CUST779,Jose Reyes,1998-11-18,Cagayan de Oro,single,BSCS,
+CUST144,MIGUEL TORRES,1987-01-20,Baguio,married,BSED,17245
+CUST871,Maria Garcia,2000-11-20,Davao,divorce,Graduate,74335
+CUST673, Mark Ramos ,1997-05-07,Baguio,single,,
+CUST486,Maria Ramos,1972-07-13,cagayan de oro,married,BSBA,37009
+CUST603, Miguel Dela Cruz ,1991-08-07,Baguio,Married,,
+CUST406,Angela Mendoza,1997-11-14,Iloilo,married,BSCS,43798
+CUST626,Sofia Dela Cruz,1994-10-24,Baguio,Married,BSN,38775
+CUST807, Sofia Santos ,1989-03-01,cagayan de oro,Married,BSIT,
+CUST213,Ana Santos,1985-05-30,Baguio,Married,BSCS,
+CUST395,Mark Santos,1995-01-28,Davao,married,BSIT,23546
+CUST402,Angela Rivera,1995-09-10,Davao,married,BSN,
+CUST867,Sofia Rivera,1987-03-22,Taguig,Divorce,Graduate,97413
+CUST720,Juan Flores,1981-11-03,quezon city,single,BSBA,
+CUST872,Juan Garcia,1973-04-01,Pasig,single,,
+CUST244,Angela Garcia,1975-07-20,Cebu,divorce,BSN,
+CUST911, Jose Ramos ,1976-03-22,,married,BSIT,52321
+CUST673,Jose Torres,1990-05-16,cagayan de oro,married,,
+CUST528,Ana Rivera,1990-04-10,Baguio,divorce,BSN,
+CUST726,Sofia Garcia,1976-07-10,Baguio,single,BSBA,
+CUST375, Miguel Ramos ,1990-11-03,Cebu,Divorce,,
+CUST279,Maria Rivera,1971-12-27,Baguio,Divorce,BSIT,51087
+CUST144,Jose Rivera,1974-12-22,Cebu,married,AB Psych,59557
+CUST85,Sofia Gonzales,1994-02-13,Taguig,divorce,BSCS,
+CUST169,Jose Garcia,1989-03-24,Cebu,Divorce,BSIT,15637
+CUST310,ANA TORRES,1984-12-14,Baguio,single,AB Psych,
+CUST227,Miguel Garcia,1994-11-02,pasig,married,,
+CUST495,JOSE SANTOS,1993-01-08,manila,married,Graduate,50977
+CUST723,MARK SANTOS,1991-08-19,pasig,divorce,,
+CUST299, ANGELA RAMOS ,1979-06-06,Taguig,single,BSCS,
+CUST610,Carlos Rivera,1998-05-22,Makati,Married,AB Psych,
+CUST34,LIZA RAMOS,1979-10-11,Pasig,Single,BSN,
+CUST650,Carlos Santos,1979-03-10,Cebu,married,BSBA,
+CUST241,Mark Gonzales,2001-08-18,manila,Married,AB Psych,
+CUST70, Liza Torres ,1989-10-21,Makati,divorce,BSCS,
+CUST359,Carlos Ramos,1996-04-09,Quezon City,Married,BSN,
+CUST546,Miguel Rivera,1992-05-06,Cagayan de Oro,single,BSCS,51281
+CUST353, Miguel Garcia ,1998-08-23,,,BSN,
+CUST429,Liza Garcia,1998-08-01,baguio,divorce,BSBA,
+CUST193, Juan Torres ,2001-01-19,Manila,divorce,BSBA,
+CUST601,Angela Gonzales,1974-02-04,Pasig,single,BSCS,17199
+CUST115,Ana Ramos,1974-09-26,,Single,Graduate,62583
+CUST135,Maria Mendoza,1981-06-03,Cagayan de Oro,married,,
+CUST150,Juan Torres,1996-06-18,taguig,married,BSED,55373
+CUST28,Liza Dela Cruz,1993-04-20,Makati,married,BSIT,
+CUST626, Mark Dela Cruz ,1999-06-28,Quezon City,divorce,BSED,36355
+CUST681,Maria Dela Cruz,1992-09-26,,divorce,AB Psych,
+CUST868,SOFIA TORRES,1982-07-08,Iloilo,married,BSCS,35973
+CUST521,Miguel Garcia,1974-06-10,Baguio,married,AB Psych,
+CUST283,Miguel Santos,1974-09-12,Manila,single,BSIT,
+CUST928,Ana Reyes,1991-09-07,Baguio,single,BSIT,53985
+CUST945,Mark Garcia,1994-05-14,Pasig,divorce,BSN,
+CUST552,Liza Dela Cruz,2000-10-06,manila,divorce,BSN,
+CUST106,Carlos Ramos,2004-09-14,Baguio,married,,
+CUST691,Liza Rivera,1980-01-29,Cagayan de Oro,divorce,BSCS,
+CUST719, Angela Ramos ,2005-11-29,Quezon City,married,BSN,
+CUST27,Juan Garcia,1978-04-25,Makati,divorce,BSBA,40529
+CUST363,Angela Torres,1976-03-06,Pasig,married,BSED,
+CUST819,CARLOS FLORES,1992-05-12,Manila,single,BSIT,
+CUST362,Maria Santos,1999-05-01,makati,married,BSBA,42547
+CUST230, Liza Flores ,1984-10-30,Baguio,Divorce,BSN,
+CUST156,Carlos Santos,1994-08-26,Davao,Married,BSCS,44897
+CUST392,Sofia Reyes,1983-07-03,Baguio,Divorce,AB Psych,
+CUST752,Miguel Reyes,1988-11-15,Davao,divorce,BSIT,
+CUST240,Carlos Reyes,1989-04-12,Iloilo,single,Graduate,40151
+CUST513,Carlos Dela Cruz,1986-05-25,Manila,married,BSED,
+CUST519,Juan Torres,1980-01-31,Taguig,married,BSN,
+CUST135,Liza Gonzales,1990-03-20,cebu,divorce,,
+CUST440,ANGELA SANTOS,1986-02-04,Pasig,married,AB Psych,15656
+CUST114, LIZA GARCIA ,1995-02-24,quezon city,divorce,BSN,32201
+CUST91,MIGUEL DELA CRUZ,1983-07-30,,single,Graduate,94349
+CUST747,Miguel Gonzales,1984-03-04,,Married,BSIT,51915
+CUST716,Jose Reyes,1981-03-23,Taguig,divorce,BSED,
+CUST715,Juan Torres,1980-04-17,makati,,AB Psych,
+CUST434,Carlos Gonzales,1999-02-15,,married,Graduate,63485
+CUST862,Jose Mendoza,1981-03-13,Cagayan de Oro,married,BSBA,47742
+CUST468,Ana Garcia,1983-06-06,Manila,divorce,BSIT,
+CUST306,Ana Garcia,2005-08-22,makati,married,BSED,
+CUST604, Sofia Dela Cruz ,2003-08-07,Baguio,,Graduate,70997
+CUST642,Liza Garcia,1971-02-16,Taguig,single,BSIT,40554
+CUST271, Ana Reyes ,1998-09-10,Quezon City,single,BSIT,
+CUST635,JUAN TORRES,1993-03-26,Manila,married,Graduate,43975
+CUST547, Juan Rivera ,1990-05-05,Cebu,single,Graduate,67787
+CUST54,Mark Torres,2005-11-26,manila,Divorce,BSN,
+CUST56,Maria Mendoza,1992-01-10,cagayan de oro,Married,AB Psych,30034
+CUST412,Juan Ramos,1986-10-18,Iloilo,married,BSIT,54174
+CUST594,Juan Reyes,1989-11-07,,single,AB Psych,
+CUST846,Angela Mendoza,1991-11-05,Baguio,single,BSED,
+CUST80,SOFIA REYES,2002-11-02,Pasig,Single,BSED,
+CUST559,Liza Flores,1994-08-22,Quezon City,Married,BSBA,30634
+CUST599, Mark Rivera ,2003-10-23,makati,single,,
+CUST459,Juan Gonzales,1994-12-15,baguio,single,BSBA,
+CUST68,MARIA MENDOZA,1971-11-12,davao,single,AB Psych,
+CUST941, Ana Garcia ,1982-09-02,Davao,married,Graduate,73716
+CUST802,LIZA SANTOS,2005-07-02,Cebu,single,Graduate,24952
+CUST321,Ana Reyes,1982-10-22,Davao,single,BSIT,
+CUST201,LIZA REYES,1971-12-08,Taguig,Married,Graduate,84648
+CUST154,Angela Torres,2003-09-18,Iloilo,divorce,BSCS,
+CUST278,Mark Rivera,1979-03-30,Makati,single,BSBA,
+CUST379, Mark Flores ,2000-06-29,Cagayan de Oro,married,,
+CUST435,Miguel Torres,1994-11-07,Quezon City,divorce,Graduate,45118
+CUST6,Liza Reyes,1996-12-03,,,BSBA,
+CUST32,Liza Garcia,2004-03-31,,Divorce,AB Psych,
+CUST435,LIZA RAMOS,1981-06-10,Iloilo,divorce,BSN,17865
+CUST256, Liza Mendoza ,1974-05-17,Quezon City,single,BSN,
+CUST546,MIGUEL SANTOS,1978-08-19,,single,AB Psych,
+CUST738,Jose Santos,1986-07-11,makati,Single,AB Psych,37246
+CUST603,ANGELA SANTOS,1994-08-04,manila,married,BSED,
+CUST814, Ana Garcia ,1983-01-10,baguio,married,AB Psych,
+CUST512,LIZA GONZALES,1997-10-12,makati,Married,BSBA,
+CUST774,Mark Gonzales,1986-03-07,Iloilo,married,BSBA,
+CUST371,Mark Garcia,2005-11-07,Taguig,Married,BSBA,
+CUST376,Angela Dela Cruz,2002-06-08,Cagayan de Oro,single,,
+CUST725,LIZA RIVERA,1970-07-23,Pasig,married,BSCS,
+CUST390,Miguel Reyes,1981-11-29,Manila,married,BSBA,
+CUST549,MARK GARCIA,2003-02-06,Davao,married,BSBA,
+CUST606,Ana Torres,1980-07-25,Pasig,divorce,AB Psych,28961
+CUST316, Ana Torres ,1974-07-25,cebu,divorce,BSN,50307
+CUST641,ANA TORRES,1974-11-01,manila,married,AB Psych,
+CUST874,Sofia Santos,1971-08-09,Quezon City,Married,BSCS,51253
+CUST182,ANGELA FLORES,1991-06-01,Quezon City,Married,BSCS,
+CUST327,SOFIA FLORES,1987-07-22,,single,Graduate,74634
+CUST71,Jose Rivera,1975-08-18,Taguig,single,BSCS,
+CUST521,Angela Rivera,1991-01-08,Quezon City,married,AB Psych,
+CUST634,Sofia Reyes,1980-11-21,Baguio,single,BSN,
+CUST154,Jose Garcia,1994-05-25,cagayan de oro,single,BSIT,55806
+CUST256,Ana Santos,2004-07-02,Cagayan de Oro,divorce,BSN,21220
+CUST744, Ana Torres ,1985-12-20,Quezon City,divorce,BSN,24971
+CUST903,Mark Garcia,1972-05-03,Manila,single,BSED,38182
+CUST514,Sofia Gonzales,2004-02-13,Makati,single,Graduate,49873
+CUST133,Juan Ramos,1980-05-17,Cagayan de Oro,Married,,
+CUST559,Liza Flores,1994-08-22,Quezon City,Married,BSBA,30634
+CUST786,Maria Flores,1983-11-21,Cebu,divorce,BSIT,57896
+CUST143,Angela Rivera,2002-05-02,baguio,divorce,Graduate,119733
+CUST380,Carlos Gonzales,1991-01-09,Cagayan de Oro,married,BSCS,29513
+CUST59,Maria Ramos,1996-03-26,Cagayan de Oro,divorce,BSED,
+CUST591,Angela Reyes,1991-09-29,Cebu,,,
+CUST701,Liza Dela Cruz,1997-10-22,Makati,divorce,,
+CUST175,SOFIA MENDOZA,1981-09-29,Iloilo,single,BSIT,
+CUST281,Jose Gonzales,1976-01-09,Davao,,BSCS,19401
+CUST938,MIGUEL GARCIA,1994-06-18,baguio,married,BSN,
+CUST693,JUAN FLORES,2005-10-06,davao,Single,AB Psych,
+CUST707,MIGUEL RAMOS,2002-12-05,Iloilo,Married,BSCS,
+CUST578,Jose Mendoza,1982-02-13,Makati,single,BSN,
+CUST169,Jose Gonzales,1974-12-25,Iloilo,married,BSIT,
+CUST834,MARIA GARCIA,1979-03-29,baguio,divorce,BSED,
+CUST232,Jose Dela Cruz,1989-07-14,Baguio,Single,AB Psych,
+CUST814,Sofia Santos,1986-05-07,Davao,single,AB Psych,52335
+CUST698,Angela Rivera,1977-11-27,Quezon City,divorce,BSED,15481
+CUST369, Jose Garcia ,1996-02-19,Taguig,single,BSCS,
+CUST259,Maria Garcia,1992-05-30,,married,BSIT,
+CUST276,Jose Santos,1972-10-03,Cagayan de Oro,single,BSIT,
+CUST380,Juan Mendoza,2000-02-25,cagayan de oro,divorce,,
+CUST356, MARIA DELA CRUZ ,1976-08-23,iloilo,married,,
+CUST529,Angela Rivera,1980-09-02,Cagayan de Oro,divorce,BSIT,49609
+CUST449,Carlos Dela Cruz,1999-02-14,Makati,Married,BSED,
+CUST841,Maria Dela Cruz,1983-07-10,Cebu,single,BSN,54285
+CUST425,Maria Torres,1974-07-30,Quezon City,divorce,BSED,
+CUST314, Liza Flores ,1998-04-07,cagayan de oro,single,BSN,
+CUST835,Carlos Garcia,1999-01-21,Cebu,divorce,BSED,55416
+CUST261,Carlos Garcia,1974-12-27,iloilo,single,BSN,
+CUST385,Juan Gonzales,1976-03-24,Pasig,Married,BSCS,
+CUST754,Maria Flores,2001-08-08,Quezon City,single,,
+CUST661,Liza Gonzales,2002-08-28,iloilo,,AB Psych,
+CUST875, Carlos Torres ,1978-08-05,,married,BSN,
+CUST905, Mark Torres ,1980-05-08,cagayan de oro,Married,AB Psych,
+CUST481,Liza Reyes,1986-09-14,cagayan de oro,married,BSCS,
+CUST841,Miguel Gonzales,1992-02-05,Baguio,divorce,Graduate,61162
+CUST467,Jose Rivera,1977-03-04,Davao,Single,AB Psych,
+CUST900,Maria Mendoza,1996-07-12,Pasig,Married,Graduate,119510
+CUST245,Miguel Flores,1978-11-12,makati,married,Graduate,74523
+CUST878,Miguel Torres,1983-09-05,Cagayan de Oro,single,Graduate,112568
+CUST451,Juan Dela Cruz,1974-11-15,Cagayan de Oro,married,BSN,
+CUST183,Mark Mendoza,1992-07-21,Taguig,married,Graduate,21344
+CUST226,Maria Ramos,1978-06-01,,single,BSN,54712
+CUST369, Mark Gonzales ,1983-01-20,Baguio,divorce,AB Psych,
+CUST128,Carlos Rivera,1994-01-30,Cebu,divorce,BSCS,
+CUST75,Jose Flores,1975-08-06,Makati,married,BSED,
+CUST513,Sofia Dela Cruz,1972-02-19,Davao,Married,BSCS,34208
+CUST848,Mark Gonzales,1976-01-23,Manila,divorce,BSCS,45711
+CUST711,Maria Flores,2002-11-14,pasig,divorce,BSBA,
+CUST929,Miguel Torres,1979-09-24,Baguio,married,BSN,15044
+CUST548,Carlos Ramos,1989-03-01,Taguig,single,BSBA,
+CUST281,ANA MENDOZA,1975-11-13,Quezon City,married,Graduate,104100
+CUST789, SOFIA DELA CRUZ ,2000-09-12,Makati,single,,
+CUST353,Maria Mendoza,1989-06-02,Taguig,married,BSCS,
+CUST16,JUAN SANTOS,2005-04-10,Manila,divorce,Graduate,116527
+CUST540,Maria Garcia,1981-10-08,Iloilo,divorce,AB Psych,
+CUST34,MARK TORRES,1989-02-19,Baguio,divorce,AB Psych,
+CUST723,Ana Garcia,1988-10-29,Cebu,married,BSED,
+CUST439,Mark Flores,1980-01-07,,,Graduate,87878
+CUST777,Angela Flores,1994-09-23,baguio,single,,
+CUST383,LIZA TORRES,1977-07-25,Pasig,Single,,
+CUST712,LIZA MENDOZA,2002-11-07,,single,,
+CUST728,Mark Garcia,1978-04-14,Cebu,divorce,BSCS,
+CUST47,JUAN GARCIA,2002-03-25,Cagayan de Oro,married,AB Psych,
+CUST623,Maria Garcia,1985-05-20,cagayan de oro,divorce,Graduate,39856
+CUST198,Miguel Torres,1998-03-02,Makati,,Graduate,42661
+CUST608,Maria Reyes,1990-10-03,Quezon City,single,AB Psych,27922
+CUST644,Sofia Dela Cruz,2005-08-19,cebu,divorce,BSED,24144
+CUST293,Maria Reyes,1988-11-22,Baguio,Married,BSBA,22713
+CUST629, Carlos Rivera ,1992-11-09,Taguig,single,,
+CUST62,JUAN RAMOS,1971-11-25,Baguio,Divorce,BSBA,
+CUST690,JUAN RAMOS,1971-08-02,Davao,divorce,BSCS,22375
+CUST59,Liza Rivera,1986-09-22,manila,single,BSCS,
+CUST180,Liza Torres,1994-08-05,Pasig,married,BSCS,42957
+CUST273,Maria Ramos,1970-10-29,pasig,married,BSCS,
+CUST827,Miguel Garcia,1988-09-20,Quezon City,single,BSBA,23158
+CUST302,Ana Garcia,1977-01-20,quezon city,married,AB Psych,
+CUST10,Liza Dela Cruz,1977-10-12,Makati,,BSBA,
+CUST443,Angela Ramos,1983-08-13,Taguig,Married,BSN,
+CUST210, Miguel Gonzales ,1975-01-29,Davao,divorce,BSED,
+CUST508, Juan Dela Cruz ,2004-01-05,,divorce,BSIT,
+CUST346, Mark Gonzales ,2002-09-07,taguig,Single,Graduate,72566
+CUST209,ANGELA DELA CRUZ,1982-05-11,Pasig,divorce,Graduate,22861
+CUST944,SOFIA TORRES,1991-09-16,Manila,married,BSN,
+CUST192,Liza Ramos,1986-01-14,makati,married,BSCS,56677
+CUST529,Mark Gonzales,1970-12-07,Davao,single,AB Psych,
+CUST47,Angela Santos,1971-11-03,Makati,single,BSIT,
+CUST24,Maria Reyes,1971-07-12,taguig,divorce,BSED,47894
+CUST432,Sofia Torres,1989-10-08,makati,single,AB Psych,
+CUST309,MARK DELA CRUZ,1980-12-26,Manila,divorce,,
+CUST936,SOFIA RAMOS,1988-12-06,cebu,Divorce,BSBA,
+CUST519,Maria Rivera,2002-06-24,,married,,
+CUST192,SOFIA DELA CRUZ,1981-07-27,Iloilo,single,BSN,
+CUST671,Miguel Mendoza,1993-06-07,davao,divorce,BSIT,
+CUST645,Ana Ramos,2001-06-13,cebu,Single,BSCS,32690
+CUST629,Mark Ramos,1981-12-20,Iloilo,married,BSN,28814
+CUST943,MIGUEL GARCIA,2004-08-09,cagayan de oro,single,BSN,
+CUST104,Mark Garcia,1972-07-25,Davao,married,Graduate,52338
+CUST530, Juan Torres ,2000-05-28,Taguig,Divorce,BSBA,55443
+CUST833,Miguel Flores,1998-04-13,Davao,divorce,AB Psych,
+CUST16,JUAN SANTOS,2005-04-10,Manila,divorce,Graduate,116527
+CUST589,Carlos Reyes,1980-04-13,Pasig,married,BSCS,
+CUST66, Carlos Dela Cruz ,1974-01-30,Makati,divorce,BSBA,40229
+CUST607,Carlos Flores,2005-07-03,Davao,single,AB Psych,24964
+CUST112,MARIA TORRES,1984-08-28,Taguig,single,BSBA,
+CUST173,Liza Santos,2002-05-01,Makati,divorce,BSN,
+CUST265,Liza Dela Cruz,1983-07-15,,Single,BSBA,27777
+CUST44,Sofia Gonzales,2002-10-19,Manila,Single,,
+CUST188, Angela Santos ,1996-05-14,Iloilo,divorce,BSCS,
+CUST558,SOFIA TORRES,1994-09-28,,single,BSCS,19431
+CUST610,Carlos Rivera,1998-05-22,Makati,Married,AB Psych,
+CUST712,Sofia Ramos,1986-01-28,Makati,single,,
+CUST291,MARIA DELA CRUZ,1990-06-20,Taguig,married,BSBA,
+CUST198,Miguel Mendoza,1971-01-25,Makati,single,BSED,
+CUST822,MARIA FLORES,1976-03-10,Makati,Married,Graduate,48398
+CUST443,Liza Ramos,1982-04-20,Iloilo,single,BSN,
+CUST763,Ana Dela Cruz,1981-09-11,Makati,single,AB Psych,
+CUST547,Liza Flores,1998-07-28,Pasig,,BSED,27104
+CUST486,Angela Mendoza,1970-01-02,Makati,divorce,BSBA,57544
+CUST269, Mark Torres ,1997-12-20,Taguig,divorce,Graduate,53715
+CUST759, Mark Garcia ,1999-09-08,Makati,Divorce,BSN,
+CUST501,Mark Torres,1971-10-11,Baguio,married,BSIT,23766
+CUST925,Maria Flores,1983-11-17,Cagayan de Oro,married,,
+CUST441,Maria Gonzales,1975-07-20,Makati,Divorce,AB Psych,
+CUST787,Mark Dela Cruz,1975-06-30,Cebu,single,BSED,
+CUST258,Maria Santos,2005-11-29,Manila,married,AB Psych,49550
+CUST825,Mark Flores,1979-12-07,Taguig,Divorce,BSIT,
+CUST199,Mark Mendoza,1987-09-14,Taguig,divorce,Graduate,79534
+CUST559,Sofia Reyes,1999-03-03,,single,Graduate,24476
+CUST804,Angela Rivera,1977-09-11,Iloilo,Single,BSN,39364
+CUST434,Sofia Santos,1979-06-18,Baguio,divorce,BSIT,
+CUST497,Juan Ramos,1994-07-27,Davao,Married,BSBA,
+CUST530, Carlos Torres ,1981-04-08,Davao,Married,BSED,18198
+CUST643,Maria Ramos,2001-04-27,Baguio,single,BSN,
+CUST299,Ana Dela Cruz,1988-09-26,Manila,divorce,BSED,
+CUST485,Jose Torres,2004-10-29,Taguig,single,,
+CUST492,Juan Ramos,2005-12-22,Taguig,married,Graduate,57337
+CUST532,Carlos Garcia,1981-12-25,Davao,married,BSED,
+CUST669,Sofia Mendoza,1994-03-03,Quezon City,single,BSIT,
+CUST414,ANA GARCIA,1984-12-21,Davao,married,Graduate,66294
+CUST237, Liza Flores ,1976-11-27,Quezon City,single,BSED,
+CUST78,MIGUEL GARCIA,1999-02-03,Taguig,single,BSCS,
+CUST716,Mark Santos,1978-11-12,,divorce,BSCS,
+CUST707,Jose Santos,1999-04-14,Quezon City,single,BSCS,
+CUST102, Miguel Mendoza ,2000-04-08,Cagayan de Oro,single,BSIT,
+CUST265,Sofia Flores,1990-07-14,Pasig,divorce,Graduate,73114
+CUST531,CARLOS MENDOZA,1970-08-12,Pasig,divorce,,
+CUST893,Miguel Ramos,2003-02-02,Manila,married,AB Psych,
+CUST663,Ana Garcia,2003-03-20,Iloilo,divorce,Graduate,70186
+CUST12,MARIA REYES,1975-05-07,Iloilo,Single,BSBA,
+CUST844,Angela Ramos,1974-10-07,cagayan de oro,divorce,AB Psych,34163
+CUST837,Juan Ramos,1995-12-31,taguig,divorce,BSCS,
+CUST923,Miguel Gonzales,1972-12-19,Quezon City,,,
+CUST223,Mark Gonzales,1987-03-24,iloilo,married,BSIT,
+CUST68,Miguel Garcia,2003-10-02,davao,married,,
+CUST851,Maria Ramos,1977-12-30,makati,divorce,BSIT,
+CUST340, LIZA RIVERA ,1993-08-08,Manila,married,Graduate,36177
+CUST202, Angela Flores ,1984-05-10,Iloilo,Single,BSBA,49564
+CUST624,Mark Mendoza,1992-01-02,davao,Married,BSED,
+CUST358, Liza Flores ,2003-01-08,,married,BSIT,
+CUST838, Sofia Ramos ,1992-03-25,Davao,single,Graduate,73135
+CUST760, Sofia Gonzales ,1980-07-25,Baguio,single,BSN,48182
+CUST326, Ana Dela Cruz ,1994-05-23,Taguig,married,,
+CUST592,Juan Gonzales,1989-02-24,Cebu,single,,
+CUST338,Mark Rivera,1993-09-27,iloilo,divorce,BSIT,
+CUST638,Carlos Mendoza,1997-11-04,,Divorce,Graduate,56360
+CUST656,Carlos Garcia,1995-02-06,Iloilo,single,BSN,57669
+CUST820,Angela Flores,2000-09-23,Iloilo,married,AB Psych,
+CUST624,Ana Mendoza,1999-04-04,Davao,divorce,BSED,
+CUST82,Jose Flores,1976-01-02,Manila,Divorce,BSBA,27521
+CUST268,Liza Gonzales,1971-01-27,manila,divorce,Graduate,68287
+CUST388, Angela Torres ,1992-02-26,cagayan de oro,married,BSN,
+CUST672,CARLOS TORRES,2002-06-23,Davao,divorce,BSCS,49501
+CUST178,ANGELA GARCIA,1986-04-19,Manila,Divorce,AB Psych,
+CUST390,LIZA RIVERA,2005-01-08,Cagayan de Oro,divorce,BSBA,
+CUST769,Liza Gonzales,2004-09-09,Cebu,married,BSIT,
+CUST599,Miguel Garcia,1986-08-13,Taguig,married,BSBA,
+CUST32,Miguel Santos,2004-01-02,Taguig,Married,BSCS,20871
+CUST739,Mark Dela Cruz,1982-11-05,Iloilo,divorce,Graduate,47114
+CUST95,Maria Flores,1993-05-22,Cagayan de Oro,married,BSN,23285
+CUST105,Jose Ramos,1992-10-10,,married,AB Psych,37011
+CUST627, Carlos Flores ,1992-03-28,,Married,BSN,19224
+CUST109,Sofia Santos,1996-06-08,Cagayan de Oro,divorce,BSN,51463
+CUST890, Liza Flores ,1987-08-18,Iloilo,Married,BSN,
+CUST759, JOSE TORRES ,1987-08-24,Iloilo,Single,BSN,
+CUST465,SOFIA FLORES,1996-09-09,Cagayan de Oro,,BSED,
+CUST190,Carlos Torres,1985-11-21,cagayan de oro,Single,AB Psych,
+CUST455, Miguel Garcia ,1986-08-28,Cagayan de Oro,single,BSIT,
+CUST236,Maria Torres,1970-03-25,Pasig,Married,Graduate,104916
+CUST412,ANGELA FLORES,1971-03-24,quezon city,divorce,BSIT,
+CUST70,ANGELA DELA CRUZ,1992-02-05,Pasig,single,Graduate,78090
+CUST239,Maria Rivera,1984-12-03,Makati,single,Graduate,69248
+CUST338, Jose Dela Cruz ,1998-12-16,Iloilo,divorce,BSIT,
+CUST337,Mark Dela Cruz,1985-08-22,Iloilo,divorce,BSED,
+CUST144,Juan Flores,2005-12-24,Makati,single,BSCS,
+CUST521,Miguel Garcia,1974-06-10,Baguio,married,AB Psych,
+CUST494,Maria Flores,1985-01-15,makati,Married,BSED,
+CUST745,Juan Ramos,2000-10-25,Davao,divorce,BSIT,51671
+CUST513, Juan Rivera ,1982-08-10,Davao,married,BSIT,
+CUST63,Ana Santos,2003-12-07,cebu,married,BSCS,
+CUST145, Miguel Gonzales ,2004-07-12,Taguig,divorce,BSED,
+CUST413,ANA GARCIA,1986-11-28,Iloilo,married,AB Psych,
+CUST335,Juan Rivera,1987-07-03,Cebu,married,BSN,
+CUST152,Sofia Dela Cruz,1995-09-11,cagayan de oro,divorce,Graduate,94274
+CUST201,Angela Flores,1978-05-10,,Married,AB Psych,
+CUST124,Angela Ramos,1988-08-16,baguio,,AB Psych,47435
+CUST759,Miguel Dela Cruz,1974-03-20,Makati,single,Graduate,27915
+CUST679,JOSE REYES,1996-06-11,Baguio,married,BSBA,
+CUST746,Mark Gonzales,1970-09-14,Manila,divorce,Graduate,37939
+CUST421, Juan Rivera ,1997-04-30,Iloilo,Divorce,AB Psych,51368
+CUST608,Jose Gonzales,1984-09-17,Baguio,married,BSBA,
+CUST389,Angela Flores,2003-12-17,Taguig,married,BSBA,46013
+CUST105,LIZA GONZALES,1982-09-13,Taguig,single,BSED,53918
+CUST642,MARK SANTOS,1989-06-28,Baguio,married,BSCS,
+CUST629,Sofia Garcia,1998-05-05,Baguio,single,BSED,
+CUST426,Miguel Dela Cruz,1993-06-14,Taguig,divorce,BSIT,47853
+CUST122,Sofia Gonzales,1987-11-06,cebu,divorce,Graduate,55008
+CUST354, Maria Ramos ,1989-07-27,Makati,Divorce,BSCS,
+CUST767,Juan Ramos,1978-12-06,Iloilo,single,BSCS,
+CUST228,Maria Santos,1996-07-16,Iloilo,divorce,BSCS,16823
+CUST513, Liza Ramos ,2000-01-18,Cebu,single,BSBA,
+CUST177,Mark Garcia,1997-07-30,Quezon City,divorce,BSBA,
+CUST261, Jose Santos ,2003-05-23,Davao,married,BSED,
+CUST618, Juan Santos ,1977-06-10,Davao,Single,,
+CUST323,Ana Mendoza,1977-10-20,baguio,Married,BSED,
+CUST475,Angela Rivera,1996-03-03,manila,Married,BSN,
+CUST608,Maria Reyes,1990-10-03,Quezon City,single,AB Psych,27922
+CUST653,Carlos Flores,1984-10-05,Baguio,single,BSIT,
+CUST384,Sofia Torres,1992-08-27,Cagayan de Oro,Married,,
+CUST592, LIZA RAMOS ,1996-11-24,,single,BSN,
+CUST430, Angela Mendoza ,2005-08-21,Quezon City,married,BSED,
+CUST740, Liza Flores ,1972-04-24,Makati,single,AB Psych,
+CUST676,Carlos Ramos,2000-02-20,Cagayan de Oro,divorce,Graduate,33744
+CUST148,Mark Santos,1998-05-11,Makati,married,,
+CUST847,Jose Reyes,1970-08-28,Cebu,,BSCS,
+CUST150,Jose Dela Cruz,1993-10-31,Iloilo,single,BSCS,37725
+CUST901,Mark Ramos,1996-03-23,Baguio,single,,
+CUST600,Maria Mendoza,1998-08-22,cebu,divorce,AB Psych,
+CUST191,Mark Ramos,1992-09-16,Cagayan de Oro,Married,AB Psych,
+CUST850,Ana Santos,1974-01-12,Davao,single,BSED,49611
+CUST156, Mark Torres ,1986-07-06,Makati,single,,
+CUST774, JUAN GARCIA ,1981-11-12,Davao,divorce,BSN,
+CUST541,Jose Reyes,1994-11-28,quezon city,divorce,AB Psych,22066
+CUST110,Sofia Mendoza,1986-02-10,Iloilo,Single,BSCS,
+CUST276,Liza Garcia,1987-08-20,Cagayan de Oro,divorce,BSCS,32108
+CUST217,Miguel Gonzales,1997-11-25,Davao,single,BSCS,
+CUST771,MARIA SANTOS,1993-05-16,Makati,Single,BSBA,26816
+CUST727, Mark Santos ,1972-04-04,taguig,married,Graduate,87637
+CUST65,Maria Santos,1990-05-15,,divorce,BSBA,
+CUST104, Liza Reyes ,2003-10-12,Makati,Single,BSN,
+CUST871,Juan Dela Cruz,1978-08-22,Quezon City,divorce,BSED,
+CUST335,JUAN RAMOS,1990-03-28,taguig,divorce,BSED,15768
+CUST636,Miguel Garcia,1980-08-11,Pasig,divorce,,
+CUST630,Liza Dela Cruz,1975-10-25,Cebu,single,BSIT,
+CUST574, Miguel Dela Cruz ,1991-03-25,Quezon City,single,Graduate,61618
+CUST820, Jose Reyes ,1984-07-30,Pasig,single,AB Psych,55266
+CUST519, MIGUEL GARCIA ,1995-05-05,pasig,Single,BSIT,
+CUST376,Jose Dela Cruz,1993-03-02,,divorce,,
+CUST542,Miguel Gonzales,1999-07-14,Iloilo,married,Graduate,96299
+CUST422,ANGELA GARCIA,1979-08-29,Makati,divorce,AB Psych,
+CUST714, Mark Mendoza ,1997-12-13,Manila,single,BSN,58555
+CUST791, Juan Dela Cruz ,1994-05-03,manila,Married,BSED,
+CUST476,Liza Dela Cruz,1995-02-03,Pasig,divorce,,
+CUST647,Sofia Garcia,1981-05-07,Taguig,single,AB Psych,
+CUST520,CARLOS FLORES,1997-12-13,Quezon City,,BSED,48296
+CUST547,Miguel Reyes,1973-09-11,Pasig,married,AB Psych,
+CUST628,Maria Flores,1985-07-17,cagayan de oro,single,BSCS,
+CUST356,Juan Dela Cruz,1993-04-18,Manila,divorce,Graduate,32899
+CUST700,Jose Garcia,1998-11-17,quezon city,Single,BSIT,
+CUST414,Ana Torres,1996-10-09,cebu,married,Graduate,82243
+CUST57,Juan Dela Cruz,1980-03-03,Cebu,married,AB Psych,
+CUST702, LIZA RAMOS ,1993-04-02,Davao,married,BSED,
+CUST475,Angela Rivera,1996-03-03,manila,Married,BSN,
+CUST226,Maria Ramos,1978-06-01,,single,BSN,54712
+CUST124, MARIA FLORES ,1999-11-08,pasig,divorce,,
+CUST3,MARK GARCIA,1972-10-06,pasig,divorce,BSED,
+CUST855, Liza Mendoza ,1992-03-04,Quezon City,Single,BSIT,22673
+CUST368, Liza Garcia ,1981-04-16,Cagayan de Oro,Married,BSN,
+CUST726,Juan Reyes,1999-10-29,baguio,single,BSCS,
+CUST294,Carlos Rivera,1987-12-08,Cagayan de Oro,married,BSN,
+CUST337,Angela Reyes,2003-07-09,Cagayan de Oro,married,Graduate,91912
+CUST631,SOFIA RIVERA,1996-07-02,Makati,divorce,,
+CUST379,Liza Santos,1987-04-11,,divorce,BSN,58841
+CUST911,Angela Ramos,1998-09-28,Cebu,Married,BSN,52613
+CUST858,Juan Dela Cruz,2000-06-27,Cagayan de Oro,Married,BSED,47132
+CUST803, Mark Rivera ,1995-01-13,Cagayan de Oro,single,BSBA,25983
+CUST851, Angela Flores ,1973-08-16,Pasig,single,BSBA,55523
+CUST603,MIGUEL FLORES,1997-01-10,taguig,single,,
+CUST795,CARLOS TORRES,1996-04-17,Baguio,divorce,BSED,
+CUST425,Ana Gonzales,1999-11-15,,divorce,BSCS,24570
+CUST777,JOSE DELA CRUZ,1993-01-06,quezon city,Single,,
+CUST662,Angela Garcia,1974-04-24,Manila,single,BSBA,19942
+CUST667,SOFIA MENDOZA,1999-09-11,Cagayan de Oro,,AB Psych,
+CUST118,MARK DELA CRUZ,1977-04-16,Baguio,divorce,AB Psych,
+CUST426, Sofia Reyes ,2002-05-24,manila,divorce,BSBA,
+CUST698,Angela Garcia,1975-07-10,Davao,divorce,BSCS,
+CUST809,Juan Torres,2004-11-10,Quezon City,divorce,,
+CUST427,Miguel Flores,1989-10-20,Manila,,BSBA,
+CUST303,Sofia Santos,1980-02-19,Iloilo,Married,AB Psych,
+CUST340,Juan Reyes,1987-04-09,,married,BSCS,
+CUST93,MARIA DELA CRUZ,1972-03-02,Cebu,single,BSED,
+CUST855,LIZA SANTOS,1983-03-31,taguig,Married,BSBA,
+CUST574, Miguel Dela Cruz ,1991-03-25,Quezon City,single,Graduate,61618
+CUST171,Sofia Garcia,1978-12-22,Taguig,married,,
+CUST284,Mark Gonzales,1974-04-02,Cebu,single,BSIT,
+CUST854,Angela Gonzales,1990-04-17,Baguio,single,BSBA,20251
+CUST808,ANGELA FLORES,1972-06-13,Pasig,single,Graduate,77693
+CUST466,Carlos Garcia,2005-07-15,Iloilo,divorce,BSCS,
+CUST509,Ana Ramos,1985-01-25,cagayan de oro,married,BSN,
+CUST945,MARIA GARCIA,1995-08-28,Baguio,single,AB Psych,
+CUST226,Sofia Gonzales,1984-03-16,Cebu,divorce,BSBA,31628
+CUST685,Maria Torres,1977-10-03,quezon city,married,AB Psych,
+CUST683,Mark Gonzales,1991-02-05,baguio,Divorce,,
+CUST519, MIGUEL GARCIA ,1995-05-05,pasig,Single,BSIT,
+CUST598, Mark Garcia ,1984-07-09,quezon city,Married,BSN,
+CUST254,JUAN RIVERA,2001-09-04,Cebu,married,BSED,
+CUST103,Sofia Torres,2000-10-05,Quezon City,single,AB Psych,31194
+CUST436,Miguel Garcia,1971-12-20,Taguig,married,BSBA,23652
+CUST665,Angela Dela Cruz,1976-01-08,Baguio,divorce,BSBA,18644
+CUST657,Liza Reyes,1977-03-20,iloilo,single,BSCS,33276
+CUST167, Miguel Ramos ,1978-02-25,taguig,single,BSED,
+CUST523,MARIA TORRES,1979-02-08,Taguig,Single,BSED,
+CUST402,Jose Dela Cruz,1971-08-16,Makati,Married,BSIT,55177
+CUST18,CARLOS REYES,2002-12-04,Baguio,divorce,BSBA,
+CUST217,Miguel Gonzales,1997-11-25,Davao,single,BSCS,
+CUST379,Ana Rivera,2000-08-04,Cagayan de Oro,single,BSED,42349
+CUST835,Angela Rivera,1999-05-23,Iloilo,single,BSED,
+CUST941, Ana Reyes ,1982-10-09,Cebu,Married,,
+CUST365,Liza Garcia,1991-12-02,quezon city,divorce,BSED,
+CUST865,Miguel Gonzales,1997-01-11,Quezon City,single,Graduate,22578
+CUST278,Jose Flores,1981-10-28,Pasig,divorce,BSED,42694
+CUST356,MARIA DELA CRUZ,1980-09-24,Baguio,single,,
+CUST243,Jose Santos,1994-11-20,Iloilo,married,BSIT,
+CUST642,CARLOS FLORES,1970-02-05,Quezon City,divorce,BSN,
+CUST817,Liza Dela Cruz,1998-09-07,Pasig,divorce,BSBA,22763
+CUST733,Ana Garcia,1975-08-22,Davao,Single,AB Psych,
+CUST241,JOSE SANTOS,1995-09-17,Iloilo,married,,
+CUST16,Angela Garcia,1997-12-06,Iloilo,single,BSBA,19320
+CUST603,ANA SANTOS,1974-02-16,iloilo,Married,,
+CUST215, Sofia Reyes ,1988-09-08,Iloilo,divorce,Graduate,119838
+CUST699,CARLOS GARCIA,1986-03-04,Makati,divorce,AB Psych,
+CUST807,ANGELA GARCIA,1973-01-05,Iloilo,married,BSCS,
+CUST607,Sofia Reyes,1994-10-23,Iloilo,single,BSIT,
+CUST481,MARK GONZALES,1981-03-22,Quezon City,single,AB Psych,
+CUST565,Jose Flores,1991-10-21,Taguig,Married,,
+CUST609, Liza Santos ,1987-10-24,davao,married,BSCS,
+CUST151,Liza Flores,1997-01-29,Cebu,married,,
+CUST764,SOFIA SANTOS,1980-07-31,Quezon City,married,BSED,53300
+CUST314,Jose Santos,1995-06-19,pasig,married,BSIT,58910
+CUST617,JOSE FLORES,1991-10-28,makati,divorce,BSED,48279
+CUST617,LIZA TORRES,1972-02-16,Baguio,married,BSED,
+CUST588,Maria Rivera,1985-12-07,Baguio,divorce,BSED,
+CUST912,Jose Garcia,1975-09-16,Cebu,married,BSIT,
+CUST550,Sofia Flores,1996-07-05,davao,divorce,BSN,
+CUST571, Maria Torres ,1994-06-29,Taguig,divorce,BSN,40256
+CUST168,Ana Rivera,1976-11-16,Pasig,single,BSIT,
+CUST675,Angela Flores,1974-02-08,Iloilo,,BSIT,
+CUST524,Miguel Reyes,1994-07-09,makati,,AB Psych,
+CUST255,Miguel Reyes,1971-06-08,Pasig,single,,
+CUST408,Mark Gonzales,1986-10-12,Taguig,divorce,BSIT,
+CUST224,LIZA RIVERA,1997-07-31,Davao,single,BSIT,37935
+CUST927, Maria Dela Cruz ,1980-02-25,Quezon City,divorce,Graduate,62285
+CUST128,Mark Rivera,1993-07-11,Davao,Single,Graduate,63137
+CUST647,MARK REYES,2002-09-26,Quezon City,divorce,BSN,55867
+CUST799,MARK RAMOS,1981-04-25,manila,,AB Psych,31669
+CUST27,Jose Santos,1984-01-04,Manila,divorce,AB Psych,
+CUST424,SOFIA SANTOS,2002-08-06,Taguig,married,BSBA,
+CUST923,Mark Reyes,1995-01-29,quezon city,divorce,BSN,20325
+CUST730,Sofia Flores,1991-11-02,Manila,married,BSED,
+CUST774, JUAN GARCIA ,1981-11-12,Davao,divorce,BSN,
+CUST565,MARIA GARCIA,2001-02-03,Taguig,Divorce,BSCS,
+CUST356,MARIA DELA CRUZ,1980-09-24,Baguio,single,,
+CUST52, MARIA SANTOS ,1989-06-29,Davao,single,Graduate,68557
+CUST551,Mark Flores,1971-02-03,Iloilo,Divorce,BSCS,
+CUST290,Mark Flores,1987-12-14,Cebu,divorce,BSCS,
+CUST759, Miguel Garcia ,1983-12-25,Cebu,divorce,BSBA,
+CUST147,Juan Mendoza,1997-04-03,,divorce,BSED,
+CUST122, Carlos Mendoza ,1999-10-10,Baguio,married,BSED,
+CUST593,MARIA MENDOZA,2003-07-15,cebu,married,BSED,43102
+CUST506,Liza Gonzales,1977-11-27,Manila,single,BSBA,
+CUST381,Carlos Garcia,1971-05-09,Makati,divorce,BSIT,
+CUST449,Carlos Dela Cruz,1999-02-14,Makati,Married,BSED,
+CUST284,Miguel Ramos,1990-07-05,cagayan de oro,single,BSED,
+CUST409, Angela Mendoza ,1995-08-14,Quezon City,married,BSBA,
+CUST669,Angela Rivera,1998-05-03,Pasig,divorce,BSED,
+CUST860,Jose Ramos,1974-09-18,Manila,single,BSCS,50946
+CUST472,Mark Flores,1987-07-08,Baguio,married,BSN,
+CUST694,Juan Rivera,1999-03-04,Davao,married,BSED,23698
+CUST488,Angela Dela Cruz,2003-07-10,manila,divorce,BSED,
+CUST544,Maria Torres,2004-04-08,Iloilo,single,BSIT,
+CUST261,Miguel Santos,1994-01-15,Taguig,single,BSED,42485
+CUST806,MARK DELA CRUZ,1982-05-04,Davao,single,BSED,
+CUST757,Sofia Garcia,2000-04-24,Quezon City,single,BSED,56386
+CUST47,Carlos Torres,1989-07-24,Makati,married,BSCS,53481
+CUST285, SOFIA GONZALES ,1971-11-12,Cebu,,BSBA,
+CUST424,Ana Gonzales,1992-12-15,Makati,Single,AB Psych,24826
+CUST759, Angela Flores ,1979-06-15,Iloilo,divorce,Graduate,45258
+CUST841, Sofia Mendoza ,1979-09-06,Baguio,divorce,AB Psych,
+CUST193, Mark Flores ,1996-02-25,Baguio,single,BSBA,
+CUST634,Jose Flores,1972-01-23,Baguio,divorce,,
+CUST115,JUAN TORRES,1970-05-21,Cagayan de Oro,Divorce,Graduate,63660
+CUST544,Maria Torres,2004-04-08,Iloilo,single,BSIT,
+CUST535,MIGUEL MENDOZA,1975-07-02,pasig,single,BSCS,52733
+CUST24, Carlos Torres ,1991-10-19,Cebu,single,BSIT,15799
+CUST670,Sofia Mendoza,1993-03-14,Baguio,single,BSCS,45439
+CUST391,Ana Reyes,1996-10-14,Pasig,Single,BSBA,
+CUST401, Miguel Santos ,2005-07-09,Cagayan de Oro,divorce,BSBA,
+CUST574,Ana Dela Cruz,1994-10-19,Pasig,married,BSBA,
+CUST251,Sofia Ramos,1982-01-21,Pasig,Divorce,BSIT,
+CUST200,MARK DELA CRUZ,1985-02-09,Davao,single,BSBA,
+CUST458, ANGELA TORRES ,1977-03-14,Cebu,divorce,BSIT,
+CUST465, Angela Reyes ,2000-10-09,Manila,,BSN,15555
+CUST719,ANGELA TORRES,1984-01-29,Manila,divorce,Graduate,29087
+CUST528,Jose Garcia,1990-11-08,cagayan de oro,married,AB Psych,
+CUST525,Angela Garcia,1999-07-22,Davao,divorce,BSED,
+CUST565,Jose Ramos,1994-09-07,Manila,married,BSIT,
+CUST371, JUAN REYES ,1977-01-15,Quezon City,Divorce,BSCS,29885
+CUST290,Angela Garcia,1977-12-06,Manila,single,BSCS,
+CUST820,Carlos Dela Cruz,1990-01-15,Makati,single,BSCS,
+CUST219,Carlos Garcia,2001-06-19,Taguig,married,Graduate,39155
+CUST334, Sofia Reyes ,1990-10-29,Makati,married,BSIT,
+CUST648,Maria Dela Cruz,1999-01-27,Davao,Married,BSN,
+CUST384,Angela Mendoza,1996-05-16,Pasig,single,BSBA,
+CUST406,ANA MENDOZA,1984-12-29,Quezon City,Single,Graduate,36276
+CUST730,Miguel Reyes,2003-04-11,,single,,
+CUST309,Mark Flores,1995-01-07,Pasig,divorce,BSN,
+CUST206,Sofia Rivera,1990-06-03,cagayan de oro,divorce,BSN,
+CUST536,Miguel Santos,1988-08-04,Baguio,Married,Graduate,104677
+CUST735,Jose Flores,1980-09-24,Cagayan de Oro,divorce,,
+CUST156,Carlos Gonzales,1985-07-19,Makati,,BSED,
+CUST508,Miguel Torres,1996-08-22,Quezon City,single,,
+CUST635, Liza Ramos ,1997-09-17,Pasig,divorce,BSBA,
+CUST559,Juan Reyes,1991-04-14,Quezon City,married,BSCS,
+CUST261, SOFIA RIVERA ,1998-07-01,Quezon City,Divorce,BSBA,
+CUST791,Ana Mendoza,1974-05-11,Cebu,single,BSIT,
+CUST539, MARK MENDOZA ,1993-05-07,Manila,single,Graduate,77801
+CUST22,Liza Garcia,2002-02-16,Makati,married,BSBA,50411
+CUST44, Jose Garcia ,1970-11-12,Cebu,divorce,AB Psych,17182
+CUST941, Juan Santos ,1970-11-29,cagayan de oro,Married,Graduate,20761
+CUST681,Liza Garcia,1990-03-02,Baguio,married,,
+CUST720,Liza Garcia,2004-07-30,manila,Single,,
+CUST684, Liza Flores ,1990-10-25,Manila,divorce,,
+CUST464,Juan Rivera,1976-05-27,Quezon City,divorce,Graduate,102420
+CUST455,Jose Flores,1972-07-18,Taguig,divorce,Graduate,68390
+CUST484,JOSE RAMOS,1976-02-17,Davao,divorce,Graduate,88753
+CUST498,Maria Mendoza,2005-09-21,manila,single,AB Psych,37721
+CUST537,Mark Gonzales,1997-04-09,Taguig,divorce,,
+CUST15,Angela Torres,1978-03-14,Iloilo,divorce,BSIT,
+CUST98,ANGELA FLORES,1978-01-06,Baguio,divorce,BSBA,
+CUST362,Angela Mendoza,1997-04-24,makati,divorce,AB Psych,51764
+CUST404,Juan Ramos,2005-01-19,cagayan de oro,single,Graduate,37563
+CUST873,Mark Gonzales,1970-12-03,Manila,married,BSCS,
+CUST317, MIGUEL GARCIA ,1987-10-21,Iloilo,single,BSED,
+CUST97,Liza Garcia,2001-12-09,Cagayan de Oro,divorce,BSCS,
+CUST495,Ana Reyes,1999-01-30,Quezon City,Divorce,BSCS,
+CUST199,JOSE TORRES,1993-03-15,Baguio,divorce,BSCS,
+CUST628,Juan Mendoza,2002-12-11,Cebu,single,BSED,
+CUST212,Angela Reyes,1979-10-09,Pasig,single,Graduate,111680
+CUST655,Mark Rivera,2005-03-06,Baguio,divorce,BSED,59815
+CUST870,Carlos Garcia,1986-06-11,Baguio,married,BSBA,
+CUST917,Carlos Gonzales,1986-07-09,Cagayan de Oro,married,Graduate,95916
+CUST206,Mark Rivera,1990-04-13,Davao,married,,
+CUST691, Liza Gonzales ,1976-07-23,Cebu,divorce,BSN,57485
+CUST434,JUAN MENDOZA,1998-09-26,Baguio,divorce,BSED,
+CUST865,Carlos Mendoza,2001-10-16,Cagayan de Oro,divorce,Graduate,60527
+CUST906, Jose Mendoza ,1993-04-20,Cagayan de Oro,married,AB Psych,46042
+CUST228,Maria Flores,1990-10-26,cagayan de oro,divorce,BSIT,59922
+CUST910,Ana Rivera,1975-02-17,cagayan de oro,married,BSBA,
+CUST574,Angela Rivera,1976-06-04,Pasig,Single,Graduate,75635
+CUST425, ANA FLORES ,1997-05-24,Quezon City,single,BSN,
+CUST360,Ana Rivera,1975-09-01,Quezon City,single,BSCS,
+CUST254,JUAN RIVERA,2001-09-04,Cebu,married,BSED,
+CUST305,Sofia Flores,1971-11-30,Quezon City,divorce,BSIT,
+CUST687, Liza Torres ,2003-05-03,Baguio,married,Graduate,80380
+CUST694, Liza Mendoza ,2002-04-06,quezon city,married,BSN,
+CUST402,Jose Dela Cruz,1978-12-30,Pasig,Single,BSCS,
+CUST633,Mark Reyes,1972-02-09,Manila,single,BSN,
+CUST767,Carlos Flores,2002-10-29,Pasig,married,BSCS,
+CUST859, MARIA RIVERA ,1980-03-10,Pasig,Divorce,BSN,50499
+CUST685,Maria Santos,1970-09-24,davao,Married,BSN,
+CUST628,JUAN MENDOZA,1985-11-21,Makati,Divorce,BSBA,
+CUST640,Juan Gonzales,1984-12-31,Manila,single,,
+CUST446,Carlos Santos,1999-08-30,Makati,Single,BSED,
+CUST915,Ana Reyes,1982-01-04,Iloilo,married,Graduate,45824
+CUST258, Carlos Flores ,1986-03-29,Baguio,divorce,AB Psych,40955
+CUST533,Jose Ramos,1988-05-31,,married,BSN,
+CUST785,MIGUEL GARCIA,1972-06-24,Cebu,married,,
+CUST172,Jose Garcia,1975-10-18,Iloilo,divorce,BSIT,
+CUST267, Maria Rivera ,1979-03-27,Manila,divorce,BSED,30670
+CUST550,Angela Santos,1987-04-28,Davao,married,Graduate,65898
+CUST534, Jose Garcia ,1987-02-08,Taguig,married,BSN,
+CUST92, Miguel Mendoza ,1998-04-19,Quezon City,divorce,BSED,
+CUST750,Miguel Garcia,1996-09-16,Iloilo,married,,
+CUST317,Liza Torres,1992-10-04,Pasig,,BSIT,
+CUST554,Angela Mendoza,1982-02-19,Quezon City,single,BSCS,
+CUST511, Maria Garcia ,2002-03-23,Pasig,married,BSIT,25072
+CUST595,Juan Torres,2005-01-06,Quezon City,Married,,
+CUST106,Juan Flores,1978-06-30,makati,single,Graduate,33943
+CUST532, SOFIA DELA CRUZ ,1980-06-01,Baguio,single,AB Psych,
+CUST90,MIGUEL MENDOZA,2002-06-09,davao,single,BSIT,
+CUST183,Mark Mendoza,1992-07-21,Taguig,married,Graduate,21344
+CUST842, Miguel Garcia ,1979-06-04,Cebu,married,Graduate,74021
+CUST190,Juan Dela Cruz,1994-06-09,taguig,single,BSN,19798
+CUST860,Maria Santos,1988-10-31,Makati,single,Graduate,50190
+CUST277,LIZA GONZALES,1985-06-01,davao,divorce,Graduate,83773
+CUST585,Miguel Rivera,1988-02-21,quezon city,divorce,Graduate,58525
+CUST224,Maria Gonzales,1990-02-03,makati,Married,BSBA,48573
+CUST48,Mark Torres,1972-11-25,,single,,
+CUST351, Miguel Dela Cruz ,1988-09-13,Cebu,married,,
+CUST222,MARIA RIVERA,1971-02-05,Manila,divorce,BSED,28423
+CUST207,Miguel Flores,1970-02-27,Pasig,married,BSN,
+CUST916,Jose Mendoza,1982-01-19,Pasig,divorce,Graduate,104251
+CUST517, Juan Rivera ,2004-09-17,Baguio,single,BSED,
+CUST338, Jose Dela Cruz ,1998-12-16,Iloilo,divorce,BSIT,
+CUST683,Mark Gonzales,1991-02-05,baguio,Divorce,,
+CUST363,Angela Mendoza,1980-09-30,Quezon City,married,BSCS,
+CUST849,Liza Santos,1976-12-18,Taguig,married,,
+CUST190,Juan Dela Cruz,1994-06-09,taguig,single,BSN,19798
+CUST306, Maria Gonzales ,1982-10-01,Iloilo,single,BSBA,
+CUST65,JOSE REYES,2000-11-12,davao,divorce,,
+CUST462,Carlos Dela Cruz,1976-04-02,Manila,single,BSIT,
+CUST679,MARK GONZALES,1980-01-03,Pasig,Divorce,,
+CUST887,Angela Rivera,2003-07-31,Pasig,divorce,AB Psych,30698
+CUST594,Miguel Gonzales,1970-03-03,Cebu,married,BSBA,
+CUST629,Angela Dela Cruz,1983-06-07,taguig,married,,
+CUST117,Jose Gonzales,1978-06-08,Cebu,single,,
+CUST87, Ana Rivera ,1985-07-31,Baguio,single,,
+CUST270,Liza Flores,2000-09-03,manila,married,BSCS,
+CUST774,Juan Rivera,1992-01-13,Taguig,divorce,BSCS,
+CUST522,Ana Reyes,1974-05-08,Iloilo,Married,BSCS,
+CUST99,Angela Flores,2003-01-30,cagayan de oro,single,BSCS,35768
+CUST46,Ana Ramos,1972-10-17,Iloilo,married,BSCS,
+CUST199,Carlos Santos,1990-07-27,Quezon City,married,BSIT,
+CUST404,CARLOS TORRES,1975-11-20,Iloilo,married,BSCS,
+CUST512, Maria Reyes ,1999-10-02,Cebu,Married,BSED,
+CUST323,Angela Ramos,1985-07-17,cebu,divorce,BSCS,
+CUST749,Miguel Rivera,1972-05-01,taguig,Married,AB Psych,39059
+CUST21,Angela Mendoza,1988-08-21,Cagayan de Oro,divorce,BSN,
+CUST913,Liza Flores,1990-09-22,Pasig,married,BSBA,54212
+CUST36,Mark Garcia,1999-03-15,,single,AB Psych,
+CUST387,Carlos Reyes,1986-12-17,Cagayan de Oro,,BSIT,
+CUST487,CARLOS DELA CRUZ,1976-11-07,Makati,single,AB Psych,48643
+CUST695,Juan Reyes,1972-05-04,Manila,divorce,AB Psych,52574
+CUST870,Miguel Rivera,2004-06-25,Iloilo,single,BSIT,49864
+CUST189,Juan Dela Cruz,1970-11-14,Makati,single,BSIT,59744
+CUST692,LIZA SANTOS,2004-06-24,Taguig,divorce,BSED,
+CUST700,Sofia Rivera,2003-12-09,Makati,divorce,Graduate,65747
+CUST637,Angela Flores,1981-09-06,cagayan de oro,married,Graduate,69809
+CUST694, Liza Flores ,1989-10-15,Davao,married,BSCS,
+CUST593,Liza Mendoza,2005-11-03,taguig,divorce,BSCS,
+CUST486, JOSE GONZALES ,1986-07-11,,single,BSED,43925
+CUST486,Sofia Dela Cruz,1973-12-19,Manila,married,AB Psych,
+CUST54, JUAN TORRES ,1995-02-10,Makati,married,BSBA,40751
+CUST391,Miguel Reyes,1983-06-07,cagayan de oro,single,BSCS,
+CUST219,Angela Dela Cruz,1978-04-27,Davao,married,BSED,35703
+CUST63,Ana Santos,2003-12-07,cebu,married,BSCS,
+CUST378,Ana Gonzales,1991-05-25,Taguig,married,BSCS,
+CUST285, MARIA MENDOZA ,1991-03-26,Cebu,single,BSN,
+CUST503,Maria Santos,1993-09-04,quezon city,single,AB Psych,
+CUST674,Juan Rivera,1985-02-21,Quezon City,single,BSBA,
+CUST676,Liza Santos,2000-04-21,Quezon City,married,BSCS,26580
+CUST590, Angela Santos ,1987-07-30,Makati,divorce,,
+CUST543,Maria Ramos,2001-12-29,Makati,divorce,BSCS,
+CUST699,Ana Torres,1975-04-12,Cagayan de Oro,,BSCS,
+CUST678,SOFIA MENDOZA,1980-12-07,Iloilo,Single,BSN,
+CUST379,JOSE REYES,1977-10-05,Baguio,Single,BSCS,58236
+CUST589,Ana Gonzales,1979-12-04,Manila,Single,BSED,
+CUST653,Juan Rivera,1996-10-21,baguio,married,,
+CUST342,Liza Torres,1983-07-15,Pasig,single,BSBA,
+CUST910,Mark Flores,1992-12-10,makati,Single,BSCS,53286
+CUST145,Juan Rivera,1993-03-24,Cagayan de Oro,married,BSCS,52767
+CUST570, Carlos Dela Cruz ,1996-02-17,Pasig,divorce,AB Psych,51695
+CUST504,Jose Flores,1977-11-14,Baguio,single,BSCS,
+CUST104, Liza Reyes ,2003-10-12,Makati,Single,BSN,
+CUST314, Liza Flores ,1998-04-07,cagayan de oro,single,BSN,
+CUST481,Miguel Garcia,1995-12-03,Davao,divorce,,
+CUST8,Maria Reyes,1974-06-30,Cagayan de Oro,single,BSCS,54068
+CUST461,Angela Garcia,1995-11-01,Makati,married,AB Psych,
+CUST72,Juan Torres,1975-02-13,manila,divorce,Graduate,52971
+CUST562,Sofia Mendoza,1987-11-06,Baguio,married,BSIT,42853
+CUST611,MIGUEL RIVERA,1984-02-19,Manila,married,BSED,
+CUST227,Maria Santos,1992-02-15,Cebu,married,BSIT,
+CUST78,Maria Dela Cruz,1990-05-10,iloilo,divorce,BSN,
+CUST243,Juan Rivera,1995-05-25,Makati,married,BSCS,
+CUST493, Maria Torres ,1997-08-06,Quezon City,divorce,BSED,
+CUST198,Maria Mendoza,1978-11-15,iloilo,Divorce,BSBA,
+CUST424,Sofia Reyes,1980-01-26,Cebu,,AB Psych,
+CUST920,Liza Garcia,1970-10-20,Pasig,divorce,,
+CUST330,Ana Mendoza,1979-03-13,,divorce,BSCS,27068
+CUST640,Miguel Ramos,1981-12-17,cagayan de oro,Married,BSN,41312
+CUST136,Juan Reyes,1970-11-18,Cagayan de Oro,divorce,AB Psych,
+CUST265,Maria Dela Cruz,1982-06-05,baguio,divorce,AB Psych,
+CUST752,Miguel Garcia,2004-06-27,Cebu,single,BSCS,
+CUST945,Mark Garcia,1994-05-14,Pasig,divorce,BSN,
+CUST159, Ana Ramos ,1984-09-09,Iloilo,divorce,BSBA,
+CUST399,Miguel Reyes,2005-06-04,Pasig,single,BSIT,44021
+CUST384, MARIA DELA CRUZ ,1970-05-27,Cagayan de Oro,Divorce,AB Psych,25244
+CUST901,Mark Ramos,1996-03-23,Baguio,single,,
+CUST358,Angela Santos,1985-04-01,Baguio,married,Graduate,38010
+CUST177, JUAN GARCIA ,1994-07-18,Cagayan de Oro,,AB Psych,34345
+CUST194,Sofia Santos,1975-01-20,Manila,single,BSED,47184
+CUST442, Miguel Reyes ,1986-08-22,Taguig,divorce,AB Psych,
+CUST898,Maria Dela Cruz,1971-09-26,Baguio,divorce,BSN,
+CUST232, Ana Reyes ,1972-12-26,taguig,married,BSCS,52489
+CUST800,Liza Rivera,2001-04-23,Manila,married,BSIT,21690
+CUST52,ANGELA MENDOZA,1994-10-16,makati,divorce,BSED,43795
+CUST408, Angela Rivera ,1994-07-30,Pasig,married,AB Psych,29517
+CUST630,Mark Santos,1987-07-09,Iloilo,divorce,,
+CUST821, Jose Santos ,1971-04-26,Makati,divorce,BSED,
+CUST447,MIGUEL FLORES,2003-07-25,Pasig,single,BSIT,
+CUST20,MIGUEL GONZALES,1993-03-09,makati,divorce,,
+CUST153,Maria Reyes,1971-11-03,Cebu,Single,BSBA,37051
